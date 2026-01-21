@@ -1,5 +1,761 @@
 [
   {
+  "id": "baiyou_suru",
+  "kanji": "培養",
+  "furigana": "ばいよう",
+  "romaji": "baiyou suru",
+  "definition_es": "cultivar, criar, desarrollar, fomentar",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "培養する",
+          "furigana": "ばいよう",
+          "romaji": "baiyou suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "培養します",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "培養しない",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "培養しません",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "培養した",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "培養しました",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "培養しなかった",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "培養しませんでした",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "培養して",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "培養しなくて",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "培養しよう",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "培養しましょう",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "培養できる",
+          "furigana": "ばいよう",
+          "romaji": "baiyou dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "培養できます",
+          "furigana": "ばいよう",
+          "romaji": "baiyou dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "培養できない",
+          "furigana": "ばいよう",
+          "romaji": "baiyou dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "培養できません",
+          "furigana": "ばいよう",
+          "romaji": "baiyou dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "培養される",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "培養されます",
+          "furigana": "ばいよう",
+          "romaji": "baiyou saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "培養されない",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "培養されません",
+          "furigana": "ばいよう",
+          "romaji": "baiyou saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "培養させる",
+          "furigana": "ばいよう",
+          "romaji": "baiyou saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "培養させます",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "培養させない",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "培養させません",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "培養せよ/培養しろ",
+          "furigana": "ばいようせよ",
+          "romaji": "baiyou seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "培養してください",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "培養するな",
+          "furigana": "ばいよう",
+          "romaji": "baiyou suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "培養しないでください",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "培養すれば",
+          "furigana": "ばいよう",
+          "romaji": "baiyou sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "培養しなければ",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "培養したら",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "培養しなかったら",
+          "furigana": "ばいよう",
+          "romaji": "baiyou shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "kangen_suru",
+  "kanji": "還元",
+  "furigana": "かんげん",
+  "romaji": "kangen suru",
+  "definition_es": "reducir, devolver, convertir de nuevo, retrotraer a un estado más básico",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "還元する",
+          "furigana": "かんげん",
+          "romaji": "kangen suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "還元します",
+          "furigana": "かんげん",
+          "romaji": "kangen shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "還元しない",
+          "furigana": "かんげん",
+          "romaji": "kangen shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "還元しません",
+          "furigana": "かんげん",
+          "romaji": "kangen shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "還元した",
+          "furigana": "かんげん",
+          "romaji": "kangen shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "還元しました",
+          "furigana": "かんげん",
+          "romaji": "kangen shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "還元しなかった",
+          "furigana": "かんげん",
+          "romaji": "kangen shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "還元しませんでした",
+          "furigana": "かんげん",
+          "romaji": "kangen shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "還元して",
+          "furigana": "かんげん",
+          "romaji": "kangen shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "還元しなくて",
+          "furigana": "かんげん",
+          "romaji": "kangen shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "還元しよう",
+          "furigana": "かんげん",
+          "romaji": "kangen shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "還元しましょう",
+          "furigana": "かんげん",
+          "romaji": "kangen shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "還元できる",
+          "furigana": "かんげん",
+          "romaji": "kangen dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "還元できます",
+          "furigana": "かんげん",
+          "romaji": "kangen dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "還元できない",
+          "furigana": "かんげん",
+          "romaji": "kangen dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "還元できません",
+          "furigana": "かんげん",
+          "romaji": "kangen dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "還元される",
+          "furigana": "かんげん",
+          "romaji": "kangen sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "還元されます",
+          "furigana": "かんげん",
+          "romaji": "kangen saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "還元されない",
+          "furigana": "かんげん",
+          "romaji": "kangen sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "還元されません",
+          "furigana": "かんげん",
+          "romaji": "kangen saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "還元させる",
+          "furigana": "かんげん",
+          "romaji": "kangen saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "還元させます",
+          "furigana": "かんげん",
+          "romaji": "kangen sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "還元させない",
+          "furigana": "かんげん",
+          "romaji": "kangen sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "還元させません",
+          "furigana": "かんげん",
+          "romaji": "kangen sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "還元せよ/還元しろ",
+          "furigana": "かんげんせよ",
+          "romaji": "kangen seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "還元してください",
+          "furigana": "かんげん",
+          "romaji": "kangen shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "還元するな",
+          "furigana": "かんげん",
+          "romaji": "kangen suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "還元しないでください",
+          "furigana": "かんげん",
+          "romaji": "kangen shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "還元すれば",
+          "furigana": "かんげん",
+          "romaji": "kangen sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "還元しなければ",
+          "furigana": "かんげん",
+          "romaji": "kangen shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "還元したら",
+          "furigana": "かんげん",
+          "romaji": "kangen shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "還元しなかったら",
+          "furigana": "かんげん",
+          "romaji": "kangen shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "kyoka_suru",
+  "kanji": "許可",
+  "furigana": "きょか",
+  "romaji": "kyoka suru",
+  "definition_es": "permitir, autorizar, dar permiso",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "許可する",
+          "furigana": "きょか",
+          "romaji": "kyoka suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "許可します",
+          "furigana": "きょか",
+          "romaji": "kyoka shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "許可しない",
+          "furigana": "きょか",
+          "romaji": "kyoka shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "許可しません",
+          "furigana": "きょか",
+          "romaji": "kyoka shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "許可した",
+          "furigana": "きょか",
+          "romaji": "kyoka shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "許可しました",
+          "furigana": "きょか",
+          "romaji": "kyoka shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "許可しなかった",
+          "furigana": "きょか",
+          "romaji": "kyoka shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "許可しませんでした",
+          "furigana": "きょか",
+          "romaji": "kyoka shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "許可して",
+          "furigana": "きょか",
+          "romaji": "kyoka shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "許可しなくて",
+          "furigana": "きょか",
+          "romaji": "kyoka shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "許可しよう",
+          "furigana": "きょか",
+          "romaji": "kyoka shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "許可しましょう",
+          "furigana": "きょか",
+          "romaji": "kyoka shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "許可できる",
+          "furigana": "きょか",
+          "romaji": "kyoka dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "許可できます",
+          "furigana": "きょか",
+          "romaji": "kyoka dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "許可できない",
+          "furigana": "きょか",
+          "romaji": "kyoka dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "許可できません",
+          "furigana": "きょか",
+          "romaji": "kyoka dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "許可される",
+          "furigana": "きょか",
+          "romaji": "kyoka sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "許可されます",
+          "furigana": "きょか",
+          "romaji": "kyoka saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "許可されない",
+          "furigana": "きょか",
+          "romaji": "kyoka sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "許可されません",
+          "furigana": "きょか",
+          "romaji": "kyoka saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "許可させる",
+          "furigana": "きょか",
+          "romaji": "kyoka saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "許可させます",
+          "furigana": "きょか",
+          "romaji": "kyoka sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "許可させない",
+          "furigana": "きょか",
+          "romaji": "kyoka sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "許可させません",
+          "furigana": "きょか",
+          "romaji": "kyoka sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "許可せよ/許可しろ",
+          "furigana": "きょかせよ",
+          "romaji": "kyoka seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "許可してください",
+          "furigana": "きょか",
+          "romaji": "kyoka shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "許可するな",
+          "furigana": "きょか",
+          "romaji": "kyoka suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "許可しないでください",
+          "furigana": "きょか",
+          "romaji": "kyoka shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "許可すれば",
+          "furigana": "きょか",
+          "romaji": "kyoka sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "許可しなければ",
+          "furigana": "きょか",
+          "romaji": "kyoka shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "許可したら",
+          "furigana": "きょか",
+          "romaji": "kyoka shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "許可しなかったら",
+          "furigana": "きょか",
+          "romaji": "kyoka shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
   "id": "hansou_suru",
   "kanji": "搬送",
   "furigana": "はんそう",
@@ -7694,6 +8450,7 @@
   }
 }
 ]
+
 
 
 
