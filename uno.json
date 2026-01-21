@@ -1,5 +1,257 @@
 [
   {
+  "id": "nyuushu suru",
+  "kanji": "入手",
+  "furigana": "にゅうしゅ",
+  "romaji": "nyuushu suru",
+  "definition_es": "obtener, conseguir, hacerse con algo, adquirir",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "入手する",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "入手します",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "入手しない",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "入手しません",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "入手した",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "入手しました",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "入手しなかった",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "入手しませんでした",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "入手して",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "入手しなくて",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "入手しよう",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "入手しましょう",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "入手できる",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "入手できます",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "入手できない",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "入手できません",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "入手される",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "入手されます",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "入手されない",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "入手されません",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "入手させる",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "入手させます",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "入手させない",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "入手させません",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "入手せよ/入手しろ",
+          "furigana": "にゅうしゅせよ",
+          "romaji": "nyuushu seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "入手してください",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "入手するな",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "入手しないでください",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "入手すれば",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "入手しなければ",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "入手したら",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "入手しなかったら",
+          "furigana": "にゅうしゅ",
+          "romaji": "nyuushu shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
   "id": "yobidasu",
   "kanji": "呼",
   "furigana": "よ",
@@ -754,4 +1006,5 @@
   }
 }
 ]
+
 
