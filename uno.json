@@ -1,5 +1,257 @@
 [
   {
+  "id": "ryokou_suru",
+  "kanji": "旅行",
+  "furigana": "りょこう",
+  "romaji": "ryokou suru",
+  "definition_es": "viajar; hacer un viaje",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "旅行する",
+          "furigana": "りょこう",
+          "romaji": "ryokou suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "旅行します",
+          "furigana": "りょこう",
+          "romaji": "ryokou shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "旅行しない",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "旅行しません",
+          "furigana": "りょこう",
+          "romaji": "ryokou shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "旅行した",
+          "furigana": "りょこう",
+          "romaji": "ryokou shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "旅行しました",
+          "furigana": "りょこう",
+          "romaji": "ryokou shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "旅行しなかった",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "旅行しませんでした",
+          "furigana": "りょこう",
+          "romaji": "ryokou shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "旅行して",
+          "furigana": "りょこう",
+          "romaji": "ryokou shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "旅行しなくて",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "旅行しよう",
+          "furigana": "りょこう",
+          "romaji": "ryokou shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "旅行しましょう",
+          "furigana": "りょこう",
+          "romaji": "ryokou shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "旅行できる",
+          "furigana": "りょこう",
+          "romaji": "ryokou dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "旅行できます",
+          "furigana": "りょこう",
+          "romaji": "ryokou dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "旅行できない",
+          "furigana": "りょこう",
+          "romaji": "ryokou dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "旅行できません",
+          "furigana": "りょこう",
+          "romaji": "ryokou dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "旅行される",
+          "furigana": "りょこう",
+          "romaji": "ryokou sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "旅行されます",
+          "furigana": "りょこう",
+          "romaji": "ryokou saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "旅行されない",
+          "furigana": "りょこう",
+          "romaji": "ryokou sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "旅行されません",
+          "furigana": "りょこう",
+          "romaji": "ryokou saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "旅行させる",
+          "furigana": "りょこう",
+          "romaji": "ryokou saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "旅行させます",
+          "furigana": "りょこう",
+          "romaji": "ryokou sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "旅行させない",
+          "furigana": "りょこう",
+          "romaji": "ryokou sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "旅行させません",
+          "furigana": "りょこう",
+          "romaji": "ryokou sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "旅行せよ/旅行しろ",
+          "furigana": "りょこうせよ",
+          "romaji": "ryokou seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "旅行してください",
+          "furigana": "りょこう",
+          "romaji": "ryokou shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "旅行するな",
+          "furigana": "りょこう",
+          "romaji": "ryokou suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "旅行しないでください",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "旅行すれば",
+          "furigana": "りょこう",
+          "romaji": "ryokou sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "旅行しなければ",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "旅行したら",
+          "furigana": "りょこう",
+          "romaji": "ryokou shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "旅行しなかったら",
+          "furigana": "りょこう",
+          "romaji": "ryokou shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
   "id": "nyuushu suru",
   "kanji": "入手",
   "furigana": "にゅうしゅ",
@@ -1006,5 +1258,6 @@
   }
 }
 ]
+
 
 
