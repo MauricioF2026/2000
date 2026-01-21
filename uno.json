@@ -1,0 +1,504 @@
+[
+{
+  "id": "kataru",
+  "kanji": "語",
+  "furigana": "かた",
+  "romaji": "kataru",
+  "definition_es": "hablar; contar; decir",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "語る",
+          "furigana": "かた",
+          "romaji": "kataru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "語ります",
+          "furigana": "かた",
+          "romaji": "katarimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "語らない",
+          "furigana": "かた",
+          "romaji": "kataranai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "語りません",
+          "furigana": "かた",
+          "romaji": "katarimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "語った",
+          "furigana": "かた",
+          "romaji": "katatta"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "語りました",
+          "furigana": "かた",
+          "romaji": "katarimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "語らなかった",
+          "furigana": "かた",
+          "romaji": "kataranakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "語りませんでした",
+          "furigana": "かた",
+          "romaji": "katarimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "語って",
+          "furigana": "かた",
+          "romaji": "katatte"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "語らなくて",
+          "furigana": "かた",
+          "romaji": "kataranakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "語ろう",
+          "furigana": "かた",
+          "romaji": "katarou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "語りましょう",
+          "furigana": "かた",
+          "romaji": "katarimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "語れる",
+          "furigana": "かた",
+          "romaji": "katareru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "語れます",
+          "furigana": "かた",
+          "romaji": "kataremasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "語れない",
+          "furigana": "かた",
+          "romaji": "katarenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "語れません",
+          "furigana": "かた",
+          "romaji": "kataremasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "語られる",
+          "furigana": "かた",
+          "romaji": "katarareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "語られます",
+          "furigana": "かた",
+          "romaji": "katararemasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "語られない",
+          "furigana": "かた",
+          "romaji": "katararenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "語られません",
+          "furigana": "かた",
+          "romaji": "katararemasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "語らせる",
+          "furigana": "かた",
+          "romaji": "kataraseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "語らせます",
+          "furigana": "かた",
+          "romaji": "katarasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "語らせない",
+          "furigana": "かた",
+          "romaji": "katarasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "語らせません",
+          "furigana": "かた",
+          "romaji": "katarasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "語れ",
+          "furigana": "かた",
+          "romaji": "katare"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "語ってください",
+          "furigana": "かた",
+          "romaji": "katatte kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "語るな",
+          "furigana": "かた",
+          "romaji": "kataruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "語らないでください",
+          "furigana": "かた",
+          "romaji": "kataranaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "語れば",
+          "furigana": "かた",
+          "romaji": "katareba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "語れなければ",
+          "furigana": "かた",
+          "romaji": "katarenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "語ったら",
+          "furigana": "かた",
+          "romaji": "katattara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "語らなかったら",
+          "furigana": "かた",
+          "romaji": "kataranakattara"
+        }
+      ]
+    }
+  }
+},
+{
+  "id": "Oyobosu",
+  "kanji": "及",
+  "furigana": "およ",
+  "romaji": "oyobosu",
+  "definition_es": "tener; ejercer; acarrear",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "及ぼす",
+          "furigana": "およ",
+          "romaji": "oyobosu"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "及ぼします",
+          "furigana": "およ",
+          "romaji": "oyoboshimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "及ぼさない",
+          "furigana": "およ",
+          "romaji": "oyobosanai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "及ぼしません",
+          "furigana": "およ",
+          "romaji": "oyoboshimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "及ぼした",
+          "furigana": "およ",
+          "romaji": "oyoboshita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "及ぼしました",
+          "furigana": "およ",
+          "romaji": "oyoboshimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "及ぼさなかった",
+          "furigana": "およ",
+          "romaji": "oyobosanakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "及ぼしませんでした",
+          "furigana": "およ",
+          "romaji": "oyoboshimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "及ぼして",
+          "furigana": "およ",
+          "romaji": "oyoboshite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "及ぼさなくて",
+          "furigana": "およ",
+          "romaji": "oyobosanakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "及ぼそう",
+          "furigana": "およ",
+          "romaji": "oyobosou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "及ぼしましょう",
+          "furigana": "およ",
+          "romaji": "oyoboshimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "及ぼせる",
+          "furigana": "およ",
+          "romaji": "oyoboseru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "及ぼせます",
+          "furigana": "およ",
+          "romaji": "oyobosemasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "及ぼせない",
+          "furigana": "およ",
+          "romaji": "oyobosenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "及ぼせません",
+          "furigana": "およ",
+          "romaji": "oyobosemasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "及ぼされる",
+          "furigana": "およ",
+          "romaji": "oyobosareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "及ぼされます",
+          "furigana": "およ",
+          "romaji": "oyobosaremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "及ぼされない",
+          "furigana": "およ",
+          "romaji": "oyobosarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "及ぼされません",
+          "furigana": "およ",
+          "romaji": "oyobosaremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "及ぼさせる",
+          "furigana": "およ",
+          "romaji": "oyobosaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "及ぼさせます",
+          "furigana": "およ",
+          "romaji": "oyobosasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "及ぼさせない",
+          "furigana": "およ",
+          "romaji": "oyobosasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "及ぼさせません",
+          "furigana": "およ",
+          "romaji": "oyobosasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "及ぼせ",
+          "furigana": "およ",
+          "romaji": "oyobose"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "及ぼしてください",
+          "furigana": "およ",
+          "romaji": "oyoboshite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "及ぼすな",
+          "furigana": "およ",
+          "romaji": "oyobosuna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "及ぼさないでください",
+          "furigana": "およ",
+          "romaji": "oyobosanaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "及ぼせば",
+          "furigana": "およ",
+          "romaji": "oyoboseba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "及ぼせなければ",
+          "furigana": "およ",
+          "romaji": "oyobosenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "及ぼしたら",
+          "furigana": "およ",
+          "romaji": "oyoboshitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "及ぼさなかったら",
+          "furigana": "およ",
+          "romaji": "oyobosanakattara"
+        }
+      ]
+    }
+  }
+}
+]
