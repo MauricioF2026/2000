@@ -1,4 +1,256 @@
 [
+  {
+  "id": "yobidasu",
+  "kanji": "呼",
+  "furigana": "よ",
+  "romaji": "yobidasu",
+  "definition_es": "llamar; invocar; llamarse",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "呼び出す",
+          "furigana": "よ",
+          "romaji": "yobidasu"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "呼び出します",
+          "furigana": "よ",
+          "romaji": "yobidashimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "呼び出さない",
+          "furigana": "よ",
+          "romaji": "yobidasanai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "呼び出しません",
+          "furigana": "よ",
+          "romaji": "yobidashimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "呼び出した",
+          "furigana": "よ",
+          "romaji": "yobidashita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "呼び出しました",
+          "furigana": "よ",
+          "romaji": "yobidashimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "呼び出さなかった",
+          "furigana": "よ",
+          "romaji": "yobidasanakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "呼び出しませんでした",
+          "furigana": "よ",
+          "romaji": "yobidashimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "呼び出して",
+          "furigana": "よ",
+          "romaji": "yobidashite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "呼び出さなくて",
+          "furigana": "よ",
+          "romaji": "yobidasanakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "呼び出そう",
+          "furigana": "よ",
+          "romaji": "yobidasou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "呼び出しましょう",
+          "furigana": "よ",
+          "romaji": "yobidashimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "呼び出せる",
+          "furigana": "よ",
+          "romaji": "yobidaseru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "呼び出せます",
+          "furigana": "よ",
+          "romaji": "yobidasemasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "呼び出せない",
+          "furigana": "よ",
+          "romaji": "yobidasenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "呼び出せません",
+          "furigana": "よ",
+          "romaji": "yobidasemasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "呼び出される",
+          "furigana": "よ",
+          "romaji": "yobidasareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "呼び出されます",
+          "furigana": "よ",
+          "romaji": "yobidasaremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "呼び出されない",
+          "furigana": "よ",
+          "romaji": "yobidasarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "呼び出されません",
+          "furigana": "よ",
+          "romaji": "yobidasaremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "呼び出させる",
+          "furigana": "よ",
+          "romaji": "yobidasaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "呼び出させます",
+          "furigana": "よ",
+          "romaji": "yobidasasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "呼び出させない",
+          "furigana": "よ",
+          "romaji": "yobidasasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "呼び出させません",
+          "furigana": "よ",
+          "romaji": "yobidasasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "呼び出せ",
+          "furigana": "よ",
+          "romaji": "yobidase"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "呼び出してください",
+          "furigana": "よ",
+          "romaji": "yobidashite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "呼び出すな",
+          "furigana": "よ",
+          "romaji": "yobidasuna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "呼び出さないでください",
+          "furigana": "よ",
+          "romaji": "yobidasanaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "呼び出せば",
+          "furigana": "よ",
+          "romaji": "yobidaseba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "呼び出せなければ",
+          "furigana": "よ",
+          "romaji": "yobidasenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "呼び出したら",
+          "furigana": "よ",
+          "romaji": "yobidashitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "呼び出さなかったら",
+          "furigana": "よ",
+          "romaji": "yobidasanakattara"
+        }
+      ]
+    }
+  }
+},
+
 {
   "id": "kataru",
   "kanji": "語",
@@ -502,3 +754,4 @@
   }
 }
 ]
+
