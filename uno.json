@@ -1,5 +1,1517 @@
 [
   {
+  "id": "hansou_suru",
+  "kanji": "搬送",
+  "furigana": "はんそう",
+  "romaji": "hansou suru",
+  "definition_es": "transportar, trasladar, llevar de un lugar a otro",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "搬送する",
+          "furigana": "はんそう",
+          "romaji": "hansou suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "搬送します",
+          "furigana": "はんそう",
+          "romaji": "hansou shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "搬送しない",
+          "furigana": "はんそう",
+          "romaji": "hansou shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "搬送しません",
+          "furigana": "はんそう",
+          "romaji": "hansou shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "搬送した",
+          "furigana": "はんそう",
+          "romaji": "hansou shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "搬送しました",
+          "furigana": "はんそう",
+          "romaji": "hansou shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "搬送しなかった",
+          "furigana": "はんそう",
+          "romaji": "hansou shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "搬送しませんでした",
+          "furigana": "はんそう",
+          "romaji": "hansou shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "搬送して",
+          "furigana": "はんそう",
+          "romaji": "hansou shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "搬送しなくて",
+          "furigana": "はんそう",
+          "romaji": "hansou shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "搬送しよう",
+          "furigana": "はんそう",
+          "romaji": "hansou shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "搬送しましょう",
+          "furigana": "はんそう",
+          "romaji": "hansou shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "搬送できる",
+          "furigana": "はんそう",
+          "romaji": "hansou dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "搬送できます",
+          "furigana": "はんそう",
+          "romaji": "hansou dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "搬送できない",
+          "furigana": "はんそう",
+          "romaji": "hansou dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "搬送できません",
+          "furigana": "はんそう",
+          "romaji": "hansou dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "搬送される",
+          "furigana": "はんそう",
+          "romaji": "hansou sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "搬送されます",
+          "furigana": "はんそう",
+          "romaji": "hansou saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "搬送されない",
+          "furigana": "はんそう",
+          "romaji": "hansou sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "搬送されません",
+          "furigana": "はんそう",
+          "romaji": "hansou saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "搬送させる",
+          "furigana": "はんそう",
+          "romaji": "hansou saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "搬送させます",
+          "furigana": "はんそう",
+          "romaji": "hansou sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "搬送させない",
+          "furigana": "はんそう",
+          "romaji": "hansou sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "搬送させません",
+          "furigana": "はんそう",
+          "romaji": "hansou sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "搬送せよ/搬送しろ",
+          "furigana": "はんそうせよ",
+          "romaji": "hansou seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "搬送してください",
+          "furigana": "はんそう",
+          "romaji": "hansou shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "搬送するな",
+          "furigana": "はんそう",
+          "romaji": "hansou suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "搬送しないでください",
+          "furigana": "はんそう",
+          "romaji": "hansou shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "搬送すれば",
+          "furigana": "はんそう",
+          "romaji": "hansou sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "搬送しなければ",
+          "furigana": "はんそう",
+          "romaji": "hansou shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "搬送したら",
+          "furigana": "はんそう",
+          "romaji": "hansou shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "搬送しなかったら",
+          "furigana": "はんそう",
+          "romaji": "hansou shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "iru",
+  "kanji": "いる",
+  "furigana": "",
+  "romaji": "iru",
+  "definition_es": "estar; saber; haber",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "いる",
+          "furigana": "",
+          "romaji": "iru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "います",
+          "furigana": "",
+          "romaji": "imasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "いない",
+          "furigana": "",
+          "romaji": "inai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "いません",
+          "furigana": "",
+          "romaji": "imasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "いた",
+          "furigana": "",
+          "romaji": "ita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "いました",
+          "furigana": "",
+          "romaji": "imashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "いなかった",
+          "furigana": "",
+          "romaji": "inakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "いませんでした",
+          "furigana": "",
+          "romaji": "imasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "いて",
+          "furigana": "",
+          "romaji": "ite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "いなくて",
+          "furigana": "",
+          "romaji": "inakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "いよう",
+          "furigana": "",
+          "romaji": "iyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "いましょう",
+          "furigana": "",
+          "romaji": "imashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "いられる",
+          "furigana": "",
+          "romaji": "irareru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "いられます",
+          "furigana": "",
+          "romaji": "iraremasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "いられない",
+          "furigana": "",
+          "romaji": "irarenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "いられません",
+          "furigana": "",
+          "romaji": "iraremasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "いられる",
+          "furigana": "",
+          "romaji": "irareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "いられます",
+          "furigana": "",
+          "romaji": "iraremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "いられない",
+          "furigana": "",
+          "romaji": "irarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "いられません",
+          "furigana": "",
+          "romaji": "iraremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "いさせる",
+          "furigana": "",
+          "romaji": "isaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "いさせます",
+          "furigana": "",
+          "romaji": "isasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "いさせない",
+          "furigana": "",
+          "romaji": "isasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "いさせません",
+          "furigana": "",
+          "romaji": "isasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "いよ/いろ",
+          "furigana": "",
+          "romaji": "iyo/ ‑ro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "いてください",
+          "furigana": "",
+          "romaji": "ite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "いるな",
+          "furigana": "",
+          "romaji": "iruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "いないでください",
+          "furigana": "",
+          "romaji": "inaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "いれば",
+          "furigana": "",
+          "romaji": "ireba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "いなければ",
+          "furigana": "",
+          "romaji": "inakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "いたら",
+          "furigana": "",
+          "romaji": "itara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "いなかったら",
+          "furigana": "",
+          "romaji": "inakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "oikomu",
+  "kanji": "追",
+  "furigana": "お",
+  "romaji": "oikomu",
+  "definition_es": "acorralar; esquinar",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "追い込む",
+          "furigana": "お",
+          "romaji": "oikomu"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "追い込みます",
+          "furigana": "お",
+          "romaji": "oikomimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "追い込まない",
+          "furigana": "お",
+          "romaji": "oikomanai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "追い込みません",
+          "furigana": "お",
+          "romaji": "oikomimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "追い込んだ",
+          "furigana": "お",
+          "romaji": "oikonda"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "追い込みました",
+          "furigana": "お",
+          "romaji": "oikomimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "追い込まなかった",
+          "furigana": "お",
+          "romaji": "oikomanakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "追い込みませんでした",
+          "furigana": "お",
+          "romaji": "oikomimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "追い込んで",
+          "furigana": "お",
+          "romaji": "oikonde"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "追い込まなくて",
+          "furigana": "お",
+          "romaji": "oikomanakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "追い込もう",
+          "furigana": "お",
+          "romaji": "oikomou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "追い込みましょう",
+          "furigana": "お",
+          "romaji": "oikomimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "追い込める",
+          "furigana": "お",
+          "romaji": "oikomeru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "追い込めます",
+          "furigana": "お",
+          "romaji": "oikomemasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "追い込めない",
+          "furigana": "お",
+          "romaji": "oikomenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "追い込めません",
+          "furigana": "お",
+          "romaji": "oikomemasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "追い込まれる",
+          "furigana": "お",
+          "romaji": "oikomareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "追い込まれます",
+          "furigana": "お",
+          "romaji": "oikomaremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "追い込まれない",
+          "furigana": "お",
+          "romaji": "oikomarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "追い込まれません",
+          "furigana": "お",
+          "romaji": "oikomaremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "追い込ませる",
+          "furigana": "お",
+          "romaji": "oikomaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "追い込ませます",
+          "furigana": "お",
+          "romaji": "oikomasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "追い込ませない",
+          "furigana": "お",
+          "romaji": "oikomasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "追い込ませません",
+          "furigana": "お",
+          "romaji": "oikomasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "追い込め",
+          "furigana": "お",
+          "romaji": "oikome"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "追い込んでください",
+          "furigana": "お",
+          "romaji": "oikonde kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "追い込むな",
+          "furigana": "お",
+          "romaji": "oikomuna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "追い込まないでください",
+          "furigana": "お",
+          "romaji": "oikomanaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "追い込めば",
+          "furigana": "お",
+          "romaji": "oikomeba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "追い込めなければ",
+          "furigana": "お",
+          "romaji": "oikomenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "追い込んだら",
+          "furigana": "お",
+          "romaji": "oikondara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "追い込まなかったら",
+          "furigana": "お",
+          "romaji": "oikomanakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "shinchou_suru",
+  "kanji": "伸長",
+  "furigana": "しんちょう",
+  "romaji": "shinchou suru",
+  "definition_es": "extenderse, alargarse, crecer en longitud, expandirse gradualmente",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "伸長する",
+          "furigana": "しんちょう",
+          "romaji": "shinchou suru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "伸長します",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shimasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "伸長しない",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "伸長しません",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shimasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "伸長した",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shita"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "伸長しました",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shimashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "伸長しなかった",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "伸長しませんでした",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shimasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "伸長して",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shite"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "伸長しなくて",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "伸長しよう",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shiyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "伸長しましょう",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shimashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "伸長できる",
+          "furigana": "しんちょう",
+          "romaji": "shinchou dekiru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "伸長できます",
+          "furigana": "しんちょう",
+          "romaji": "shinchou dekimasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "伸長できない",
+          "furigana": "しんちょう",
+          "romaji": "shinchou dekinai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "伸長できません",
+          "furigana": "しんちょう",
+          "romaji": "shinchou dekimasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "伸長される",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "伸長されます",
+          "furigana": "しんちょう",
+          "romaji": "shinchou saremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "伸長されない",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "伸長されません",
+          "furigana": "しんちょう",
+          "romaji": "shinchou saremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "伸長させる",
+          "furigana": "しんちょう",
+          "romaji": "shinchou saseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "伸長させます",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "伸長させない",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "伸長させません",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "伸長せよ/伸長しろ",
+          "furigana": "しんちょうせよ",
+          "romaji": "shinchou seyo/ ‑shiro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "伸長してください",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shite kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "伸長するな",
+          "furigana": "しんちょう",
+          "romaji": "shinchou suruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "伸長しないでください",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "伸長すれば",
+          "furigana": "しんちょう",
+          "romaji": "shinchou sureba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "伸長しなければ",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "伸長したら",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shitara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "伸長しなかったら",
+          "furigana": "しんちょう",
+          "romaji": "shinchou shinakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "kakeru",
+  "kanji": "賭",
+  "furigana": "か",
+  "romaji": "kakeru",
+  "definition_es": "apostar; arriesgar",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "賭ける",
+          "furigana": "か",
+          "romaji": "kakeru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "賭けます",
+          "furigana": "か",
+          "romaji": "kakemasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "賭けない",
+          "furigana": "か",
+          "romaji": "kakenai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "賭けません",
+          "furigana": "か",
+          "romaji": "kakemasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "賭けた",
+          "furigana": "か",
+          "romaji": "kaketa"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "賭けました",
+          "furigana": "か",
+          "romaji": "kakemashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "賭けなかった",
+          "furigana": "か",
+          "romaji": "kakenakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "賭けませんでした",
+          "furigana": "か",
+          "romaji": "kakemasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "賭けて",
+          "furigana": "か",
+          "romaji": "kakete"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "賭けなくて",
+          "furigana": "か",
+          "romaji": "kakenakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "賭けよう",
+          "furigana": "か",
+          "romaji": "kakeyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "賭けましょう",
+          "furigana": "か",
+          "romaji": "kakemashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "賭けられる",
+          "furigana": "か",
+          "romaji": "kakerareru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "賭けられます",
+          "furigana": "か",
+          "romaji": "kakeraremasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "賭けられない",
+          "furigana": "か",
+          "romaji": "kakerarenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "賭けられません",
+          "furigana": "か",
+          "romaji": "kakeraremasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "賭けられる",
+          "furigana": "か",
+          "romaji": "kakerareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "賭けられます",
+          "furigana": "か",
+          "romaji": "kakeraremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "賭けられない",
+          "furigana": "か",
+          "romaji": "kakerarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "賭けられません",
+          "furigana": "か",
+          "romaji": "kakeraremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "賭けさせる",
+          "furigana": "か",
+          "romaji": "kakesaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "賭けさせます",
+          "furigana": "か",
+          "romaji": "kakesasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "賭けさせない",
+          "furigana": "か",
+          "romaji": "kakesasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "賭けさせません",
+          "furigana": "か",
+          "romaji": "kakesasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "賭けよ/賭けろ",
+          "furigana": "か",
+          "romaji": "kakeyo/ ‑ro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "賭けてください",
+          "furigana": "か",
+          "romaji": "kakete kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "賭けるな",
+          "furigana": "か",
+          "romaji": "kakeruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "賭けないでください",
+          "furigana": "か",
+          "romaji": "kakenaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "賭ければ",
+          "furigana": "か",
+          "romaji": "kakereba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "賭けなければ",
+          "furigana": "か",
+          "romaji": "kakenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "賭けたら",
+          "furigana": "か",
+          "romaji": "kaketara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "賭けなかったら",
+          "furigana": "か",
+          "romaji": "kakenakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
+  "id": "kaerareru",
+  "kanji": "変",
+  "furigana": "か",
+  "romaji": "kaerareru",
+  "definition_es": "ser cambiado, poder cambiarse, ser modificado",
+  "tenses": {
+    "present": {
+      "label": "Present",
+      "forms": [
+        {
+          "kind": "Present Positive Informal",
+          "jp": "変えられる",
+          "furigana": "か",
+          "romaji": "kaerareru"
+        },
+        {
+          "kind": "Present Positive Formal",
+          "jp": "変えられます",
+          "furigana": "か",
+          "romaji": "kaeraremasu"
+        },
+        {
+          "kind": "Present Negative Informal",
+          "jp": "変えられない",
+          "furigana": "か",
+          "romaji": "kaerarenai"
+        },
+        {
+          "kind": "Present Negative Formal",
+          "jp": "変えられません",
+          "furigana": "か",
+          "romaji": "kaeraremasen"
+        }
+      ]
+    },
+    "past": {
+      "label": "Past",
+      "forms": [
+        {
+          "kind": "Past Positive Informal",
+          "jp": "変えられた",
+          "furigana": "か",
+          "romaji": "kaerareta"
+        },
+        {
+          "kind": "Past Positive Formal",
+          "jp": "変えられました",
+          "furigana": "か",
+          "romaji": "kaeraremashita"
+        },
+        {
+          "kind": "Past Negative Informal",
+          "jp": "変えられなかった",
+          "furigana": "か",
+          "romaji": "kaerarenakatta"
+        },
+        {
+          "kind": "Past Negative Formal",
+          "jp": "変えられませんでした",
+          "furigana": "か",
+          "romaji": "kaeraremasen deshita"
+        }
+      ]
+    },
+    "te": {
+      "label": "-te Form",
+      "forms": [
+        {
+          "kind": "Te Form Positive Informal",
+          "jp": "変えられて",
+          "furigana": "か",
+          "romaji": "kaerarete"
+        },
+        {
+          "kind": "Te Form Negative Informal",
+          "jp": "変えられなくて",
+          "furigana": "か",
+          "romaji": "kaerarenakute"
+        }
+      ]
+    },
+    "volitional": {
+      "label": "Volitional",
+      "forms": [
+        {
+          "kind": "Volitional Positive Informal",
+          "jp": "変えられよう",
+          "furigana": "か",
+          "romaji": "kaerareyou"
+        },
+        {
+          "kind": "Volitional Positive Formal",
+          "jp": "変えられましょう",
+          "furigana": "か",
+          "romaji": "kaeraremashou"
+        }
+      ]
+    },
+    "potential": {
+      "label": "Potential",
+      "forms": [
+        {
+          "kind": "Potential Positive Informal",
+          "jp": "変えられられる",
+          "furigana": "か",
+          "romaji": "kaerarerareru"
+        },
+        {
+          "kind": "Potential Positive Formal",
+          "jp": "変えられられます",
+          "furigana": "か",
+          "romaji": "kaerareraremasu"
+        },
+        {
+          "kind": "Potential Negative Informal",
+          "jp": "変えられられない",
+          "furigana": "か",
+          "romaji": "kaerarerarenai"
+        },
+        {
+          "kind": "Potential Negative Formal",
+          "jp": "変えられられません",
+          "furigana": "か",
+          "romaji": "kaerareraremasen"
+        }
+      ]
+    },
+    "passive": {
+      "label": "Passive",
+      "forms": [
+        {
+          "kind": "Passive Positive Informal",
+          "jp": "変えられられる",
+          "furigana": "か",
+          "romaji": "kaerarerareru"
+        },
+        {
+          "kind": "Passive Positive Formal",
+          "jp": "変えられられます",
+          "furigana": "か",
+          "romaji": "kaerareraremasu"
+        },
+        {
+          "kind": "Passive Negative Informal",
+          "jp": "変えられられない",
+          "furigana": "か",
+          "romaji": "kaerarerarenai"
+        },
+        {
+          "kind": "Passive Negative Formal",
+          "jp": "変えられられません",
+          "furigana": "か",
+          "romaji": "kaerareraremasen"
+        }
+      ]
+    },
+    "causative": {
+      "label": "Causative",
+      "forms": [
+        {
+          "kind": "Causative Positive Informal",
+          "jp": "変えられさせる",
+          "furigana": "か",
+          "romaji": "kaeraresaseru"
+        },
+        {
+          "kind": "Causative Positive Formal",
+          "jp": "変えられさせます",
+          "furigana": "か",
+          "romaji": "kaeraresasemasu"
+        },
+        {
+          "kind": "Causative Negative Informal",
+          "jp": "変えられさせない",
+          "furigana": "か",
+          "romaji": "kaeraresasenai"
+        },
+        {
+          "kind": "Causative Negative Formal",
+          "jp": "変えられさせません",
+          "furigana": "か",
+          "romaji": "kaeraresasemasen"
+        }
+      ]
+    },
+    "imperative": {
+      "label": "Imperative",
+      "forms": [
+        {
+          "kind": "Imperative Positive Informal",
+          "jp": "変えられよ/変えられろ",
+          "furigana": "か",
+          "romaji": "kaerareyo/ ‑ro"
+        },
+        {
+          "kind": "Imperative Positive Formal",
+          "jp": "変えられてください",
+          "furigana": "か",
+          "romaji": "kaerarete kudasai"
+        },
+        {
+          "kind": "Imperative Negative Informal",
+          "jp": "変えられるな",
+          "furigana": "か",
+          "romaji": "kaerareruna"
+        },
+        {
+          "kind": "Imperative Negative Formal",
+          "jp": "変えられないでください",
+          "furigana": "か",
+          "romaji": "kaerarenaide kudasai"
+        }
+      ]
+    },
+    "conditional": {
+      "label": "Conditional",
+      "forms": [
+        {
+          "kind": "Conditional Positive Informal",
+          "jp": "変えられれば",
+          "furigana": "か",
+          "romaji": "kaerarereba"
+        },
+        {
+          "kind": "Conditional Negative Informal",
+          "jp": "変えられなければ",
+          "furigana": "か",
+          "romaji": "kaerarenakereba"
+        }
+      ]
+    },
+    "conditional_tara": {
+      "label": "Conditional (-tara)",
+      "forms": [
+        {
+          "kind": "Conditional (-tara) Positive Informal",
+          "jp": "変えられたら",
+          "furigana": "か",
+          "romaji": "kaeraretara"
+        },
+        {
+          "kind": "Conditional (-tara) Negative Informal",
+          "jp": "変えられなかったら",
+          "furigana": "か",
+          "romaji": "kaerarenakattara"
+        }
+      ]
+    }
+  }
+},
+
+  {
   "id": "shimeru",
   "kanji": "占",
   "furigana": "し",
@@ -6182,6 +7694,7 @@
   }
 }
 ]
+
 
 
 
