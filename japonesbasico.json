@@ -1,5 +1,2621 @@
  [
   {
+  "kanji": "十",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "ジュウ",
+    "ジッ",
+    "ジュッ",
+    "JŪ",
+    "JIッ",
+    "JUッ"
+  ],
+  "lecturasKun": [
+    "とお",
+    "と",
+    "tō",
+    "to"
+  ],
+  "trazos": 2,
+  "radicalClasico": "十",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 268,
+  "unicode": "5341",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "",
+  "palabras": [
+    {
+      "jp": "十",
+      "lectura": "じゅう",
+      "romaji": "jū",
+      "glosa": "(num) 10 ◆ diez"
+    },
+    {
+      "jp": "十",
+      "lectura": "とお",
+      "romaji": "tō",
+      "glosa": "(num) 10 ◆ diez"
+    },
+    {
+      "jp": "十一",
+      "lectura": "じゅういち",
+      "romaji": "jūichi",
+      "glosa": "(n) once"
+    },
+    {
+      "jp": "十億",
+      "lectura": "じゅうおく",
+      "romaji": "jūoku",
+      "glosa": "(num) mil millones ◆ 1,000,000,000"
+    },
+    {
+      "jp": "十月",
+      "lectura": "じゅうがつ",
+      "romaji": "jūgatsu",
+      "glosa": "(n-adv) Octubre"
+    },
+    {
+      "jp": "十九",
+      "lectura": "じゅうきゅう",
+      "romaji": "jūkyū",
+      "glosa": "(n) diecinueve"
+    },
+    {
+      "jp": "十五",
+      "lectura": "じゅうご",
+      "romaji": "jūgo",
+      "glosa": "(n) 15 ◆ quince"
+    },
+    {
+      "jp": "十三",
+      "lectura": "じゅうさん",
+      "romaji": "jūsan",
+      "glosa": "(n) trece"
+    },
+    {
+      "jp": "十四",
+      "lectura": "じゅうし",
+      "romaji": "jūshi",
+      "glosa": "(n) 14 ◆ catorce"
+    },
+    {
+      "jp": "十七",
+      "lectura": "じゅうしち",
+      "romaji": "jūshichi",
+      "glosa": "(n) 17 ◆ diecisiete"
+    },
+    {
+      "jp": "十代",
+      "lectura": "じゅうだい",
+      "romaji": "jūdai",
+      "glosa": "(n) adolescente ◆ los adolescentes (10-19) ◆ décima generación"
+    },
+    {
+      "jp": "十二",
+      "lectura": "じゅうに",
+      "romaji": "jūni",
+      "glosa": "(n) doce"
+    },
+    {
+      "jp": "十年",
+      "lectura": "じゅうねん",
+      "romaji": "jūnen",
+      "glosa": "diez años"
+    },
+    {
+      "jp": "十八",
+      "lectura": "じゅうはち",
+      "romaji": "jūhachi",
+      "glosa": "(n) dieciocho"
+    },
+    {
+      "jp": "十分",
+      "lectura": "じゅうぶん",
+      "romaji": "jūbun",
+      "glosa": "(adj-na) suficiente ◆ bastante ◆ satisfactorio ◆ adecuado ◆ (n,vs) (2) dividir en 10 ◆ (adv) (3) perfecto ◆ lleno ◆ completo"
+    },
+    {
+      "jp": "十万",
+      "lectura": "じゅうまん",
+      "romaji": "jūman",
+      "glosa": "(num) cien mil ◆ 100,000"
+    },
+    {
+      "jp": "十六",
+      "lectura": "じゅうろく",
+      "romaji": "jūroku",
+      "glosa": "(n) dieciséis"
+    },
+    {
+      "jp": "十日",
+      "lectura": "とおか",
+      "romaji": "tōka",
+      "glosa": "(n) (1) décimo día del mes ◆ (2) diez días"
+    },
+    {
+      "jp": "九十",
+      "lectura": "きゅうじゅう",
+      "romaji": "kyūjū",
+      "glosa": "(n) noventa"
+    },
+    {
+      "jp": "五十",
+      "lectura": "ごじゅう",
+      "romaji": "gojū",
+      "glosa": "(n) cincuenta"
+    },
+    {
+      "jp": "三十",
+      "lectura": "さんじゅう",
+      "romaji": "sanjū",
+      "glosa": "(num) treinta"
+    },
+    {
+      "jp": "七十",
+      "lectura": "しちじゅう",
+      "romaji": "shichijū",
+      "glosa": "(n) setenta"
+    },
+    {
+      "jp": "何十",
+      "lectura": "なんじゅう",
+      "romaji": "nanjū",
+      "glosa": "(n) cientos"
+    },
+    {
+      "jp": "二十",
+      "lectura": "にじゅう",
+      "romaji": "nijū",
+      "glosa": "(n) veinte"
+    },
+    {
+      "jp": "八十",
+      "lectura": "はちじゅう",
+      "romaji": "hachijū",
+      "glosa": "(n) ochenta"
+    },
+    {
+      "jp": "四十",
+      "lectura": "よんじゅう",
+      "romaji": "yonjū",
+      "glosa": "(n) cuarenta"
+    },
+    {
+      "jp": "六十",
+      "lectura": "ろくじゅう",
+      "romaji": "rokujū",
+      "glosa": "(n) sesenta"
+    },
+    {
+      "jp": "十一月",
+      "lectura": "じゅういちがつ",
+      "romaji": "jūichigatsu",
+      "glosa": "(n-adv) Noviembre"
+    },
+    {
+      "jp": "十字架",
+      "lectura": "じゅうじか",
+      "romaji": "jūjika",
+      "glosa": "(n) cruz católica"
+    },
+    {
+      "jp": "十七歳",
+      "lectura": "じゅうしちさい",
+      "romaji": "jūshichisai",
+      "glosa": "diecisiete años"
+    },
+    {
+      "jp": "十字路",
+      "lectura": "じゅうじろ",
+      "romaji": "jūjiro",
+      "glosa": "(n) cruce"
+    },
+    {
+      "jp": "十二月",
+      "lectura": "じゅうにがつ",
+      "romaji": "jūnigatsu",
+      "glosa": "(n-adv) diciembre"
+    },
+    {
+      "jp": "十二分",
+      "lectura": "じゅうにぶん",
+      "romaji": "jūnibun",
+      "glosa": "(adj-na,n) más que suficiente"
+    },
+    {
+      "jp": "五十嵐",
+      "lectura": "いがらし",
+      "romaji": "igarashi",
+      "glosa": "(p) Igarashi"
+    },
+    {
+      "jp": "五十音",
+      "lectura": "ごじゅうおん",
+      "romaji": "gojūon",
+      "glosa": "(n) silabario japonés"
+    },
+    {
+      "jp": "三十分",
+      "lectura": "さんじゅっぷん",
+      "romaji": "sanjuppun",
+      "glosa": "(s) treinta minutos"
+    },
+    {
+      "jp": "二十歳",
+      "lectura": "はたち",
+      "romaji": "hatachi",
+      "glosa": "(n) (1) 20 años de edad"
+    },
+    {
+      "jp": "二十日",
+      "lectura": "はつか",
+      "romaji": "hatsuka",
+      "glosa": "(n) día 20"
+    },
+    {
+      "jp": "不十分",
+      "lectura": "ふじゅうぶん",
+      "romaji": "fujūbun",
+      "glosa": "(n,adj-na) insuficiente"
+    },
+    {
+      "jp": "三十日",
+      "lectura": "みそか",
+      "romaji": "misoka",
+      "glosa": "(n) último día del mes"
+    },
+    {
+      "jp": "四十七士",
+      "lectura": "しじゅうしちし",
+      "romaji": "shijūshichishi",
+      "glosa": "(n) Los 47 Ronin"
+    },
+    {
+      "jp": "二十世紀",
+      "lectura": "にじっせいき",
+      "romaji": "nijisseiki",
+      "glosa": "(n) siglo veinte ◆ siglo XX"
+    },
+    {
+      "jp": "二十一世紀",
+      "lectura": "にじゅういっせいき",
+      "romaji": "nijūisseiki",
+      "glosa": "(s) Siglo XXI Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "十",
+      "lectura": "と",
+      "romaji": "to",
+      "glosa": "(num) diez"
+    },
+    {
+      "jp": "一から十まで",
+      "lectura": "いちからじゅうまで",
+      "romaji": "ichikarajūmade",
+      "glosa": "(n) de la A a la Z ◆ sin excepción ◆ en cada particular"
+    },
+    {
+      "jp": "一から十迄",
+      "lectura": "いちからじゅうまで",
+      "romaji": "ichikarajūmade",
+      "glosa": "(n) de la A a la Z ◆ sin excepción ◆ en cada particular"
+    },
+    {
+      "jp": "一を聞いて十を知る",
+      "lectura": "いちをきいてじゅうをしる",
+      "romaji": "ichi wo kītejū wo shiru",
+      "glosa": "(exp) entender todo de una vez ◆ ser perceptivo"
+    },
+    {
+      "jp": "十分",
+      "lectura": "じっぷん",
+      "romaji": "jippun",
+      "glosa": "(n) 10 minutos"
+    },
+    {
+      "jp": "十雨",
+      "lectura": "じゅうう",
+      "romaji": "jūu",
+      "glosa": "(n) lluvia refrescante una vez en 10 días"
+    },
+    {
+      "jp": "十台",
+      "lectura": "じゅうだい",
+      "romaji": "jūdai",
+      "glosa": "(n) adolescente ◆ los adolescentes (10-19) ◆ décima generación"
+    },
+    {
+      "jp": "十七",
+      "lectura": "じゅうなな",
+      "romaji": "jūnana",
+      "glosa": "(n) 17 ◆ diecisiete"
+    },
+    {
+      "jp": "十四",
+      "lectura": "じゅうよん",
+      "romaji": "jūyon",
+      "glosa": "(n) 14 ◆ catorce"
+    },
+    {
+      "jp": "十分",
+      "lectura": "じゅっぷん",
+      "romaji": "juppun",
+      "glosa": "(n) 10 minutos"
+    },
+    {
+      "jp": "五十",
+      "lectura": "い",
+      "romaji": "i",
+      "glosa": "(n) cincuenta"
+    },
+    {
+      "jp": "五十",
+      "lectura": "いそ",
+      "romaji": "iso",
+      "glosa": "(n) cincuenta"
+    },
+    {
+      "jp": "九十",
+      "lectura": "くじゅう",
+      "romaji": "kujū",
+      "glosa": "(n) noventa"
+    },
+    {
+      "jp": "四十",
+      "lectura": "しじゅう",
+      "romaji": "shijū",
+      "glosa": "(n) cuarenta"
+    },
+    {
+      "jp": "数十",
+      "lectura": "すうじゅう",
+      "romaji": "sūjū",
+      "glosa": "(n) docenas ◆ puntuaciones de ◆ décadas"
+    },
+    {
+      "jp": "七十",
+      "lectura": "ななじゅう",
+      "romaji": "nanajū",
+      "glosa": "(n) setenta"
+    },
+    {
+      "jp": "二十",
+      "lectura": "はた",
+      "romaji": "hata",
+      "glosa": "(ok) (n) veinte"
+    },
+    {
+      "jp": "二十",
+      "lectura": "はたち",
+      "romaji": "hatachi",
+      "glosa": "(n) veinte años"
+    },
+    {
+      "jp": "三十",
+      "lectura": "みそ",
+      "romaji": "miso",
+      "glosa": "(num) treinta"
+    },
+    {
+      "jp": "八十",
+      "lectura": "やそ",
+      "romaji": "yaso",
+      "glosa": "(n) ochenta"
+    },
+    {
+      "jp": "四十",
+      "lectura": "よそ",
+      "romaji": "yoso",
+      "glosa": "(n) cuarenta"
+    },
+    {
+      "jp": "十五日",
+      "lectura": "じゅうごにち",
+      "romaji": "jūgonichi",
+      "glosa": "(n) día 15"
+    },
+    {
+      "jp": "十二時",
+      "lectura": "じゅうにじ",
+      "romaji": "jūniji",
+      "glosa": "(n) 12:00 ◆ las doce en punto"
+    },
+    {
+      "jp": "十四日",
+      "lectura": "じゅうよっか",
+      "romaji": "jūyokka",
+      "glosa": "(n) día 14"
+    },
+    {
+      "jp": "十露盤",
+      "lectura": "そろばん",
+      "romaji": "soroban",
+      "glosa": "(n) ábaco"
+    },
+    {
+      "jp": "三十日",
+      "lectura": "さんじゅうにち",
+      "romaji": "sanjūnichi",
+      "glosa": "(n) día 30"
+    },
+    {
+      "jp": "三十日",
+      "lectura": "つごもり",
+      "romaji": "tsugomori",
+      "glosa": "(n) último día del mes"
+    },
+    {
+      "jp": "遺恨十年",
+      "lectura": "いこんじゅうねん",
+      "romaji": "ikonjūnen",
+      "glosa": "(n,adv) rencor de diez años ◆ guardar un rencor por muchos años"
+    },
+    {
+      "jp": "一暴十寒",
+      "lectura": "いちばくじっかん",
+      "romaji": "ichibakujikkan",
+      "glosa": "(exp) (1) los grandes esfuerzos para llevar fruta fallarán si se interrumpe por largos periodos de ociocidad ◆ (2) esfuerzos agotadores, al menos sostenuido no son en vano(Mencius)"
+    },
+    {
+      "jp": "一目十行",
+      "lectura": "いちもくじゅうぎょう",
+      "romaji": "ichimokujūgyō",
+      "glosa": "(n) capacidad sobresaliende de lectura (lit: de un vistazo, 10 líneas)"
+    },
+    {
+      "jp": "二十四日",
+      "lectura": "にじゅうよっか",
+      "romaji": "nijūyokka",
+      "glosa": "(n) día 24"
+    },
+    {
+      "jp": "二十世紀",
+      "lectura": "にじゅっせいき",
+      "romaji": "nijusseiki",
+      "glosa": "(n) siglo veinte ◆ siglo XX"
+    }
+  ]
+},
+  {
+  "kanji": "二",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "ニ",
+    "ジ",
+    "NI",
+    "JI"
+  ],
+  "lecturasKun": [
+    "ふた",
+    "ふた-",
+    "ふたたび",
+    "futa",
+    "futa-",
+    "futatabi"
+  ],
+  "trazos": 2,
+  "radicalClasico": "二",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 86,
+  "unicode": "4e8c",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "",
+  "palabras": [
+    {
+      "jp": "二",
+      "lectura": "に",
+      "romaji": "ni",
+      "glosa": "(num) dos"
+    },
+    {
+      "jp": "二つ",
+      "lectura": "ふたつ",
+      "romaji": "futatsu",
+      "glosa": "(n) 2 ◆ dos"
+    },
+    {
+      "jp": "二の次",
+      "lectura": "にのつぎ",
+      "romaji": "ninotsugi",
+      "glosa": "(n) secundario ◆ subordinado"
+    },
+    {
+      "jp": "二人とも",
+      "lectura": "ふたりとも",
+      "romaji": "futaritomo",
+      "glosa": "(n) ambos (gente) ◆ los dos"
+    },
+    {
+      "jp": "真っ二つ",
+      "lectura": "まっぷたつ",
+      "romaji": "mapputatsu",
+      "glosa": "(n) justo por la mitad ◆ justo en dos"
+    },
+    {
+      "jp": "二本立て",
+      "lectura": "にほんだて",
+      "romaji": "nihondate",
+      "glosa": "(n) doble función (película)"
+    },
+    {
+      "jp": "二回",
+      "lectura": "にかい",
+      "romaji": "nikai",
+      "glosa": "(n) dos veces"
+    },
+    {
+      "jp": "二階",
+      "lectura": "にかい",
+      "romaji": "nikai",
+      "glosa": "(n) piso segundo"
+    },
+    {
+      "jp": "二月",
+      "lectura": "にがつ",
+      "romaji": "nigatsu",
+      "glosa": "(n-adv) febrero"
+    },
+    {
+      "jp": "二歳",
+      "lectura": "にさい",
+      "romaji": "nisai",
+      "glosa": "dos años de edad"
+    },
+    {
+      "jp": "二次",
+      "lectura": "にじ",
+      "romaji": "niji",
+      "glosa": "(n) secundario ◆ subordinado"
+    },
+    {
+      "jp": "二十",
+      "lectura": "にじゅう",
+      "romaji": "nijū",
+      "glosa": "(n) veinte"
+    },
+    {
+      "jp": "二重",
+      "lectura": "にじゅう",
+      "romaji": "nijū",
+      "glosa": "(adj) doble ◆ dual ◆ superpuesto"
+    },
+    {
+      "jp": "二世",
+      "lectura": "にせい",
+      "romaji": "nisei",
+      "glosa": "(n) (1) segunda generación ◆ extranjero de ascendecia japonesa ◆ (2) joven ◆ (3) dos existencias ◆ el pasado y el futuro ◆ (4) segundo (rey del mismo nombre)"
+    },
+    {
+      "jp": "二度",
+      "lectura": "にど",
+      "romaji": "nido",
+      "glosa": "(n) segunda vez ◆ (2) dos grados"
+    },
+    {
+      "jp": "二年",
+      "lectura": "にねん",
+      "romaji": "ninen",
+      "glosa": "(s) dos años"
+    },
+    {
+      "jp": "二倍",
+      "lectura": "にばい",
+      "romaji": "nibai",
+      "glosa": "el doble ◆ dos veces más grande"
+    },
+    {
+      "jp": "二番",
+      "lectura": "にばん",
+      "romaji": "niban",
+      "glosa": "el segundo (el 2º)"
+    },
+    {
+      "jp": "二匹",
+      "lectura": "にひき",
+      "romaji": "nihiki",
+      "glosa": "dos cabezas (de ganado) ◆ dos animales pequeños (como perros, gatos, etc.)"
+    },
+    {
+      "jp": "二百",
+      "lectura": "にひゃく",
+      "romaji": "nihyaku",
+      "glosa": "(num) doscientos ◆ 200"
+    },
+    {
+      "jp": "二枚",
+      "lectura": "にまい",
+      "romaji": "nimai",
+      "glosa": "(n) dos hojas (trozos) (de papel)"
+    },
+    {
+      "jp": "二流",
+      "lectura": "にりゅう",
+      "romaji": "niryū",
+      "glosa": "(adj) de segunda clase"
+    },
+    {
+      "jp": "二人",
+      "lectura": "ふたり",
+      "romaji": "futari",
+      "glosa": "(n) dos personas ◆ pareja ◆ dúo"
+    },
+    {
+      "jp": "二日",
+      "lectura": "ふつか",
+      "romaji": "futsuka",
+      "glosa": "(n) (1) segundo día del mes ◆ (2) dos días"
+    },
+    {
+      "jp": "一二",
+      "lectura": "いちに",
+      "romaji": "ichini",
+      "glosa": "(n) el primero y segundo ◆ unos pocos"
+    },
+    {
+      "jp": "十二",
+      "lectura": "じゅうに",
+      "romaji": "jūni",
+      "glosa": "(n) doce"
+    },
+    {
+      "jp": "第二",
+      "lectura": "だいに",
+      "romaji": "daini",
+      "glosa": "(prf) segundo ~"
+    },
+    {
+      "jp": "二重奏",
+      "lectura": "にじゅうそう",
+      "romaji": "nijūsō",
+      "glosa": "(n) dúo instrumental"
+    },
+    {
+      "jp": "二千年",
+      "lectura": "にせんねん",
+      "romaji": "nisennen",
+      "glosa": "dos mil años"
+    },
+    {
+      "jp": "二度寝",
+      "lectura": "にどね",
+      "romaji": "nidone",
+      "glosa": "(n,vs) volver a dormir (e.g. después de levantarse en la mañana)"
+    },
+    {
+      "jp": "二十歳",
+      "lectura": "はたち",
+      "romaji": "hatachi",
+      "glosa": "(n) (1) 20 años de edad"
+    },
+    {
+      "jp": "二十日",
+      "lectura": "はつか",
+      "romaji": "hatsuka",
+      "glosa": "(n) día 20"
+    },
+    {
+      "jp": "十二月",
+      "lectura": "じゅうにがつ",
+      "romaji": "jūnigatsu",
+      "glosa": "(n-adv) diciembre"
+    },
+    {
+      "jp": "十二分",
+      "lectura": "じゅうにぶん",
+      "romaji": "jūnibun",
+      "glosa": "(adj-na,n) más que suficiente"
+    },
+    {
+      "jp": "二十世紀",
+      "lectura": "にじっせいき",
+      "romaji": "nijisseiki",
+      "glosa": "(n) siglo veinte ◆ siglo XX"
+    },
+    {
+      "jp": "二千二年",
+      "lectura": "にせんにねん",
+      "romaji": "nisenninen",
+      "glosa": "(s) Año 2002"
+    },
+    {
+      "jp": "一石二鳥",
+      "lectura": "いっせきにちょう",
+      "romaji": "issekinichō",
+      "glosa": "(exp) matar dos pájaros con una piedra"
+    },
+    {
+      "jp": "二十一世紀",
+      "lectura": "にじゅういっせいき",
+      "romaji": "nijūisseiki",
+      "glosa": "(s) Siglo XXI"
+    },
+    {
+      "jp": "第二次世界大戦",
+      "lectura": "だいにじせかいたいせん",
+      "romaji": "dainijisekaitaisen",
+      "glosa": "(n) Segunda Guerra Mundial Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "二",
+      "lectura": "ふう",
+      "romaji": "fū",
+      "glosa": "(num) dos"
+    },
+    {
+      "jp": "二",
+      "lectura": "ふた",
+      "romaji": "futa",
+      "glosa": "(num) dos"
+    },
+    {
+      "jp": "二",
+      "lectura": "ふ",
+      "romaji": "fu",
+      "glosa": "(num) dos"
+    },
+    {
+      "jp": "二つながら",
+      "lectura": "ふたつながら",
+      "romaji": "futatsunagara",
+      "glosa": "(adv) (uk) ambos ◆ los dos"
+    },
+    {
+      "jp": "二度と",
+      "lectura": "にどと",
+      "romaji": "nidoto",
+      "glosa": "(adv) nunca más (con verbo negativo)"
+    },
+    {
+      "jp": "二つ共",
+      "lectura": "ふたつとも",
+      "romaji": "futatsutomo",
+      "glosa": "(n) ambos ◆ los dos"
+    },
+    {
+      "jp": "二つ乍ら",
+      "lectura": "ふたつながら",
+      "romaji": "futatsunagara",
+      "glosa": "(adv) (uk) ambos ◆ los dos"
+    },
+    {
+      "jp": "二つに一つ",
+      "lectura": "ふたつにひとつ",
+      "romaji": "futatsunihitotsu",
+      "glosa": "(exp) uno de dos (posibilidades, alternativas, etc.)"
+    },
+    {
+      "jp": "真っ二つに",
+      "lectura": "まっぷたつに",
+      "romaji": "mapputatsuni",
+      "glosa": "(adv) a la mitad ◆ en dos partes iguales"
+    },
+    {
+      "jp": "二度添い",
+      "lectura": "にどぞい",
+      "romaji": "nidozoi",
+      "glosa": "(n) segunda esposa"
+    },
+    {
+      "jp": "二日酔い",
+      "lectura": "ふつかよい",
+      "romaji": "futsukayoi",
+      "glosa": "(n,vs) resaca"
+    },
+    {
+      "jp": "一二に及ばず",
+      "lectura": "いちににおよばず",
+      "romaji": "ichininioyobazu",
+      "glosa": "(exp) inmediatamente ◆ sin espera"
+    },
+    {
+      "jp": "一も二も無く",
+      "lectura": "いちもにもなく",
+      "romaji": "ichimonimonaku",
+      "glosa": "(adv) no vacilante"
+    },
+    {
+      "jp": "二本立て映画",
+      "lectura": "にほんたてえいが",
+      "romaji": "nihontatēiga",
+      "glosa": "(n) doble función (película)"
+    },
+    {
+      "jp": "一言二言言う",
+      "lectura": "ひとことふたこという",
+      "romaji": "hitokotofutakotoiu",
+      "glosa": "(exp) decir unas pocas palabras"
+    },
+    {
+      "jp": "一次又は二次局",
+      "lectura": "いちじまたはにじきょく",
+      "romaji": "ichijimatahanijikyoku",
+      "glosa": "(n) (comp) primario ◆ secundario"
+    },
+    {
+      "jp": "二男",
+      "lectura": "じなん",
+      "romaji": "jinan",
+      "glosa": "(n) segundo hijo (varón)"
+    },
+    {
+      "jp": "二字",
+      "lectura": "にじ",
+      "romaji": "niji",
+      "glosa": "(n) 2:00 ◆ las dos en punto"
+    },
+    {
+      "jp": "二女",
+      "lectura": "にじょ",
+      "romaji": "nijo",
+      "glosa": "(n) segunda hija"
+    },
+    {
+      "jp": "二進",
+      "lectura": "にしん",
+      "romaji": "nishin",
+      "glosa": "(adj-na,n) binario"
+    },
+    {
+      "jp": "二通",
+      "lectura": "につう",
+      "romaji": "nitsū",
+      "glosa": "(n) dos copias"
+    },
+    {
+      "jp": "二人",
+      "lectura": "ににん",
+      "romaji": "ninin",
+      "glosa": "(n) dos personas ◆ pareja ◆ dúo"
+    },
+    {
+      "jp": "二分",
+      "lectura": "にふん",
+      "romaji": "nifun",
+      "glosa": "(n) 2 minutos"
+    },
+    {
+      "jp": "二本",
+      "lectura": "にほん",
+      "romaji": "nihon",
+      "glosa": "(adj-f) dos (objetos cilindricos largos)"
+    },
+    {
+      "jp": "二割",
+      "lectura": "にわり",
+      "romaji": "niwari",
+      "glosa": "(n) 20 por ciento"
+    },
+    {
+      "jp": "二十",
+      "lectura": "はた",
+      "romaji": "hata",
+      "glosa": "(ok) (n) veinte"
+    },
+    {
+      "jp": "二十",
+      "lectura": "はたち",
+      "romaji": "hatachi",
+      "glosa": "(n) veinte años"
+    },
+    {
+      "jp": "二親",
+      "lectura": "ふたおや",
+      "romaji": "futaoya",
+      "glosa": "(n) padres (los propios) ◆ ambos padres"
+    },
+    {
+      "jp": "二子",
+      "lectura": "ふたご",
+      "romaji": "futago",
+      "glosa": "(n) gemelo ◆ gemelos"
+    },
+    {
+      "jp": "二形",
+      "lectura": "ふたなり",
+      "romaji": "futanari",
+      "glosa": "(n) hermafrodita"
+    },
+    {
+      "jp": "二葉",
+      "lectura": "ふたば",
+      "romaji": "futaba",
+      "glosa": "(n) brote (de una planta) ◆ yema"
+    },
+    {
+      "jp": "第二",
+      "lectura": "だいに",
+      "romaji": "daini",
+      "glosa": "(n) (el) segundo (número ordinal) ◆ 2º"
+    },
+    {
+      "jp": "二重窓",
+      "lectura": "にじゅうまど",
+      "romaji": "nijūmado",
+      "glosa": "(n) ventana doble ◆ contraventana"
+    },
+    {
+      "jp": "二等車",
+      "lectura": "にとうしゃ",
+      "romaji": "nitōsha",
+      "glosa": "(n) segunda clase"
+    },
+    {
+      "jp": "二等賞",
+      "lectura": "にとうしょう",
+      "romaji": "nitōshō",
+      "glosa": "(n) segundo premio"
+    },
+    {
+      "jp": "二等親",
+      "lectura": "にとうしん",
+      "romaji": "nitōshin",
+      "glosa": "(n) pariente de segundo grado"
+    },
+    {
+      "jp": "二等分",
+      "lectura": "にとうぶん",
+      "romaji": "nitōbun",
+      "glosa": "(n,vs) bisección"
+    },
+    {
+      "jp": "二人組",
+      "lectura": "ににんぐみ",
+      "romaji": "niningumi",
+      "glosa": "(n) (1) pareja ◆ dúo"
+    },
+    {
+      "jp": "二人組",
+      "lectura": "ふたりぐみ",
+      "romaji": "futarigumi",
+      "glosa": "(n) (1) pareja ◆ dúo"
+    },
+    {
+      "jp": "二人共",
+      "lectura": "ふたりとも",
+      "romaji": "futaritomo",
+      "glosa": "(n) ambos (gente) ◆ los dos"
+    },
+    {
+      "jp": "二人分",
+      "lectura": "ふたりぶん",
+      "romaji": "futaribun",
+      "glosa": "(n) porción para dos personas"
+    },
+    {
+      "jp": "二日酔",
+      "lectura": "ふつかよい",
+      "romaji": "futsukayoi",
+      "glosa": "(n,vs) resaca"
+    },
+    {
+      "jp": "青二才",
+      "lectura": "あおにさい",
+      "romaji": "aonisai",
+      "glosa": "(n) (derog) joven inexperto ◆ jovenzuelo ◆ novato"
+    },
+    {
+      "jp": "十二時",
+      "lectura": "じゅうにじ",
+      "romaji": "jūniji",
+      "glosa": "(n) 12:00 ◆ las doce en punto"
+    },
+    {
+      "jp": "不二山",
+      "lectura": "ふじさん",
+      "romaji": "fujisan",
+      "glosa": "(n) monte Fuji"
+    },
+    {
+      "jp": "二重母音",
+      "lectura": "にじゅうぼいん",
+      "romaji": "nijūboin",
+      "glosa": "(n) diptongo"
+    },
+    {
+      "jp": "二十四日",
+      "lectura": "にじゅうよっか",
+      "romaji": "nijūyokka",
+      "glosa": "(n) día 24"
+    },
+    {
+      "jp": "二十世紀",
+      "lectura": "にじゅっせいき",
+      "romaji": "nijusseiki",
+      "glosa": "(n) siglo veinte ◆ siglo XX"
+    },
+    {
+      "jp": "二従兄弟",
+      "lectura": "ふたいとこ",
+      "romaji": "futaitoko",
+      "glosa": "(n) primo segundo"
+    },
+    {
+      "jp": "二従兄妹",
+      "lectura": "ふたいとこ",
+      "romaji": "futaitoko",
+      "glosa": "(n) primo segundo"
+    },
+    {
+      "jp": "二従姉弟",
+      "lectura": "ふたいとこ",
+      "romaji": "futaitoko",
+      "glosa": "(n) primo segundo"
+    },
+    {
+      "jp": "二従姉妹",
+      "lectura": "ふたいとこ",
+      "romaji": "futaitoko",
+      "glosa": "(n) primo segundo"
+    },
+    {
+      "jp": "一日二日",
+      "lectura": "いちにちふつか",
+      "romaji": "ichinichifutsuka",
+      "glosa": "(n,adv) un día o dos"
+    },
+    {
+      "jp": "一盗二婢",
+      "lectura": "いっとうにひ",
+      "romaji": "ittōnihi",
+      "glosa": "(exp) Los más emocionantes tipos de relación sexual para un hombre son, primero, robar la esposa de alguien, segundo, con una sirvienta"
+    },
+    {
+      "jp": "一言二言",
+      "lectura": "ひとことふたこと",
+      "romaji": "hitokotofutakoto",
+      "glosa": "(exp) una palabra o dos"
+    },
+    {
+      "jp": "一人二役",
+      "lectura": "ひとりふたやく",
+      "romaji": "hitorifutayaku",
+      "glosa": "(n) doble rol ◆ una persona jugando dos roles ◆ ponerse dos sombreros"
+    },
+    {
+      "jp": "二極真空管",
+      "lectura": "にきょくしんくうかん",
+      "romaji": "nikyokushinkūkan",
+      "glosa": "(n) diodo"
+    },
+    {
+      "jp": "一姫二太郎",
+      "lectura": "いちひめにたろう",
+      "romaji": "ichihimenitarō",
+      "glosa": "(n) Es bueno primero tener una niña y luego un niño"
+    },
+    {
+      "jp": "一国二制度",
+      "lectura": "いっこくにせいど",
+      "romaji": "ikkokuniseido",
+      "glosa": "(n) \"Un país, dos sistemas\" (ideología política china permitiendo el comunismo y el capitalismo en áreas como Hong Kong)"
+    },
+    {
+      "jp": "第二次大戦",
+      "lectura": "だいにじたいせん",
+      "romaji": "dainijitaisen",
+      "glosa": "(n) Segunda Guerra Mundial"
+    },
+    {
+      "jp": "一酸化二窒素",
+      "lectura": "いっさんかにちっそ",
+      "romaji": "issankanichisso",
+      "glosa": "(n) óxido de dinitrógeno"
+    },
+    {
+      "jp": "アデノシン二燐酸",
+      "lectura": "アデノシンにりんさん",
+      "romaji": "ADENOSHINnirinsan",
+      "glosa": "(n) difosfato de adenosina ◆ adenosín difosfato ◆ ADP"
+    }
+  ]
+},
+  {
+  "kanji": "力",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "リョク",
+    "リキ",
+    "リイ",
+    "RYOKU",
+    "RIKI",
+    "RĪ"
+  ],
+  "lecturasKun": [
+    "ちから",
+    "chikara"
+  ],
+  "trazos": 2,
+  "radicalClasico": "力",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 41,
+  "unicode": "529b",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "",
+  "palabras": [
+    {
+      "jp": "力",
+      "lectura": "りょく",
+      "romaji": "ryoku",
+      "glosa": "(n-suf) fuerza ◆ poder"
+    },
+    {
+      "jp": "力",
+      "lectura": "ちから",
+      "romaji": "chikara",
+      "glosa": "(n) fuerza ◆ energía ◆ poder ◆ agencia ◆ autoridad ◆ influencia ◆ vigor ◆ estres ◆ enfasis ◆ esfuerzos ◆ eficacia ◆ ayuda ◆ buenos oficios ◆ capacidad ◆ facultad ◆ recursos"
+    },
+    {
+      "jp": "力む",
+      "lectura": "りきむ",
+      "romaji": "rikimu",
+      "glosa": "(vi) esforzarse ◆ ponerse tenso"
+    },
+    {
+      "jp": "力試し",
+      "lectura": "ちからだめし",
+      "romaji": "chikaradameshi",
+      "glosa": "(n) prueba de capacidad"
+    },
+    {
+      "jp": "力強い",
+      "lectura": "ちからづよい",
+      "romaji": "chikarazuyoi",
+      "glosa": "(adj) fuerte ◆ vigoroso ◆ tranquilizador ◆ seguro ◆ envalentonado"
+    },
+    {
+      "jp": "力持ち",
+      "lectura": "ちからもち",
+      "romaji": "chikaramochi",
+      "glosa": "(n) fortachón ◆ fornido"
+    },
+    {
+      "jp": "力学",
+      "lectura": "りきがく",
+      "romaji": "rikigaku",
+      "glosa": "(n) mecánica ◆ dinámica"
+    },
+    {
+      "jp": "力量",
+      "lectura": "りきりょう",
+      "romaji": "rikiryō",
+      "glosa": "(n) aptitud ◆ fuerza física ◆ capacidad ◆ tacto"
+    },
+    {
+      "jp": "握力",
+      "lectura": "あくりょく",
+      "romaji": "akuryoku",
+      "glosa": "(n) agarre (de la mano) ◆ apretón"
+    },
+    {
+      "jp": "圧力",
+      "lectura": "あつりょく",
+      "romaji": "atsuryoku",
+      "glosa": "(n,vs) presión ◆ stress"
+    },
+    {
+      "jp": "威力",
+      "lectura": "いりょく",
+      "romaji": "iryoku",
+      "glosa": "(n) poder ◆ fuerza ◆ autoridad ◆ influencia"
+    },
+    {
+      "jp": "引力",
+      "lectura": "いんりょく",
+      "romaji": "inryoku",
+      "glosa": "(n) (fuerza de la) gravedad"
+    },
+    {
+      "jp": "学力",
+      "lectura": "がくりょく",
+      "romaji": "gakuryoku",
+      "glosa": "(n) escolaridad ◆ conocimiento ◆ capacidad literaria"
+    },
+    {
+      "jp": "活力",
+      "lectura": "かつりょく",
+      "romaji": "katsuryoku",
+      "glosa": "(n) vitalidad ◆ energía"
+    },
+    {
+      "jp": "火力",
+      "lectura": "かりょく",
+      "romaji": "karyoku",
+      "glosa": "(n) poder de calentamiento ◆ poder del vapor"
+    },
+    {
+      "jp": "協力",
+      "lectura": "きょうりょく",
+      "romaji": "kyōryoku",
+      "glosa": "(n,vs) cooperación ◆ colaboración"
+    },
+    {
+      "jp": "強力",
+      "lectura": "きょうりょく",
+      "romaji": "kyōryoku",
+      "glosa": "(adj-na,n) poderoso ◆ fuerte"
+    },
+    {
+      "jp": "気力",
+      "lectura": "きりょく",
+      "romaji": "kiryoku",
+      "glosa": "(n) fuerza ◆ energía ◆ vitalidad"
+    },
+    {
+      "jp": "筋力",
+      "lectura": "きんりょく",
+      "romaji": "kinryoku",
+      "glosa": "(n) fuerza física"
+    },
+    {
+      "jp": "権力",
+      "lectura": "けんりょく",
+      "romaji": "kenryoku",
+      "glosa": "(n,adj-no) poder (político) ◆ autoridad ◆ influencia"
+    },
+    {
+      "jp": "効力",
+      "lectura": "こうりょく",
+      "romaji": "kōryoku",
+      "glosa": "(n) efecto ◆ poder"
+    },
+    {
+      "jp": "国力",
+      "lectura": "こくりょく",
+      "romaji": "kokuryoku",
+      "glosa": "(n) economía y recursos de una nación"
+    },
+    {
+      "jp": "実力",
+      "lectura": "じつりょく",
+      "romaji": "jitsuryoku",
+      "glosa": "(n) fuerza ◆ habilidad"
+    },
+    {
+      "jp": "重力",
+      "lectura": "じゅうりょく",
+      "romaji": "jūryoku",
+      "glosa": "(n) (fuerza de la) gravedad"
+    },
+    {
+      "jp": "出力",
+      "lectura": "しゅつりょく",
+      "romaji": "shutsuryoku",
+      "glosa": "(n,vs) salida ◆ output"
+    },
+    {
+      "jp": "視力",
+      "lectura": "しりょく",
+      "romaji": "shiryoku",
+      "glosa": "la vista (el poder de visión)"
+    },
+    {
+      "jp": "水力",
+      "lectura": "すいりょく",
+      "romaji": "suiryoku",
+      "glosa": "(n) hidroenergia ◆ energía hidráulica"
+    },
+    {
+      "jp": "勢力",
+      "lectura": "せいりょく",
+      "romaji": "seiryoku",
+      "glosa": "(n) influencia ◆ poder ◆ fuerza ◆ potencia ◆ energía"
+    },
+    {
+      "jp": "精力",
+      "lectura": "せいりょく",
+      "romaji": "seiryoku",
+      "glosa": "(n) energía ◆ vigor ◆ vitalidad"
+    },
+    {
+      "jp": "全力",
+      "lectura": "ぜんりょく",
+      "romaji": "zenryoku",
+      "glosa": "(n,adj-no) con todas las fuerzas"
+    },
+    {
+      "jp": "速力",
+      "lectura": "そくりょく",
+      "romaji": "sokuryoku",
+      "glosa": "(n) velocidad"
+    },
+    {
+      "jp": "体力",
+      "lectura": "たいりょく",
+      "romaji": "tairyoku",
+      "glosa": "(n) fuerza física"
+    },
+    {
+      "jp": "弾力",
+      "lectura": "だんりょく",
+      "romaji": "danryoku",
+      "glosa": "(n) elasticidad ◆ flexibilidad"
+    },
+    {
+      "jp": "電力",
+      "lectura": "でんりょく",
+      "romaji": "denryoku",
+      "glosa": "(n) electricidad ◆ energía eléctrica"
+    },
+    {
+      "jp": "動力",
+      "lectura": "どうりょく",
+      "romaji": "dōryoku",
+      "glosa": "(n) fuerza motriz"
+    },
+    {
+      "jp": "努力",
+      "lectura": "どりょく",
+      "romaji": "doryoku",
+      "glosa": "(n,vs) gran esfuerzo ◆ esfuerzo excesivo ◆ esfuerzo"
+    },
+    {
+      "jp": "入力",
+      "lectura": "にゅうりょく",
+      "romaji": "nyūryoku",
+      "glosa": "(n,vs) input ◆ entrada"
+    },
+    {
+      "jp": "念力",
+      "lectura": "ねんりき",
+      "romaji": "nenriki",
+      "glosa": "(n) fuerza de voluntad ◆ fe"
+    },
+    {
+      "jp": "能力",
+      "lectura": "のうりょく",
+      "romaji": "nōryoku",
+      "glosa": "(n) habilidad ◆ facultad"
+    },
+    {
+      "jp": "迫力",
+      "lectura": "はくりょく",
+      "romaji": "hakuryoku",
+      "glosa": "(n) fuerza ◆ impacto"
+    },
+    {
+      "jp": "馬力",
+      "lectura": "ばりき",
+      "romaji": "bariki",
+      "glosa": "(n) caballos de potencia"
+    },
+    {
+      "jp": "風力",
+      "lectura": "ふうりょく",
+      "romaji": "fūryoku",
+      "glosa": "(n) energía eólica"
+    },
+    {
+      "jp": "武力",
+      "lectura": "ぶりょく",
+      "romaji": "buryoku",
+      "glosa": "(n) armamento ◆ fuerza militar"
+    },
+    {
+      "jp": "暴力",
+      "lectura": "ぼうりょく",
+      "romaji": "bōryoku",
+      "glosa": "(n) violencia ◆ caos"
+    },
+    {
+      "jp": "魅力",
+      "lectura": "みりょく",
+      "romaji": "miryoku",
+      "glosa": "(n) encanto ◆ fascinación ◆ glamur"
+    },
+    {
+      "jp": "無力",
+      "lectura": "むりょく",
+      "romaji": "muryoku",
+      "glosa": "(n,adj-na) impotencia ◆ incapacidad"
+    },
+    {
+      "jp": "有力",
+      "lectura": "ゆうりょく",
+      "romaji": "yūryoku",
+      "glosa": "(n,adj-na) potente ◆ poderoso ◆ influyente"
+    },
+    {
+      "jp": "労力",
+      "lectura": "ろうりょく",
+      "romaji": "rōryoku",
+      "glosa": "(n) mano de obra"
+    },
+    {
+      "jp": "力一杯",
+      "lectura": "ちからいっぱい",
+      "romaji": "chikaraippai",
+      "glosa": "(adv) con toda la fuerza"
+    },
+    {
+      "jp": "遠心力",
+      "lectura": "えんしんりょく",
+      "romaji": "enshinryoku",
+      "glosa": "(n) fuerza centrífuga"
+    },
+    {
+      "jp": "原子力",
+      "lectura": "げんしりょく",
+      "romaji": "genshiryoku",
+      "glosa": "(n) energía nuclear ◆ energía atómica"
+    },
+    {
+      "jp": "購買力",
+      "lectura": "こうばいりょく",
+      "romaji": "kōbairyoku",
+      "glosa": "(n) poder de compra"
+    },
+    {
+      "jp": "全速力",
+      "lectura": "ぜんそくりょく",
+      "romaji": "zensokuryoku",
+      "glosa": "(adj,adv) a toda velocidad ◆ a toda máquina"
+    },
+    {
+      "jp": "包容力",
+      "lectura": "ほうようりょく",
+      "romaji": "hōyōryoku",
+      "glosa": "(n) tolerancia ◆ mente abierta"
+    },
+    {
+      "jp": "魅力的",
+      "lectura": "みりょくてき",
+      "romaji": "miryokuteki",
+      "glosa": "atractivo, encantador"
+    },
+    {
+      "jp": "無気力",
+      "lectura": "むきりょく",
+      "romaji": "mukiryoku",
+      "glosa": "(adj-na,n) letárgico ◆ lasitud Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "力抜け",
+      "lectura": "ちからぬけ",
+      "romaji": "chikaranuke",
+      "glosa": "(n,vs) desilusión ◆ decepción"
+    },
+    {
+      "jp": "力弱い",
+      "lectura": "ちからよわい",
+      "romaji": "chikarayowai",
+      "glosa": "(n) débil"
+    },
+    {
+      "jp": "ご協力",
+      "lectura": "ごきょうりょく",
+      "romaji": "gokyōryoku",
+      "glosa": "(n,vs) cooperación ◆ colaboración"
+    },
+    {
+      "jp": "引っ張り応力",
+      "lectura": "ひっぱりおうりょく",
+      "romaji": "hippariōryoku",
+      "glosa": "(n) tensión de estiramiento ◆ tensión de estrés"
+    },
+    {
+      "jp": "偉力",
+      "lectura": "いりょく",
+      "romaji": "iryoku",
+      "glosa": "(n) poder ◆ autoridad ◆ influencia"
+    },
+    {
+      "jp": "意力",
+      "lectura": "いりょく",
+      "romaji": "iryoku",
+      "glosa": "(n) voluntad ◆ fuerza de voluntad"
+    },
+    {
+      "jp": "応力",
+      "lectura": "おうりょく",
+      "romaji": "ōryoku",
+      "glosa": "(n) estrés"
+    },
+    {
+      "jp": "音力",
+      "lectura": "おんりょく",
+      "romaji": "onryoku",
+      "glosa": "(n) fuerza de la voz"
+    },
+    {
+      "jp": "共力",
+      "lectura": "きょうりょく",
+      "romaji": "kyōryoku",
+      "glosa": "(iK) (n,vs) cooperación ◆ colaboración"
+    },
+    {
+      "jp": "角力",
+      "lectura": "すもう",
+      "romaji": "sumō",
+      "glosa": "(n) lucha sumo"
+    },
+    {
+      "jp": "蛮力",
+      "lectura": "ばんりょく",
+      "romaji": "banryoku",
+      "glosa": "(n) fuerza bruta"
+    },
+    {
+      "jp": "浮力",
+      "lectura": "ふりょく",
+      "romaji": "furyoku",
+      "glosa": "(n) flotación"
+    },
+    {
+      "jp": "魔力",
+      "lectura": "まりょく",
+      "romaji": "maryoku",
+      "glosa": "(n) fuerza mágica"
+    },
+    {
+      "jp": "歪力",
+      "lectura": "わいりょく",
+      "romaji": "wairyoku",
+      "glosa": "(n) estrés"
+    },
+    {
+      "jp": "力仕事",
+      "lectura": "ちからしごと",
+      "romaji": "chikarashigoto",
+      "glosa": "(n) trabajo físico ◆ trabajo manual"
+    },
+    {
+      "jp": "力動的",
+      "lectura": "りきどうてき",
+      "romaji": "rikidōteki",
+      "glosa": "(adj-na) dinámico"
+    },
+    {
+      "jp": "握力計",
+      "lectura": "あくりょくけい",
+      "romaji": "akuryokukei",
+      "glosa": "(n) dinamómetro de mano"
+    },
+    {
+      "jp": "圧力計",
+      "lectura": "あつりょくけい",
+      "romaji": "atsuryokukei",
+      "glosa": "(n) manómetro"
+    },
+    {
+      "jp": "引力圏",
+      "lectura": "いんりょくけん",
+      "romaji": "inryokuken",
+      "glosa": "(n) esfera de gravitación (de la luna)"
+    },
+    {
+      "jp": "影響力",
+      "lectura": "えいきょうりょく",
+      "romaji": "eikyōryoku",
+      "glosa": "(n) influencia"
+    },
+    {
+      "jp": "記憶力",
+      "lectura": "きおくりょく",
+      "romaji": "kiokuryoku",
+      "glosa": "(n) memoria"
+    },
+    {
+      "jp": "機動力",
+      "lectura": "きどうりょく",
+      "romaji": "kidōryoku",
+      "glosa": "(n) movilidad"
+    },
+    {
+      "jp": "凝着力",
+      "lectura": "ぎょうちゃくりょく",
+      "romaji": "gyōchakuryoku",
+      "glosa": "(n) adhesión"
+    },
+    {
+      "jp": "攻撃力",
+      "lectura": "こうげきりょく",
+      "romaji": "kōgekiryoku",
+      "glosa": "(n) capacidad ofensiva"
+    },
+    {
+      "jp": "御協力",
+      "lectura": "ごきょうりょく",
+      "romaji": "gokyōryoku",
+      "glosa": "(n,vs) cooperación ◆ colaboración"
+    },
+    {
+      "jp": "持続力",
+      "lectura": "じぞくりょく",
+      "romaji": "jizokuryoku",
+      "glosa": "(n) durabilidad"
+    },
+    {
+      "jp": "磁力計",
+      "lectura": "じりょくけい",
+      "romaji": "jiryokukei",
+      "glosa": "(n) magnetómetro"
+    },
+    {
+      "jp": "親和力",
+      "lectura": "しんわりょく",
+      "romaji": "shinwaryoku",
+      "glosa": "(n) afinidad (química)"
+    },
+    {
+      "jp": "精神力",
+      "lectura": "せいしんりょく",
+      "romaji": "seishinryoku",
+      "glosa": "(n) fuerza emocional ◆ fuerza de voluntad"
+    },
+    {
+      "jp": "説得力",
+      "lectura": "せっとくりょく",
+      "romaji": "settokuryoku",
+      "glosa": "(n) poder de persuasión"
+    },
+    {
+      "jp": "速力度",
+      "lectura": "そくりょくど",
+      "romaji": "sokuryokudo",
+      "glosa": "(n) velocidad"
+    },
+    {
+      "jp": "抵抗力",
+      "lectura": "ていこうりょく",
+      "romaji": "teikōryoku",
+      "glosa": "(n) (fuerza de) resistencia"
+    },
+    {
+      "jp": "動力学",
+      "lectura": "どうりきがく",
+      "romaji": "dōrikigaku",
+      "glosa": "(n) dinámica"
+    },
+    {
+      "jp": "動力計",
+      "lectura": "どうりょくけい",
+      "romaji": "dōryokukei",
+      "glosa": "(n) dinamómetro"
+    },
+    {
+      "jp": "入力線",
+      "lectura": "にゅうりょくせん",
+      "romaji": "nyūryokusen",
+      "glosa": "(n) input"
+    },
+    {
+      "jp": "付着力",
+      "lectura": "ふちゃくりょく",
+      "romaji": "fuchakuryoku",
+      "glosa": "(n) adhesión"
+    },
+    {
+      "jp": "附着力",
+      "lectura": "ふちゃくりょく",
+      "romaji": "fuchakuryoku",
+      "glosa": "(n) adhesión"
+    },
+    {
+      "jp": "武力戦",
+      "lectura": "ぶりょくせん",
+      "romaji": "buryokusen",
+      "glosa": "(n) conflicto armado"
+    },
+    {
+      "jp": "無重力",
+      "lectura": "むじゅうりょく",
+      "romaji": "mujūryoku",
+      "glosa": "(n) ingravidez ◆ gravedad cero"
+    },
+    {
+      "jp": "意思能力",
+      "lectura": "いしのうりょく",
+      "romaji": "ishinōryoku",
+      "glosa": "(n) capacidad mental"
+    },
+    {
+      "jp": "一致協力",
+      "lectura": "いっちきょうりょく",
+      "romaji": "icchikyōryoku",
+      "glosa": "(n,vs) esfuerzos combinados ◆ esfuerzos coordinados ◆ solidaridad ◆ unir fuerzas (con)"
+    },
+    {
+      "jp": "印字出力",
+      "lectura": "いんじしゅつりょく",
+      "romaji": "injishutsuryoku",
+      "glosa": "(n) (comp) hard copy"
+    },
+    {
+      "jp": "協力一致",
+      "lectura": "きょうりょくいっち",
+      "romaji": "kyōryokuicchi",
+      "glosa": "(n,vs) esfuerzos combinados ◆ esfuerzos coordinados ◆ solidaridad ◆ unir fuerzas (con)"
+    },
+    {
+      "jp": "入力情報",
+      "lectura": "にゅうりょくじょうほう",
+      "romaji": "nyūryokujōhō",
+      "glosa": "(n) input"
+    },
+    {
+      "jp": "戮力協心",
+      "lectura": "りくりょくきょうしん",
+      "romaji": "rikuryokukyōshin",
+      "glosa": "(n,vs) esfuerzos combinados ◆ esfuerzos coordinados ◆ solidaridad ◆ unir fuerzas (con)"
+    },
+    {
+      "jp": "安全保護能力",
+      "lectura": "あんぜんほごのうりょく",
+      "romaji": "anzenhogonōryoku",
+      "glosa": "(n) (comp) capacidades de seguridad"
+    },
+    {
+      "jp": "位置入力装置",
+      "lectura": "いちにゅうりょくそうち",
+      "romaji": "ichinyūryokusōchi",
+      "glosa": "(n) (comp) dispositivo localizador"
+    },
+    {
+      "jp": "原子力潜水艦",
+      "lectura": "げんしりょくせんすいかん",
+      "romaji": "genshiryokusensuikan",
+      "glosa": "(n) submarino nuclear"
+    },
+    {
+      "jp": "英語基礎能力試験",
+      "lectura": "えいごきそのうりょくしけん",
+      "romaji": "eigokisonōryokushiken",
+      "glosa": "(n) Test de capacidad de la lengua inglesa (TOEFL) ◆ examen oficial de la lengua inglesa"
+    },
+    {
+      "jp": "エレベーター力士",
+      "lectura": "エレベーターりきし",
+      "romaji": "EREBĒTĀrikishi",
+      "glosa": "(n) luchador de sumo que sigue subiendo y bajando en el ranking"
+    }
+  ]
+},
+  {
+  "kanji": "入",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "ニュウ",
+    "ジュ",
+    "NYŪ",
+    "JU"
+  ],
+  "lecturasKun": [
+    "い-",
+    "-い-",
+    "はい-",
+    "i-",
+    "-i-",
+    "hai-"
+  ],
+  "trazos": 2,
+  "radicalClasico": "入",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 35,
+  "unicode": "5165",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "",
+  "palabras": [
+    {
+      "jp": "入る",
+      "lectura": "はいる",
+      "romaji": "hairu",
+      "glosa": "(v5r) entrar"
+    },
+    {
+      "jp": "入れる",
+      "lectura": "いれる",
+      "romaji": "ireru",
+      "glosa": "(v1,vt) meter ◆ dejar entrar ◆ admitir ◆ introducir ◆ encarcelar ◆ acomodar ◆ emplear ◆ escuchar a ◆ tolerar ◆ comprender ◆ poner (joyas) ◆ emplear ◆ pagar (interés) ◆ depositar (votos)"
+    },
+    {
+      "jp": "入り口",
+      "lectura": "いりぐち",
+      "romaji": "iriguchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入れ墨",
+      "lectura": "いれずみ",
+      "romaji": "irezumi",
+      "glosa": "(n,vs) tatuaje"
+    },
+    {
+      "jp": "入れ歯",
+      "lectura": "いれば",
+      "romaji": "ireba",
+      "glosa": "(n) dentadura postiza"
+    },
+    {
+      "jp": "入れ物",
+      "lectura": "いれもの",
+      "romaji": "iremono",
+      "glosa": "(n) envase ◆ recipiente ◆ contenedor"
+    },
+    {
+      "jp": "押入れ",
+      "lectura": "おしいれ",
+      "romaji": "oshīre",
+      "glosa": "(n) ropero ◆ armario"
+    },
+    {
+      "jp": "仕入れ",
+      "lectura": "しいれ",
+      "romaji": "shīre",
+      "glosa": "(n) abastecimiento ◆ abasto"
+    },
+    {
+      "jp": "出入り",
+      "lectura": "でいり",
+      "romaji": "deiri",
+      "glosa": "(n,vs) acceso ◆ entrada y salida"
+    },
+    {
+      "jp": "手入れ",
+      "lectura": "ていれ",
+      "romaji": "teire",
+      "glosa": "(n,vs) cuidado ◆ mantenimiento"
+    },
+    {
+      "jp": "念入り",
+      "lectura": "ねんいり",
+      "romaji": "nen'iri",
+      "glosa": "(adj-na) esmerado ◆ concienzudo"
+    },
+    {
+      "jp": "入り込む",
+      "lectura": "はいりこむ",
+      "romaji": "hairikomu",
+      "glosa": "(v5m,vi) meterse ◆ entrar ◆ ingresar"
+    },
+    {
+      "jp": "受け入れ",
+      "lectura": "うけいれ",
+      "romaji": "ukeire",
+      "glosa": "(n) aceptar ◆ tomar ◆ recibir"
+    },
+    {
+      "jp": "押し入れ",
+      "lectura": "おしいれ",
+      "romaji": "oshīre",
+      "glosa": "(n) ropero ◆ armario"
+    },
+    {
+      "jp": "買い入れ",
+      "lectura": "かいいれ",
+      "romaji": "kaīre",
+      "glosa": "(n) compra ◆ adquisición"
+    },
+    {
+      "jp": "借り入れ",
+      "lectura": "かりいれ",
+      "romaji": "karīre",
+      "glosa": "(n) deuda"
+    },
+    {
+      "jp": "気に入る",
+      "lectura": "きにいる",
+      "romaji": "kinīru",
+      "glosa": "(v) agradar ◆ gustar"
+    },
+    {
+      "jp": "仕入れる",
+      "lectura": "しいれる",
+      "romaji": "shīreru",
+      "glosa": "(vt) abastecer ◆ adquirir ◆ acumular"
+    },
+    {
+      "jp": "手に入る",
+      "lectura": "てにはいる",
+      "romaji": "tenihairu",
+      "glosa": "(exp) obtener ◆ heredar la posesión de"
+    },
+    {
+      "jp": "日の入り",
+      "lectura": "ひのいり",
+      "romaji": "hinoiri",
+      "glosa": "(n) puesta del sol ◆ ocaso"
+    },
+    {
+      "jp": "水入らず",
+      "lectura": "みずいらず",
+      "romaji": "mizuirazu",
+      "glosa": "(adj,adv) estrictamente entre familia ◆ en familia"
+    },
+    {
+      "jp": "申し入れ",
+      "lectura": "もうしいれ",
+      "romaji": "mōshīre",
+      "glosa": "(n) ofrecimiento ◆ propuesta"
+    },
+    {
+      "jp": "受け入れる",
+      "lectura": "うけいれる",
+      "romaji": "ukeireru",
+      "glosa": "aceptar (decír que sí)"
+    },
+    {
+      "jp": "お気に入り",
+      "lectura": "おきにいり",
+      "romaji": "okinīri",
+      "glosa": "(n) favorito ◆ predilecto"
+    },
+    {
+      "jp": "買い入れる",
+      "lectura": "かいいれる",
+      "romaji": "kaīreru",
+      "glosa": "(v1,vt) comprar ◆ adquirir"
+    },
+    {
+      "jp": "手に入れる",
+      "lectura": "てにいれる",
+      "romaji": "tenīreru",
+      "glosa": "(v1,vi) obtener ◆ conseguir"
+    },
+    {
+      "jp": "取り入れる",
+      "lectura": "とりいれる",
+      "romaji": "torīreru",
+      "glosa": "(vt) introducir ◆ meter ◆ implementar ◆ adoptar"
+    },
+    {
+      "jp": "申し入れる",
+      "lectura": "もうしいれる",
+      "romaji": "mōshīreru",
+      "glosa": "(v1,vt) pedir ◆ solicitar ◆ protestar ◆ quejarse"
+    },
+    {
+      "jp": "梅雨入り",
+      "lectura": "つゆいり",
+      "romaji": "tsuyuiri",
+      "glosa": "(n,vs) comienzo de la estación de lluvias"
+    },
+    {
+      "jp": "出入り口",
+      "lectura": "でいりぐち",
+      "romaji": "deiriguchi",
+      "glosa": "(n) entrada y salida"
+    },
+    {
+      "jp": "仲間入り",
+      "lectura": "なかまいり",
+      "romaji": "nakamairi",
+      "glosa": "(n,vs) unirse a un grupo"
+    },
+    {
+      "jp": "立ち入り禁止",
+      "lectura": "たちいりきんし",
+      "romaji": "tachīrikinshi",
+      "glosa": "(n) prohibido el paso"
+    },
+    {
+      "jp": "入口",
+      "lectura": "いりぐち",
+      "romaji": "iriguchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入院",
+      "lectura": "にゅういん",
+      "romaji": "nyūin",
+      "glosa": "(n,vs) hospitalización"
+    },
+    {
+      "jp": "入荷",
+      "lectura": "にゅうか",
+      "romaji": "nyūka",
+      "glosa": "(n,vs) arribo de mercancía"
+    },
+    {
+      "jp": "入学",
+      "lectura": "にゅうがく",
+      "romaji": "nyūgaku",
+      "glosa": "(n,vs) entrada a la escuela o la universidad ◆ matriculación"
+    },
+    {
+      "jp": "入金",
+      "lectura": "にゅうきん",
+      "romaji": "nyūkin",
+      "glosa": "(n,vs) pago ◆ depósito ◆ anticipo"
+    },
+    {
+      "jp": "入国",
+      "lectura": "にゅうこく",
+      "romaji": "nyūkoku",
+      "glosa": "(n,vs) inmigración"
+    },
+    {
+      "jp": "入札",
+      "lectura": "にゅうさつ",
+      "romaji": "nyūsatsu",
+      "glosa": "(n,vs) licitación ◆ oferta"
+    },
+    {
+      "jp": "入試",
+      "lectura": "にゅうし",
+      "romaji": "nyūshi",
+      "glosa": "(n) (abbr) examen de acceso ◆ examen de ingreso"
+    },
+    {
+      "jp": "入室",
+      "lectura": "にゅうしつ",
+      "romaji": "nyūshitsu",
+      "glosa": "(n,vs) ingreso (a un salón)"
+    },
+    {
+      "jp": "入社",
+      "lectura": "にゅうしゃ",
+      "romaji": "nyūsha",
+      "glosa": "(n,vs) ingreso a una compañía"
+    },
+    {
+      "jp": "入手",
+      "lectura": "にゅうしゅ",
+      "romaji": "nyūshu",
+      "glosa": "(n,vs) adquisición"
+    },
+    {
+      "jp": "入賞",
+      "lectura": "にゅうしょう",
+      "romaji": "nyūshō",
+      "glosa": "(n,vs) ingreso (dentro de los ganadores)"
+    },
+    {
+      "jp": "入場",
+      "lectura": "にゅうじょう",
+      "romaji": "nyūjō",
+      "glosa": "(n,vs) ingreso (a un lugar)"
+    },
+    {
+      "jp": "入籍",
+      "lectura": "にゅうせき",
+      "romaji": "nyūseki",
+      "glosa": "(n,vs) ingreso al registro civil al contraer matrimonio"
+    },
+    {
+      "jp": "入選",
+      "lectura": "にゅうせん",
+      "romaji": "nyūsen",
+      "glosa": "(n,vs) ingreso a los seleccionados"
+    },
+    {
+      "jp": "入党",
+      "lectura": "にゅうとう",
+      "romaji": "nyūtō",
+      "glosa": "(n,vs) afiliarse a un partido político"
+    },
+    {
+      "jp": "入念",
+      "lectura": "にゅうねん",
+      "romaji": "nyūnen",
+      "glosa": "(n,adj-na,adv) cuidadosamente ◆ esmeradamente"
+    },
+    {
+      "jp": "入梅",
+      "lectura": "にゅうばい",
+      "romaji": "nyūbai",
+      "glosa": "(n) inicio de la estación de lluvias"
+    },
+    {
+      "jp": "入門",
+      "lectura": "にゅうもん",
+      "romaji": "nyūmon",
+      "glosa": "(n,vs) ingreso a un curso ◆ curso para principiantes"
+    },
+    {
+      "jp": "入力",
+      "lectura": "にゅうりょく",
+      "romaji": "nyūryoku",
+      "glosa": "(n,vs) input ◆ entrada"
+    },
+    {
+      "jp": "押入",
+      "lectura": "おしいれ",
+      "romaji": "oshīre",
+      "glosa": "(n) ropero ◆ armario"
+    },
+    {
+      "jp": "介入",
+      "lectura": "かいにゅう",
+      "romaji": "kainyū",
+      "glosa": "(n,vs) intervención"
+    },
+    {
+      "jp": "加入",
+      "lectura": "かにゅう",
+      "romaji": "kanyū",
+      "glosa": "(n,vs) participación"
+    },
+    {
+      "jp": "記入",
+      "lectura": "きにゅう",
+      "romaji": "kinyū",
+      "glosa": "(n,vs) apunte ◆ anotación"
+    },
+    {
+      "jp": "吸入",
+      "lectura": "きゅうにゅう",
+      "romaji": "kyūnyū",
+      "glosa": "(n,vs) inhalación"
+    },
+    {
+      "jp": "購入",
+      "lectura": "こうにゅう",
+      "romaji": "kōnyū",
+      "glosa": "(n,vs) compra ◆ adquisición"
+    },
+    {
+      "jp": "収入",
+      "lectura": "しゅうにゅう",
+      "romaji": "shūnyū",
+      "glosa": "(n) ingresos"
+    },
+    {
+      "jp": "侵入",
+      "lectura": "しんにゅう",
+      "romaji": "shinnyū",
+      "glosa": "(n,vs) invasión ◆ intrusión ◆ penetración"
+    },
+    {
+      "jp": "進入",
+      "lectura": "しんにゅう",
+      "romaji": "shinnyū",
+      "glosa": "(n,vs) acceso ◆ aproximación ◆ entrada"
+    },
+    {
+      "jp": "潜入",
+      "lectura": "せんにゅう",
+      "romaji": "sennyū",
+      "glosa": "(n,vs) infiltrarse"
+    },
+    {
+      "jp": "挿入",
+      "lectura": "そうにゅう",
+      "romaji": "sōnyū",
+      "glosa": "(n,vs) inserción"
+    },
+    {
+      "jp": "投入",
+      "lectura": "とうにゅう",
+      "romaji": "tōnyū",
+      "glosa": "(n,vs) insertar ◆ inyectar"
+    },
+    {
+      "jp": "導入",
+      "lectura": "どうにゅう",
+      "romaji": "dōnyū",
+      "glosa": "(n,vs) introducción"
+    },
+    {
+      "jp": "納入",
+      "lectura": "のうにゅう",
+      "romaji": "nōnyū",
+      "glosa": "(n,vs) pago ◆ entrega ◆ suministro"
+    },
+    {
+      "jp": "編入",
+      "lectura": "へんにゅう",
+      "romaji": "hennyū",
+      "glosa": "(n,vs) admisión ◆ incorporación ◆ afiliación ◆ ingreso"
+    },
+    {
+      "jp": "輸入",
+      "lectura": "ゆにゅう",
+      "romaji": "yunyū",
+      "glosa": "(n,vs) importación ◆ artículo importado ◆ introducción"
+    },
+    {
+      "jp": "入館料",
+      "lectura": "にゅうかんりょう",
+      "romaji": "nyūkanryō",
+      "glosa": "(n) cuota de admisión"
+    },
+    {
+      "jp": "入場券",
+      "lectura": "にゅうじょうけん",
+      "romaji": "nyūjōken",
+      "glosa": "(n) boleto de entrada"
+    },
+    {
+      "jp": "先入観",
+      "lectura": "せんにゅうかん",
+      "romaji": "sennyūkan",
+      "glosa": "(n) prejuicios"
+    },
+    {
+      "jp": "出入口",
+      "lectura": "でいりぐち",
+      "romaji": "deiriguchi",
+      "glosa": "(n) entrada y salida"
+    },
+    {
+      "jp": "密入国",
+      "lectura": "みつにゅうこく",
+      "romaji": "mitsunyūkoku",
+      "glosa": "(n,vs) entrada ilegal a un país"
+    },
+    {
+      "jp": "輸出入",
+      "lectura": "ゆしゅつにゅう",
+      "romaji": "yushutsunyū",
+      "glosa": "(n) exportación e importación"
+    },
+    {
+      "jp": "入学試験",
+      "lectura": "にゅうがくしけん",
+      "romaji": "nyūgakushiken",
+      "glosa": "(n) examen de acceso ◆ examen de ingreso"
+    },
+    {
+      "jp": "四捨五入",
+      "lectura": "ししゃごにゅう",
+      "romaji": "shishagonyū",
+      "glosa": "(n,vs) redondeo"
+    },
+    {
+      "jp": "入国管理局",
+      "lectura": "にゅうこくかんりきょく",
+      "romaji": "nyūkokukanrikyoku",
+      "glosa": "(n) oficina de inmigración Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "入",
+      "lectura": "いり",
+      "romaji": "iri",
+      "glosa": "(n) entrar"
+    },
+    {
+      "jp": "入る",
+      "lectura": "いる",
+      "romaji": "iru",
+      "glosa": "(v5r,vi) llegar ◆ entrar ◆ entrar en ◆ desaguar ◆ cerrar"
+    },
+    {
+      "jp": "入れ",
+      "lectura": "いれ",
+      "romaji": "ire",
+      "glosa": "(n-suf) contenedor ◆ recipiente"
+    },
+    {
+      "jp": "入り相",
+      "lectura": "いりあい",
+      "romaji": "iriai",
+      "glosa": "(n) puesta del sol ◆ ocaso"
+    },
+    {
+      "jp": "入り口",
+      "lectura": "いりくち",
+      "romaji": "irikuchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入れ目",
+      "lectura": "いれめ",
+      "romaji": "ireme",
+      "glosa": "(n) ojo artificial"
+    },
+    {
+      "jp": "入り口",
+      "lectura": "はいりくち",
+      "romaji": "hairikuchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入り口",
+      "lectura": "はいりぐち",
+      "romaji": "hairiguchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "絵入り",
+      "lectura": "えいり",
+      "romaji": "eiri",
+      "glosa": "(n, adj-no) ilustrado"
+    },
+    {
+      "jp": "口入れ",
+      "lectura": "くちいれ",
+      "romaji": "kuchīre",
+      "glosa": "(n) actuar como casamentero(a) ◆ buenas oficios"
+    },
+    {
+      "jp": "中入り",
+      "lectura": "なかいり",
+      "romaji": "nakairi",
+      "glosa": "(n,vs) intermedio (en un juego)"
+    },
+    {
+      "jp": "寝入る",
+      "lectura": "ねいる",
+      "romaji": "neiru",
+      "glosa": "(v5r,vi) dormirse ◆ quedarse dormido ◆ caer dormido"
+    },
+    {
+      "jp": "斑入り",
+      "lectura": "ふいり",
+      "romaji": "fuiri",
+      "glosa": "(n,adj-no) variegado (estado de la planta que muestra tejidos de distintos colores y ◆ o constitución ◆ generalmente es blanco o amarillo sobre el verde normal de las hojas)"
+    },
+    {
+      "jp": "入浴する",
+      "lectura": "にゅうよくする",
+      "romaji": "nyūyokusuru",
+      "glosa": "(n,vs) bañarse"
+    },
+    {
+      "jp": "悦に入る",
+      "lectura": "えつにいる",
+      "romaji": "etsunīru",
+      "glosa": "(v5r) estar contento ◆ gozar ◆ brillar de auto-satisfacción"
+    },
+    {
+      "jp": "畏れ入る",
+      "lectura": "おそれいる",
+      "romaji": "osoreiru",
+      "glosa": "(v5r,vi) (1) sentirse ◆ sentirse pequeño ◆ (2) estar agradecido ◆ (3) sorprenderse ◆ llenarse de temor ◆ estar asombrado ◆ (4) desconcertarse ◆ sentirse confuso o avergonzado"
+    },
+    {
+      "jp": "攻め入る",
+      "lectura": "せめいる",
+      "romaji": "semeiru",
+      "glosa": "(v5r,vi) invadir"
+    },
+    {
+      "jp": "絶え入る",
+      "lectura": "たえいる",
+      "romaji": "taeiru",
+      "glosa": "(v5r,vi) expirar"
+    },
+    {
+      "jp": "相入れない",
+      "lectura": "あいいれない",
+      "romaji": "aīrenai",
+      "glosa": "(iK) (exp,adj-i) inconciliable ◆ incompatible ◆ opuesto"
+    },
+    {
+      "jp": "引き入れる",
+      "lectura": "ひきいれる",
+      "romaji": "hikīreru",
+      "glosa": "(v1,vt) arrastrar a ◆ ganar el apoyo de"
+    },
+    {
+      "jp": "囲いに入れる",
+      "lectura": "かこいにいれる",
+      "romaji": "kakoinīreru",
+      "glosa": "(exp) colocar en encierro"
+    },
+    {
+      "jp": "ご覧に入れる",
+      "lectura": "ごらんにいれる",
+      "romaji": "gorannīreru",
+      "glosa": "(exp,v1) (hum) mostrar"
+    },
+    {
+      "jp": "仕入れ値",
+      "lectura": "しいれね",
+      "romaji": "shīrene",
+      "glosa": "(n) precio de coste"
+    },
+    {
+      "jp": "一寝入り",
+      "lectura": "ひとねいり",
+      "romaji": "hitoneiri",
+      "glosa": "(n,vs) siesta"
+    },
+    {
+      "jp": "一札入れる",
+      "lectura": "いっさついれる",
+      "romaji": "issatsuireru",
+      "glosa": "(v1) dar una declaración firmada o pagaré"
+    },
+    {
+      "jp": "強盗に入る",
+      "lectura": "ごうとうにはいる",
+      "romaji": "gōtōnihairu",
+      "glosa": "(exp) cometer un robo ◆ robar"
+    },
+    {
+      "jp": "一息入れる",
+      "lectura": "ひといきいれる",
+      "romaji": "hitoikīreru",
+      "glosa": "(exp,v1) tomar un respiro"
+    },
+    {
+      "jp": "御覧に入れる",
+      "lectura": "ごらんにいれる",
+      "romaji": "gorannīreru",
+      "glosa": "(exp,v1) (hum) mostrar"
+    },
+    {
+      "jp": "弟子入りする",
+      "lectura": "でしいりする",
+      "romaji": "deshīrisuru",
+      "glosa": "(v) ser aceptado como discípulo"
+    },
+    {
+      "jp": "一人悦に入る",
+      "lectura": "ひとりえつにいる",
+      "romaji": "hitorietsunīru",
+      "glosa": "(exp) estar contento con uno mismo"
+    },
+    {
+      "jp": "入相",
+      "lectura": "いりあい",
+      "romaji": "iriai",
+      "glosa": "(n) puesta del sol ◆ ocaso"
+    },
+    {
+      "jp": "入口",
+      "lectura": "いりくち",
+      "romaji": "irikuchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入墨",
+      "lectura": "いれずみ",
+      "romaji": "irezumi",
+      "glosa": "(n,vs) tatuaje"
+    },
+    {
+      "jp": "入目",
+      "lectura": "いれめ",
+      "romaji": "ireme",
+      "glosa": "(n) ojo artificial"
+    },
+    {
+      "jp": "入唐",
+      "lectura": "にっとう",
+      "romaji": "nittō",
+      "glosa": "(n,vs) visita a China"
+    },
+    {
+      "jp": "入会",
+      "lectura": "にゅうかい",
+      "romaji": "nyūkai",
+      "glosa": "(n,vs) ingreso ◆ admisión ◆ unirse ◆ inscripción (inscribirse en algún sitio)"
+    },
+    {
+      "jp": "入部",
+      "lectura": "にゅうぶ",
+      "romaji": "nyūbu",
+      "glosa": "(n,vs) unirse a un club"
+    },
+    {
+      "jp": "入木",
+      "lectura": "にゅうぼく",
+      "romaji": "nyūboku",
+      "glosa": "(n) caligrafía"
+    },
+    {
+      "jp": "入口",
+      "lectura": "はいりくち",
+      "romaji": "hairikuchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "入口",
+      "lectura": "はいりぐち",
+      "romaji": "hairiguchi",
+      "glosa": "(n) entrada ◆ puerta ◆ acceso ◆ boca"
+    },
+    {
+      "jp": "移入",
+      "lectura": "いにゅう",
+      "romaji": "inyū",
+      "glosa": "(n,vs) importación ◆ ingreso ◆ migración ◆ corte transversal"
+    },
+    {
+      "jp": "輸入",
+      "lectura": "しゅにゅう",
+      "romaji": "shunyū",
+      "glosa": "(n,vs) importación ◆ artículo importado ◆ introducción"
+    },
+    {
+      "jp": "一入",
+      "lectura": "ひとしお",
+      "romaji": "hitoshio",
+      "glosa": "(adv,n) aun más ◆ especialmente"
+    },
+    {
+      "jp": "入院中",
+      "lectura": "にゅういんちゅう",
+      "romaji": "nyūinchū",
+      "glosa": "(n) en el hospital ◆ hospitalizado"
+    },
+    {
+      "jp": "入居者",
+      "lectura": "にゅうきょしゃ",
+      "romaji": "nyūkyosha",
+      "glosa": "(n) inquilino"
+    },
+    {
+      "jp": "入場式",
+      "lectura": "にゅうじょうしき",
+      "romaji": "nyūjōshiki",
+      "glosa": "(n) ceremonia de apertura"
+    },
+    {
+      "jp": "入力線",
+      "lectura": "にゅうりょくせん",
+      "romaji": "nyūryokusen",
+      "glosa": "(n) input"
+    },
+    {
+      "jp": "加入金",
+      "lectura": "かにゅうきん",
+      "romaji": "kanyūkin",
+      "glosa": "(n) cuota de admisión"
+    },
+    {
+      "jp": "侵入者",
+      "lectura": "しんにゅうしゃ",
+      "romaji": "shinnyūsha",
+      "glosa": "(n) intruso ◆ invasor"
+    },
+    {
+      "jp": "新入生",
+      "lectura": "しんにゅうせい",
+      "romaji": "shinnyūsei",
+      "glosa": "(n) estudiante de nuevo ingreso"
+    },
+    {
+      "jp": "入学考査",
+      "lectura": "にゅうがくこうさ",
+      "romaji": "nyūgakukōsa",
+      "glosa": "(n) examen de acceso ◆ examen de ingreso"
+    },
+    {
+      "jp": "入力情報",
+      "lectura": "にゅうりょくじょうほう",
+      "romaji": "nyūryokujōhō",
+      "glosa": "(n) input"
+    },
+    {
+      "jp": "一芸入試",
+      "lectura": "いちげいにゅうし",
+      "romaji": "ichigeinyūshi",
+      "glosa": "(n) examen de admisión para la universidad dando prefencia a personas que se distinguen en una campo especial ◆ examen de admisión orientado hacia un talento"
+    },
+    {
+      "jp": "一括購入",
+      "lectura": "いっかつこうにゅう",
+      "romaji": "ikkatsukōnyū",
+      "glosa": "(n) compra de un lote"
+    },
+    {
+      "jp": "編入試験",
+      "lectura": "へんにゅうしけん",
+      "romaji": "hennyūshiken",
+      "glosa": "(n) examen de acceso (para un estudiante transferido) ◆ examen de ingreso"
+    },
+    {
+      "jp": "位置入力装置",
+      "lectura": "いちにゅうりょくそうち",
+      "romaji": "ichinyūryokusōchi",
+      "glosa": "(n) (comp) dispositivo localizador"
+    },
+    {
+      "jp": "一般競争入札",
+      "lectura": "いっぱんきょうそうにゅうさつ",
+      "romaji": "ippankyōsōnyūsatsu",
+      "glosa": "(n) ofrecimiento de pago abierto ◆ oferta competitiva abierta"
+    },
+    {
+      "jp": "移動加入者識別番号",
+      "lectura": "いどうかにゅうしゃしきべつばんごう",
+      "romaji": "idōkanyūshashikibetsubangō",
+      "glosa": "(n) Identidad de Subscriptor Móvil Internacional ◆ (International Mobile Subscriber Identity (IMSI))"
+    }
+  ]
+},
+  {
   "kanji": "人",
   "tipo": "Kanji oficial de uso común",
   "lecturasOn": [
@@ -11801,6 +14417,7 @@
   ]
 }
   ]
+
 
 
 
