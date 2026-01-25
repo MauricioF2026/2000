@@ -1,4 +1,2967 @@
  [
+  {
+  "kanji": "人",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "ジン",
+    "ニン",
+    "JIN",
+    "NIN"
+  ],
+  "lecturasKun": [
+    "ひと",
+    "-り",
+    "-と",
+    "hito",
+    "-ri",
+    "-to"
+  ],
+  "trazos": 2,
+  "radicalClasico": "人 (亻,𠆢)",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 1,
+  "unicode": "4eba",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "",
+  "palabras": [
+    {
+      "jp": "人",
+      "lectura": "ひと",
+      "romaji": "hito",
+      "glosa": "(n) persona ◆ (sp) las personas"
+    },
+    {
+      "jp": "人ごみ",
+      "lectura": "ひとごみ",
+      "romaji": "hitogomi",
+      "glosa": "(n) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "けが人",
+      "lectura": "けがにん",
+      "romaji": "keganin",
+      "glosa": "(n) persona herida ◆ persona lesionada"
+    },
+    {
+      "jp": "人だかり",
+      "lectura": "ひとだかり",
+      "romaji": "hitodakari",
+      "glosa": "(n,vs) gentío ◆ multitud ◆ muchedumbre ◆ tumulto"
+    },
+    {
+      "jp": "人殺し",
+      "lectura": "ひとごろし",
+      "romaji": "hitogoroshi",
+      "glosa": "(n) asesino ◆ asesinato ◆ homicidio ◆ homicida"
+    },
+    {
+      "jp": "人違い",
+      "lectura": "ひとちがい",
+      "romaji": "hitochigai",
+      "glosa": "(n,vs) error de identidad"
+    },
+    {
+      "jp": "人通り",
+      "lectura": "ひとどおり",
+      "romaji": "hitodōri",
+      "glosa": "(n) tráfico peatonal"
+    },
+    {
+      "jp": "人並み",
+      "lectura": "ひとなみ",
+      "romaji": "hitonami",
+      "glosa": "(n,adj-na) ordinario ◆ común ◆ regular ◆ normal (personas)"
+    },
+    {
+      "jp": "ご主人",
+      "lectura": "ごしゅじん",
+      "romaji": "goshujin",
+      "glosa": "(n) (hon) (su) marido ◆ (su) esposo"
+    },
+    {
+      "jp": "一人で",
+      "lectura": "ひとりで",
+      "romaji": "hitoride",
+      "glosa": "(exp) solo ◆ por uno mismo ◆ voluntariamente ◆ espontáneamente ◆ automáticamente"
+    },
+    {
+      "jp": "大人しい",
+      "lectura": "おとなしい",
+      "romaji": "otonashii",
+      "glosa": "(adj-i) (uk) obediente ◆ dócil ◆ tranquilo"
+    },
+    {
+      "jp": "二人とも",
+      "lectura": "ふたりとも",
+      "romaji": "futaritomo",
+      "glosa": "(n) ambos (gente) ◆ los dos"
+    },
+    {
+      "jp": "人差し指",
+      "lectura": "ひとさしゆび",
+      "romaji": "hitosashiyubi",
+      "glosa": "(n) dedo índice"
+    },
+    {
+      "jp": "人見知り",
+      "lectura": "ひとみしり",
+      "romaji": "hitomishiri",
+      "glosa": "(n,vs) timidez ◆ miedo a los extraños ◆ ansiedad ante extraños"
+    },
+    {
+      "jp": "一人っ子",
+      "lectura": "ひとりっこ",
+      "romaji": "hitorikko",
+      "glosa": "(n) un sólo niño"
+    },
+    {
+      "jp": "一人暮らし",
+      "lectura": "ひとりぐらし",
+      "romaji": "hitorigurashi",
+      "glosa": "(n) una vida simple ◆ una vida solitaria ◆ vivir solo"
+    },
+    {
+      "jp": "-人",
+      "lectura": "-じん",
+      "romaji": "-jin",
+      "glosa": "(suf) -és (sufijo para adjetivo gentilicio)"
+    },
+    {
+      "jp": "-人",
+      "lectura": "-にん",
+      "romaji": "-nin",
+      "glosa": "(suf) persona (contador para personas)"
+    },
+    {
+      "jp": "人員",
+      "lectura": "じんいん",
+      "romaji": "jin'in",
+      "glosa": "(n) número de personas ◆ (el) personal"
+    },
+    {
+      "jp": "人格",
+      "lectura": "じんかく",
+      "romaji": "jinkaku",
+      "glosa": "(n) personaje"
+    },
+    {
+      "jp": "人権",
+      "lectura": "じんけん",
+      "romaji": "jinken",
+      "glosa": "(n) derechos humanos ◆ libertades civiles"
+    },
+    {
+      "jp": "人口",
+      "lectura": "じんこう",
+      "romaji": "jinkō",
+      "glosa": "(n) población ◆ número de habitantes ◆ (2) plática común"
+    },
+    {
+      "jp": "人工",
+      "lectura": "じんこう",
+      "romaji": "jinkō",
+      "glosa": "(n,adj-no) artificial ◆ hecho por el hombre ◆ trabajo humano ◆ capacidad humana ◆ artificialidad"
+    },
+    {
+      "jp": "人骨",
+      "lectura": "じんこつ",
+      "romaji": "jinkotsu",
+      "glosa": "(n) huesos humanos"
+    },
+    {
+      "jp": "人材",
+      "lectura": "じんざい",
+      "romaji": "jinzai",
+      "glosa": "(n) persona con talento ◆ persona capaz"
+    },
+    {
+      "jp": "人事",
+      "lectura": "じんじ",
+      "romaji": "jinji",
+      "glosa": "(n) recursos humanos"
+    },
+    {
+      "jp": "人種",
+      "lectura": "じんしゅ",
+      "romaji": "jinshu",
+      "glosa": "(n) raza"
+    },
+    {
+      "jp": "人生",
+      "lectura": "じんせい",
+      "romaji": "jinsei",
+      "glosa": "(n) vida humana"
+    },
+    {
+      "jp": "人選",
+      "lectura": "じんせん",
+      "romaji": "jinsen",
+      "glosa": "(n,vs) selección de personal"
+    },
+    {
+      "jp": "人造",
+      "lectura": "じんぞう",
+      "romaji": "jinzō",
+      "glosa": "(n) sintético ◆ artificial"
+    },
+    {
+      "jp": "人体",
+      "lectura": "じんたい",
+      "romaji": "jintai",
+      "glosa": "(n) cuerpo humano"
+    },
+    {
+      "jp": "人道",
+      "lectura": "じんどう",
+      "romaji": "jindō",
+      "glosa": "(n) humanidad ◆ acera"
+    },
+    {
+      "jp": "人物",
+      "lectura": "じんぶつ",
+      "romaji": "jinbutsu",
+      "glosa": "(n) carácter ◆ personalidad ◆ persona ◆ hombre ◆ personaje ◆ hombre con talento"
+    },
+    {
+      "jp": "人民",
+      "lectura": "じんみん",
+      "romaji": "jinmin",
+      "glosa": "(n) ciudadanos ◆ colonos"
+    },
+    {
+      "jp": "人名",
+      "lectura": "じんめい",
+      "romaji": "jinmei",
+      "glosa": "(n) nombre de persona"
+    },
+    {
+      "jp": "人命",
+      "lectura": "じんめい",
+      "romaji": "jinmei",
+      "glosa": "(n) vida"
+    },
+    {
+      "jp": "人類",
+      "lectura": "じんるい",
+      "romaji": "jinrui",
+      "glosa": "(n) género humano ◆ (la) humanidad"
+    },
+    {
+      "jp": "人形",
+      "lectura": "にんぎょう",
+      "romaji": "ningyō",
+      "glosa": "(n) muñeco ◆ títere ◆ figura"
+    },
+    {
+      "jp": "人間",
+      "lectura": "にんげん",
+      "romaji": "ningen",
+      "glosa": "(n) (1) ser humano ◆ hombre ◆ persona ◆ (2) carácter (de una persona)"
+    },
+    {
+      "jp": "人情",
+      "lectura": "にんじょう",
+      "romaji": "ninjō",
+      "glosa": "(n) compasión ◆ sentimiento ◆ humanitarismo"
+    },
+    {
+      "jp": "人参",
+      "lectura": "にんじん",
+      "romaji": "ninjin",
+      "glosa": "(n) zanahoria ◆ ginseng"
+    },
+    {
+      "jp": "人数",
+      "lectura": "にんずう",
+      "romaji": "ninzū",
+      "glosa": "(n) número de personas"
+    },
+    {
+      "jp": "人相",
+      "lectura": "にんそう",
+      "romaji": "ninsō",
+      "glosa": "(n) aspecto ◆ facha ◆ pinta"
+    },
+    {
+      "jp": "人影",
+      "lectura": "ひとかげ",
+      "romaji": "hitokage",
+      "glosa": "(n) sombra de una persona ◆ vestigios de la fama de una persona"
+    },
+    {
+      "jp": "人柄",
+      "lectura": "ひとがら",
+      "romaji": "hitogara",
+      "glosa": "(n) personalidad ◆ carácter"
+    },
+    {
+      "jp": "人質",
+      "lectura": "ひとじち",
+      "romaji": "hitojichi",
+      "glosa": "(n) rehén ◆ preso"
+    },
+    {
+      "jp": "人妻",
+      "lectura": "ひとづま",
+      "romaji": "hitozuma",
+      "glosa": "(n) (1) mujer casada ◆ (2) (la) esposa de otro"
+    },
+    {
+      "jp": "人出",
+      "lectura": "ひとで",
+      "romaji": "hitode",
+      "glosa": "(n) tumulto ◆ multitud"
+    },
+    {
+      "jp": "人々",
+      "lectura": "ひとびと",
+      "romaji": "hitobito",
+      "glosa": "personas (gente)"
+    },
+    {
+      "jp": "人前",
+      "lectura": "ひとまえ",
+      "romaji": "hitomae",
+      "glosa": "(n) (en) público ◆ (guardar las) apariencias"
+    },
+    {
+      "jp": "人目",
+      "lectura": "ひとめ",
+      "romaji": "hitome",
+      "glosa": "(n) miradas ajenas ◆ (el que dirá) la gente"
+    },
+    {
+      "jp": "愛人",
+      "lectura": "あいじん",
+      "romaji": "aijin",
+      "glosa": "(n) amante"
+    },
+    {
+      "jp": "悪人",
+      "lectura": "あくにん",
+      "romaji": "akunin",
+      "glosa": "(n) hombre malo ◆ villano ◆ hombre perverso ◆ persona malvada (malvado)"
+    },
+    {
+      "jp": "偉人",
+      "lectura": "いじん",
+      "romaji": "ijin",
+      "glosa": "(n) gran hombre"
+    },
+    {
+      "jp": "大人",
+      "lectura": "おとな",
+      "romaji": "otona",
+      "glosa": "(n) adulto ◆ persona mayor"
+    },
+    {
+      "jp": "恩人",
+      "lectura": "おんじん",
+      "romaji": "onjin",
+      "glosa": "(n) benefactor ◆ bienhechor"
+    },
+    {
+      "jp": "外人",
+      "lectura": "がいじん",
+      "romaji": "gaijin",
+      "glosa": "(n) (sens) extranjero"
+    },
+    {
+      "jp": "歌人",
+      "lectura": "かじん",
+      "romaji": "kajin",
+      "glosa": "(n) poeta (japonés)"
+    },
+    {
+      "jp": "狩人",
+      "lectura": "かりゅうど",
+      "romaji": "karyūdo",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "求人",
+      "lectura": "きゅうじん",
+      "romaji": "kyūjin",
+      "glosa": "(n,vs) oferta de empleo ◆ vacante"
+    },
+    {
+      "jp": "巨人",
+      "lectura": "きょじん",
+      "romaji": "kyojin",
+      "glosa": "Gigante"
+    },
+    {
+      "jp": "玄人",
+      "lectura": "くろうと",
+      "romaji": "kurōto",
+      "glosa": "(n) experto ◆ especialista"
+    },
+    {
+      "jp": "軍人",
+      "lectura": "ぐんじん",
+      "romaji": "gunjin",
+      "glosa": "(n) soldado ◆ personal militar"
+    },
+    {
+      "jp": "賢人",
+      "lectura": "けんじん",
+      "romaji": "kenjin",
+      "glosa": "(n) persona sabia ◆ sabio"
+    },
+    {
+      "jp": "原人",
+      "lectura": "げんじん",
+      "romaji": "genjin",
+      "glosa": "(n) hombre primitivo"
+    },
+    {
+      "jp": "恋人",
+      "lectura": "こいびと",
+      "romaji": "koibito",
+      "glosa": "(n) amante"
+    },
+    {
+      "jp": "黒人",
+      "lectura": "こくじん",
+      "romaji": "kokujin",
+      "glosa": "(n) negro (persona)"
+    },
+    {
+      "jp": "個人",
+      "lectura": "こじん",
+      "romaji": "kojin",
+      "glosa": "(adj-no) personal"
+    },
+    {
+      "jp": "罪人",
+      "lectura": "ざいにん",
+      "romaji": "zainin",
+      "glosa": "(n) criminal ◆ pecador"
+    },
+    {
+      "jp": "殺人",
+      "lectura": "さつじん",
+      "romaji": "satsujin",
+      "glosa": "(n,adj-no) asesino ◆ sicario"
+    },
+    {
+      "jp": "三人",
+      "lectura": "さんにん",
+      "romaji": "sannin",
+      "glosa": "(n) tres personas ◆ trío"
+    },
+    {
+      "jp": "詩人",
+      "lectura": "しじん",
+      "romaji": "shijin",
+      "glosa": "(n) poeta"
+    },
+    {
+      "jp": "死人",
+      "lectura": "しにん",
+      "romaji": "shinin",
+      "glosa": "(n) cadáver ◆ persona muerta"
+    },
+    {
+      "jp": "囚人",
+      "lectura": "しゅうじん",
+      "romaji": "shūjin",
+      "glosa": "(n) prisionero"
+    },
+    {
+      "jp": "住人",
+      "lectura": "じゅうにん",
+      "romaji": "jūnin",
+      "glosa": "(n) residente"
+    },
+    {
+      "jp": "主人",
+      "lectura": "しゅじん",
+      "romaji": "shujin",
+      "glosa": "(n) esposo (propio) ◆ marido ◆ dueño ◆ jefe (de la casa)"
+    },
+    {
+      "jp": "商人",
+      "lectura": "しょうにん",
+      "romaji": "shōnin",
+      "glosa": "(n,adj-no) comerciante ◆ mercante"
+    },
+    {
+      "jp": "証人",
+      "lectura": "しょうにん",
+      "romaji": "shōnin",
+      "glosa": "(n) testigo (persona)"
+    },
+    {
+      "jp": "職人",
+      "lectura": "しょくにん",
+      "romaji": "shokunin",
+      "glosa": "(n) artesano ◆ experto ◆ profesional"
+    },
+    {
+      "jp": "素人",
+      "lectura": "しろうと",
+      "romaji": "shirōto",
+      "glosa": "(n) amateur ◆ aficionado ◆ novato ◆ principiante"
+    },
+    {
+      "jp": "新人",
+      "lectura": "しんじん",
+      "romaji": "shinjin",
+      "glosa": "(n,adj-no) recién llegado ◆ la persona nueva ◆ advenedizo"
+    },
+    {
+      "jp": "成人",
+      "lectura": "せいじん",
+      "romaji": "seijin",
+      "glosa": "(n,vs) mayor de edad ◆ adulto"
+    },
+    {
+      "jp": "達人",
+      "lectura": "たつじん",
+      "romaji": "tatsujin",
+      "glosa": "(n) maestro ◆ experto"
+    },
+    {
+      "jp": "他人",
+      "lectura": "たにん",
+      "romaji": "tanin",
+      "glosa": "(n) otra persona ◆ persona ajena ◆ desconocido ◆ extraño ◆ forastero"
+    },
+    {
+      "jp": "旅人",
+      "lectura": "たびびと",
+      "romaji": "tabibito",
+      "glosa": "(n) viajero"
+    },
+    {
+      "jp": "知人",
+      "lectura": "ちじん",
+      "romaji": "chijin",
+      "glosa": "(n) amigo ◆ conocido"
+    },
+    {
+      "jp": "超人",
+      "lectura": "ちょうじん",
+      "romaji": "chōjin",
+      "glosa": "(n) superhombre"
+    },
+    {
+      "jp": "町人",
+      "lectura": "ちょうにん",
+      "romaji": "chōnin",
+      "glosa": "(n) comerciante ◆ mercader"
+    },
+    {
+      "jp": "当人",
+      "lectura": "とうにん",
+      "romaji": "tōnin",
+      "glosa": "(n) persona en cuestión"
+    },
+    {
+      "jp": "仲人",
+      "lectura": "なこうど",
+      "romaji": "nakōdo",
+      "glosa": "(n) casamentero ◆ casamentera"
+    },
+    {
+      "jp": "白人",
+      "lectura": "はくじん",
+      "romaji": "hakujin",
+      "glosa": "(n) blanco (persona) ◆ caucásico"
+    },
+    {
+      "jp": "万人",
+      "lectura": "ばんじん",
+      "romaji": "banjin",
+      "glosa": "(n) lleno de gente ◆ toda la gente ◆ todos ◆ (2) diez mil personas"
+    },
+    {
+      "jp": "犯人",
+      "lectura": "はんにん",
+      "romaji": "hannin",
+      "glosa": "(n) delincuente ◆ criminal"
+    },
+    {
+      "jp": "万人",
+      "lectura": "ばんにん",
+      "romaji": "bannin",
+      "glosa": "(n) lleno de gente ◆ toda la gente ◆ todos ◆ (2) diez mil personas"
+    },
+    {
+      "jp": "美人",
+      "lectura": "びじん",
+      "romaji": "bijin",
+      "glosa": "(n) mujer bella"
+    },
+    {
+      "jp": "一人",
+      "lectura": "ひとり",
+      "romaji": "hitori",
+      "glosa": "(n) (1) una persona ◆ (2) solo ◆ soltero ◆ solitario"
+    },
+    {
+      "jp": "病人",
+      "lectura": "びょうにん",
+      "romaji": "byōnin",
+      "glosa": "(n) enfermo ◆ paciente"
+    },
+    {
+      "jp": "夫人",
+      "lectura": "ふじん",
+      "romaji": "fujin",
+      "glosa": "(n) esposa ◆ señora"
+    },
+    {
+      "jp": "婦人",
+      "lectura": "ふじん",
+      "romaji": "fujin",
+      "glosa": "(n) (sens) mujer ◆ señora ◆ mujer adulta"
+    },
+    {
+      "jp": "二人",
+      "lectura": "ふたり",
+      "romaji": "futari",
+      "glosa": "(n) dos personas ◆ pareja ◆ dúo"
+    },
+    {
+      "jp": "法人",
+      "lectura": "ほうじん",
+      "romaji": "hōjin",
+      "glosa": "(n) corporación"
+    },
+    {
+      "jp": "邦人",
+      "lectura": "ほうじん",
+      "romaji": "hōjin",
+      "glosa": "(n) persona japonesa"
+    },
+    {
+      "jp": "凡人",
+      "lectura": "ぼんじん",
+      "romaji": "bonjin",
+      "glosa": "(n) persona ordinaria"
+    },
+    {
+      "jp": "本人",
+      "lectura": "ほんにん",
+      "romaji": "honnin",
+      "glosa": "(n) la propia persona"
+    },
+    {
+      "jp": "無人",
+      "lectura": "むじん",
+      "romaji": "mujin",
+      "glosa": "(adj-na,n) sin personas ◆ de autoservicio"
+    },
+    {
+      "jp": "村人",
+      "lectura": "むらびと",
+      "romaji": "murabito",
+      "glosa": "(n) aldeano"
+    },
+    {
+      "jp": "名人",
+      "lectura": "めいじん",
+      "romaji": "meijin",
+      "glosa": "(n) maestro ◆ experto"
+    },
+    {
+      "jp": "盲人",
+      "lectura": "もうじん",
+      "romaji": "mōjin",
+      "glosa": "(n) ciego (persona)"
+    },
+    {
+      "jp": "役人",
+      "lectura": "やくにん",
+      "romaji": "yakunin",
+      "glosa": "(n) funcionario del gobierno"
+    },
+    {
+      "jp": "友人",
+      "lectura": "ゆうじん",
+      "romaji": "yūjin",
+      "glosa": "(n) amigo"
+    },
+    {
+      "jp": "要人",
+      "lectura": "ようじん",
+      "romaji": "yōjin",
+      "glosa": "(n) persona muy importante ◆ VIP"
+    },
+    {
+      "jp": "四人",
+      "lectura": "よにん",
+      "romaji": "yonin",
+      "glosa": "cuatro personas"
+    },
+    {
+      "jp": "隣人",
+      "lectura": "りんじん",
+      "romaji": "rinjin",
+      "glosa": "(n,adj-no) vecino"
+    },
+    {
+      "jp": "老人",
+      "lectura": "ろうじん",
+      "romaji": "rōjin",
+      "glosa": "(n,adj-no) anciano"
+    },
+    {
+      "jp": "浪人",
+      "lectura": "ろうにん",
+      "romaji": "rōnin",
+      "glosa": "(n,vs) (1) ronin ◆ samurai sin señor a quien servir ◆ (2) sin trabajo ◆ (3) esperar otra oportunidad para entrar a la universidad"
+    },
+    {
+      "jp": "人為的",
+      "lectura": "じんいてき",
+      "romaji": "jin'iteki",
+      "glosa": "(adj-na) artificial"
+    },
+    {
+      "jp": "人件費",
+      "lectura": "じんけんひ",
+      "romaji": "jinkenhi",
+      "glosa": "(n) (1) costos del personal ◆ costo de labor ◆ (2) costos laborales indirectos"
+    },
+    {
+      "jp": "人工的",
+      "lectura": "じんこうてき",
+      "romaji": "jinkōteki",
+      "glosa": "(adj-na) artificial ◆ hecho por el hombre"
+    },
+    {
+      "jp": "人生観",
+      "lectura": "じんせいかん",
+      "romaji": "jinseikan",
+      "glosa": "cosmovisión personal (filosofía propia de la vida)"
+    },
+    {
+      "jp": "人道的",
+      "lectura": "じんどうてき",
+      "romaji": "jindōteki",
+      "glosa": "(adj-na,n) humano"
+    },
+    {
+      "jp": "人類学",
+      "lectura": "じんるいがく",
+      "romaji": "jinruigaku",
+      "glosa": "(n) antropología"
+    },
+    {
+      "jp": "人間性",
+      "lectura": "にんげんせい",
+      "romaji": "ningensei",
+      "glosa": "(n) humanidad ◆ naturaleza humana"
+    },
+    {
+      "jp": "人間的",
+      "lectura": "にんげんてき",
+      "romaji": "ningenteki",
+      "glosa": "(adj-na) humano"
+    },
+    {
+      "jp": "一人物",
+      "lectura": "いちじんぶつ",
+      "romaji": "ichijinbutsu",
+      "glosa": "(n) hombre de alguna importancia ◆ personaje"
+    },
+    {
+      "jp": "一人前",
+      "lectura": "いちにんまえ",
+      "romaji": "ichininmae",
+      "glosa": "(n) (1) adulto ◆ hombría o feminidad completa ◆ (2) ración ◆ una porción"
+    },
+    {
+      "jp": "受取人",
+      "lectura": "うけとりにん",
+      "romaji": "uketorinin",
+      "glosa": "(n) destinatario"
+    },
+    {
+      "jp": "外国人",
+      "lectura": "がいこくじん",
+      "romaji": "gaikokujin",
+      "glosa": "(n) extranjero"
+    },
+    {
+      "jp": "芸能人",
+      "lectura": "げいのうじん",
+      "romaji": "geinōjin",
+      "glosa": "(n) artista ◆ actor"
+    },
+    {
+      "jp": "怪我人",
+      "lectura": "けがにん",
+      "romaji": "keganin",
+      "glosa": "(n) persona herida ◆ persona lesionada"
+    },
+    {
+      "jp": "見物人",
+      "lectura": "けんぶつにん",
+      "romaji": "kenbutsunin",
+      "glosa": "(n) turista ◆ curioso ◆ visita"
+    },
+    {
+      "jp": "差出人",
+      "lectura": "さしだしにん",
+      "romaji": "sashidashinin",
+      "glosa": "(n) remitente"
+    },
+    {
+      "jp": "社会人",
+      "lectura": "しゃかいじん",
+      "romaji": "shakaijin",
+      "glosa": "(n) miembro de la sociedad"
+    },
+    {
+      "jp": "主人公",
+      "lectura": "しゅじんこう",
+      "romaji": "shujinkō",
+      "glosa": "protagonista ◆ personaje principal"
+    },
+    {
+      "jp": "使用人",
+      "lectura": "しようにん",
+      "romaji": "shiyōnin",
+      "glosa": "(n) empleado ◆ sirviente"
+    },
+    {
+      "jp": "西洋人",
+      "lectura": "せいようじん",
+      "romaji": "seiyōjin",
+      "glosa": "(n) Occidental (persona)"
+    },
+    {
+      "jp": "知識人",
+      "lectura": "ちしきじん",
+      "romaji": "chishikijin",
+      "glosa": "(n) intelectual"
+    },
+    {
+      "jp": "中国人",
+      "lectura": "ちゅうごくじん",
+      "romaji": "chūgokujin",
+      "glosa": "(n) chino (persona)"
+    },
+    {
+      "jp": "張本人",
+      "lectura": "ちょうほんにん",
+      "romaji": "chōhonnin",
+      "glosa": "(n) cabecilla"
+    },
+    {
+      "jp": "日本人",
+      "lectura": "にほんじん",
+      "romaji": "nihonjin",
+      "glosa": "(n) persona japonesa, japonés (persona)"
+    },
+    {
+      "jp": "一人娘",
+      "lectura": "ひとりむすめ",
+      "romaji": "hitorimusume",
+      "glosa": "(n) una sóla hija"
+    },
+    {
+      "jp": "貧乏人",
+      "lectura": "びんぼうにん",
+      "romaji": "binbōnin",
+      "glosa": "(n) pobre ◆ necesitado"
+    },
+    {
+      "jp": "婦人科",
+      "lectura": "ふじんか",
+      "romaji": "fujinka",
+      "glosa": "(n) ginecología"
+    },
+    {
+      "jp": "不人気",
+      "lectura": "ふにんき",
+      "romaji": "funinki",
+      "glosa": "(adj-na,n) impopular"
+    },
+    {
+      "jp": "保証人",
+      "lectura": "ほしょうにん",
+      "romaji": "hoshōnin",
+      "glosa": "(n) garante"
+    },
+    {
+      "jp": "発起人",
+      "lectura": "ほっきにん",
+      "romaji": "hokkinin",
+      "glosa": "(n) promotores"
+    },
+    {
+      "jp": "未亡人",
+      "lectura": "みぼうじん",
+      "romaji": "mibōjin",
+      "glosa": "(n) viuda"
+    },
+    {
+      "jp": "類人猿",
+      "lectura": "るいじんえん",
+      "romaji": "ruijin'en",
+      "glosa": "(n) antropoide ◆ troglodita"
+    },
+    {
+      "jp": "老人性",
+      "lectura": "ろうじんせい",
+      "romaji": "rōjinsei",
+      "glosa": "(adj-na) senil"
+    },
+    {
+      "jp": "人権擁護",
+      "lectura": "じんけんようご",
+      "romaji": "jinken'yōgo",
+      "glosa": "(n) protección de los derechos humanos"
+    },
+    {
+      "jp": "人工衛星",
+      "lectura": "じんこうえいせい",
+      "romaji": "jinkōeisei",
+      "glosa": "(n) satélite artificial"
+    },
+    {
+      "jp": "人文科学",
+      "lectura": "じんぶんかがく",
+      "romaji": "jinbunkagaku",
+      "glosa": "(n) ciencias sociales ◆ humanidades"
+    },
+    {
+      "jp": "人民戦線",
+      "lectura": "じんみんせんせん",
+      "romaji": "jinminsensen",
+      "glosa": "(n) frente popular"
+    },
+    {
+      "jp": "人間関係",
+      "lectura": "にんげんかんけい",
+      "romaji": "ningenkankei",
+      "glosa": "(n) relaciones humanas"
+    },
+    {
+      "jp": "産婦人科",
+      "lectura": "さんふじんか",
+      "romaji": "sanfujinka",
+      "glosa": "(n) departamento de maternidad y ginecología ◆ departamento de obstetricia y ginecología"
+    },
+    {
+      "jp": "社団法人",
+      "lectura": "しゃだんほうじん",
+      "romaji": "shadanhōjin",
+      "glosa": "(n) corporación"
+    },
+    {
+      "jp": "一人一人",
+      "lectura": "ひとりひとり",
+      "romaji": "hitorihitori",
+      "glosa": "(n-t) uno por uno ◆ cada ◆ uno a la vez"
+    },
+    {
+      "jp": "一人息子",
+      "lectura": "ひとりむすこ",
+      "romaji": "hitorimusuko",
+      "glosa": "(n) un sólo hijo"
+    },
+    {
+      "jp": "中華人民共和国",
+      "lectura": "ちゅうかじんみんきょうわこく",
+      "romaji": "chūkajinminkyōwakoku",
+      "glosa": "(n) Republica Popular de China (República) ◆ China Comunista Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "人",
+      "lectura": "と",
+      "romaji": "to",
+      "glosa": "(suf) persona"
+    },
+    {
+      "jp": "人たち",
+      "lectura": "ひとたち",
+      "romaji": "hitotachi",
+      "glosa": "(n) gente"
+    },
+    {
+      "jp": "あの人",
+      "lectura": "あのひと",
+      "romaji": "anohito",
+      "glosa": "(n) esa persona ◆ él ◆ ella"
+    },
+    {
+      "jp": "人らしい",
+      "lectura": "ひとらしい",
+      "romaji": "hitorashii",
+      "glosa": "(adj) ◆ como una persona decente ◆ humano"
+    },
+    {
+      "jp": "人斬り",
+      "lectura": "ひときり",
+      "romaji": "hitokiri",
+      "glosa": "(n) asesinato"
+    },
+    {
+      "jp": "人食い",
+      "lectura": "ひとくい",
+      "romaji": "hitokui",
+      "glosa": "(n) canibalismo"
+    },
+    {
+      "jp": "人込み",
+      "lectura": "ひとごみ",
+      "romaji": "hitogomi",
+      "glosa": "(n) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "人混み",
+      "lectura": "ひとごみ",
+      "romaji": "hitogomi",
+      "glosa": "(n) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "人差し",
+      "lectura": "ひとさし",
+      "romaji": "hitosashi",
+      "glosa": "(n) dedo índice"
+    },
+    {
+      "jp": "人立ち",
+      "lectura": "ひとだち",
+      "romaji": "hitodachi",
+      "glosa": "(n,vs) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "偉い人",
+      "lectura": "えらいひと",
+      "romaji": "eraihito",
+      "glosa": "(n) personaje celebre ◆ persona de alta posición"
+    },
+    {
+      "jp": "男の人",
+      "lectura": "おとこのひと",
+      "romaji": "otokonohito",
+      "glosa": "(n) hombre"
+    },
+    {
+      "jp": "女の人",
+      "lectura": "おんなのひと",
+      "romaji": "onnanohito",
+      "glosa": "(n) mujer"
+    },
+    {
+      "jp": "何人も",
+      "lectura": "なんびとも",
+      "romaji": "nanbitomo",
+      "glosa": "(n) todo el mundo ◆ todos ◆ nadie (con verbo negativo)"
+    },
+    {
+      "jp": "何人も",
+      "lectura": "なんぴとも",
+      "romaji": "nanpitomo",
+      "glosa": "(n) todo el mundo ◆ todos ◆ nadie (con verbo negativo)"
+    },
+    {
+      "jp": "盗っ人",
+      "lectura": "ぬすっと",
+      "romaji": "nusutto",
+      "glosa": "(n) ladrón"
+    },
+    {
+      "jp": "１人きり",
+      "lectura": "ひとりきり",
+      "romaji": "hitorikiri",
+      "glosa": "(n,adv) todo en posesión de uno"
+    },
+    {
+      "jp": "一人きり",
+      "lectura": "ひとりきり",
+      "romaji": "hitorikiri",
+      "glosa": "(n,adv) todo solo (traducción dudosa)"
+    },
+    {
+      "jp": "一人でに",
+      "lectura": "ひとりでに",
+      "romaji": "hitorideni",
+      "glosa": "(iK) (adv) por sí mismo ◆ automáticamente ◆ naturalmente"
+    },
+    {
+      "jp": "２人きり",
+      "lectura": "ふたりきり",
+      "romaji": "futarikiri",
+      "glosa": "(n) sólo dos de ellos"
+    },
+    {
+      "jp": "２人とも",
+      "lectura": "ふたりとも",
+      "romaji": "futaritomo",
+      "glosa": "(n) ambos (gente) ◆ los dos"
+    },
+    {
+      "jp": "周りの人",
+      "lectura": "まわりのひと",
+      "romaji": "mawarinohito",
+      "glosa": "(n) gente de alrededor"
+    },
+    {
+      "jp": "もう一人",
+      "lectura": "もうひとり",
+      "romaji": "mōhitori",
+      "glosa": "(n,adv) (la) otra persona ◆ una persona más"
+    },
+    {
+      "jp": "易しい人",
+      "lectura": "やさしいひと",
+      "romaji": "yasashīhito",
+      "glosa": "(exp) persona promiscua"
+    },
+    {
+      "jp": "大人げない",
+      "lectura": "おとなげない",
+      "romaji": "otonagenai",
+      "glosa": "(adj-i) imaduro ◆ infantil ◆ pueril"
+    },
+    {
+      "jp": "大人っぽい",
+      "lectura": "おとなっぽい",
+      "romaji": "otonappoi",
+      "glosa": "(adj) ◆ como un adulto"
+    },
+    {
+      "jp": "１人あたり",
+      "lectura": "ひとりあたり",
+      "romaji": "hitoriatari",
+      "glosa": "(exp,adv) por persona ◆ per cápita ◆ por cabeza"
+    },
+    {
+      "jp": "一人あたり",
+      "lectura": "ひとりあたり",
+      "romaji": "hitoriatari",
+      "glosa": "(exp,adv) por person ◆ per capita ◆ por cabeza"
+    },
+    {
+      "jp": "１人っきり",
+      "lectura": "ひとりっきり",
+      "romaji": "hitorikkiri",
+      "glosa": "(n,adv) todo en posesión de uno"
+    },
+    {
+      "jp": "一人っきり",
+      "lectura": "ひとりっきり",
+      "romaji": "hitorikkiri",
+      "glosa": "(n,adv) todo solo (traducción dudosa)"
+    },
+    {
+      "jp": "一人として",
+      "lectura": "ひとりとして",
+      "romaji": "hitoritoshite",
+      "glosa": "(exp) como unod e"
+    },
+    {
+      "jp": "一人ひとり",
+      "lectura": "ひとりひとり",
+      "romaji": "hitorihitori",
+      "glosa": "(n-t) uno por uno ◆ cada ◆ uno a la vez"
+    },
+    {
+      "jp": "一人ぼっち",
+      "lectura": "ひとりぼっち",
+      "romaji": "hitoribocchi",
+      "glosa": "(n) solo ◆ solitario ◆ soledad"
+    },
+    {
+      "jp": "一人よがり",
+      "lectura": "ひとりよがり",
+      "romaji": "hitoriyogari",
+      "glosa": "(adj-na,n,adj-no) complaciente ◆ autosatisfecho ◆ autoimportancia ◆ conceited"
+    },
+    {
+      "jp": "２人っきり",
+      "lectura": "ふたりっきり",
+      "romaji": "futarikkiri",
+      "glosa": "(n) sólo dos de ellos"
+    },
+    {
+      "jp": "人里はなれた",
+      "lectura": "ひとざとはなれた",
+      "romaji": "hitozatohanareta",
+      "glosa": "(adj-f) solitario (lugar) ◆ remoto ◆ en medio de la nada"
+    },
+    {
+      "jp": "人当たりのいい",
+      "lectura": "ひとあたりのいい",
+      "romaji": "hitoatarinoī",
+      "glosa": "(adj-i) sociable"
+    },
+    {
+      "jp": "人当たりのよい",
+      "lectura": "ひとあたりのよい",
+      "romaji": "hitoatarinoyoi",
+      "glosa": "(adj-i) sociable"
+    },
+    {
+      "jp": "人間嫌い",
+      "lectura": "にんげんぎらい",
+      "romaji": "ningengirai",
+      "glosa": "(n) misantropía ◆ misántropo"
+    },
+    {
+      "jp": "人指し指",
+      "lectura": "ひとさしゆび",
+      "romaji": "hitosashiyubi",
+      "glosa": "(n) dedo índice"
+    },
+    {
+      "jp": "一人乗り",
+      "lectura": "いちにんのり",
+      "romaji": "ichininnori",
+      "glosa": "(n,adj-no) asiento simple (ej. bote ◆ aeroplano)"
+    },
+    {
+      "jp": "意中の人",
+      "lectura": "いちゅうのひと",
+      "romaji": "ichūnohito",
+      "glosa": "(n) enamorada ◆ persona en los pensamientos propios (corazón)"
+    },
+    {
+      "jp": "３人殺し",
+      "lectura": "さんにんころし",
+      "romaji": "sanninkoroshi",
+      "glosa": "(n) triple asesinato"
+    },
+    {
+      "jp": "３人殺し",
+      "lectura": "さんにんごろし",
+      "romaji": "sanningoroshi",
+      "glosa": "(n) triple asesinato"
+    },
+    {
+      "jp": "３人乗り",
+      "lectura": "さんにんのり",
+      "romaji": "sanninnori",
+      "glosa": "(n) tres personas en un mismo vehículo (usu. bicicleta)"
+    },
+    {
+      "jp": "市井の人",
+      "lectura": "しせいのひと",
+      "romaji": "shiseinohito",
+      "glosa": "(n) ciudadanos"
+    },
+    {
+      "jp": "成人の日",
+      "lectura": "せいじんのひ",
+      "romaji": "seijinnohi",
+      "glosa": "(n) Día de Mayoría de Edad (segundo Lunes de Enero. Antes del 2000 era el 15 de Enero) ◆ Día del Adulto"
+    },
+    {
+      "jp": "当の本人",
+      "lectura": "とうのほんにん",
+      "romaji": "tōnohonnin",
+      "glosa": "(n) la propia persona"
+    },
+    {
+      "jp": "一人遊び",
+      "lectura": "ひとりあそび",
+      "romaji": "hitoriasobi",
+      "glosa": "(exp) jugando solo"
+    },
+    {
+      "jp": "一人当て",
+      "lectura": "ひとりあて",
+      "romaji": "hitoriate",
+      "glosa": "(exp) por persona"
+    },
+    {
+      "jp": "一人歩き",
+      "lectura": "ひとりあるき",
+      "romaji": "hitoriaruki",
+      "glosa": "(n,vs) caminando solo ◆ andando solo ◆ recorriendo solo ◆ yendo solo ◆ quedarse en la posición (propia)"
+    },
+    {
+      "jp": "１人切り",
+      "lectura": "ひとりきり",
+      "romaji": "hitorikiri",
+      "glosa": "(n,adv) todo en posesión de uno"
+    },
+    {
+      "jp": "一人切り",
+      "lectura": "ひとりきり",
+      "romaji": "hitorikiri",
+      "glosa": "(n,adv) todo solo (traducción dudosa)"
+    },
+    {
+      "jp": "一人暮し",
+      "lectura": "ひとりぐらし",
+      "romaji": "hitorigurashi",
+      "glosa": "(n) una vida simple ◆ una vida solitaria ◆ vivir solo"
+    },
+    {
+      "jp": "一人占め",
+      "lectura": "ひとりじめ",
+      "romaji": "hitorijime",
+      "glosa": "(n,vs) monopolio"
+    },
+    {
+      "jp": "一人立ち",
+      "lectura": "ひとりだち",
+      "romaji": "hitoridachi",
+      "glosa": "(n,vs) ser independiente ◆ quedarse donde está uno ◆ volverse independiente"
+    },
+    {
+      "jp": "２人切り",
+      "lectura": "ふたりきり",
+      "romaji": "futarikiri",
+      "glosa": "(n) sólo dos de ellos"
+    },
+    {
+      "jp": "２人乗り",
+      "lectura": "ふたりのり",
+      "romaji": "futarinori",
+      "glosa": "(n,vs) dos personas utilizando lo mismo (vehículo) (frecuentemente dos en una bicicleta)"
+    },
+    {
+      "jp": "人里離れた",
+      "lectura": "ひとざとはなれた",
+      "romaji": "hitozatohanareta",
+      "glosa": "(adj-f) solitario (lugar) ◆ remoto ◆ en medio de la nada"
+    },
+    {
+      "jp": "人付き合い",
+      "lectura": "ひとづきあい",
+      "romaji": "hitozukiai",
+      "glosa": "(n) disposición social"
+    },
+    {
+      "jp": "大人気ない",
+      "lectura": "おとなげない",
+      "romaji": "otonagenai",
+      "glosa": "(adj-i) imaduro ◆ infantil ◆ pueril"
+    },
+    {
+      "jp": "位の高い人",
+      "lectura": "くらいのたかいひと",
+      "romaji": "kurainotakaihito",
+      "glosa": "(n) persona de alto rango"
+    },
+    {
+      "jp": "１人当たり",
+      "lectura": "ひとりあたり",
+      "romaji": "hitoriatari",
+      "glosa": "(exp,adv) por persona ◆ per cápita ◆ por cabeza"
+    },
+    {
+      "jp": "一人当たり",
+      "lectura": "ひとりあたり",
+      "romaji": "hitoriatari",
+      "glosa": "(exp,adv) por persona ◆ por cabeza"
+    },
+    {
+      "jp": "１人っ切り",
+      "lectura": "ひとりっきり",
+      "romaji": "hitorikkiri",
+      "glosa": "(n,adv) todo en posesión de uno"
+    },
+    {
+      "jp": "一人っ切り",
+      "lectura": "ひとりっきり",
+      "romaji": "hitorikkiri",
+      "glosa": "(n,adv) todo solo (traducción dudosa)"
+    },
+    {
+      "jp": "一人残らず",
+      "lectura": "ひとりのこらず",
+      "romaji": "hitorinokorazu",
+      "glosa": "(exp) cada uno ◆ cada cual ◆ todos"
+    },
+    {
+      "jp": "一人善がり",
+      "lectura": "ひとりよがり",
+      "romaji": "hitoriyogari",
+      "glosa": "(adj-na,n,adj-no) complaciente ◆ satisfacerse ◆ presunción ◆ engreido ◆ presuntouso"
+    },
+    {
+      "jp": "２人っ切り",
+      "lectura": "ふたりっきり",
+      "romaji": "futarikkiri",
+      "glosa": "(n) sólo dos de ellos"
+    },
+    {
+      "jp": "人知を超えた",
+      "lectura": "じんちをこえた",
+      "romaji": "jinchi wo koeta",
+      "glosa": "(exp) más allá de la comprensión humana"
+    },
+    {
+      "jp": "人の心を読む",
+      "lectura": "ひとのこころをよむ",
+      "romaji": "hitonokokoro wo yomu",
+      "glosa": "(exp) leer los pensamientos de una persona ◆ adivinar lo que una persona está pensando"
+    },
+    {
+      "jp": "一人前になる",
+      "lectura": "いちにんまえになる",
+      "romaji": "ichininmaeninaru",
+      "glosa": "(exp) llegar a la mayoría de edad ◆ volverse completamente calificado"
+    },
+    {
+      "jp": "益を与える人",
+      "lectura": "えきをあたえるひと",
+      "romaji": "eki wo ataeruhito",
+      "glosa": "(exp) benefactor"
+    },
+    {
+      "jp": "人当たりの良い",
+      "lectura": "ひとあたりのいい",
+      "romaji": "hitoatarinoī",
+      "glosa": "(adj-i) sociable"
+    },
+    {
+      "jp": "人当たりの良い",
+      "lectura": "ひとあたりのよい",
+      "romaji": "hitoatarinoyoi",
+      "glosa": "(adj-i) sociable"
+    },
+    {
+      "jp": "暗愚な人々",
+      "lectura": "あんぐなひとびと",
+      "romaji": "angunahitobito",
+      "glosa": "(n) almas oscuras (obscuras)"
+    },
+    {
+      "jp": "暗愚な人人",
+      "lectura": "あんぐなひとびと",
+      "romaji": "angunahitobito",
+      "glosa": "(n) almas oscuras (obscuras)"
+    },
+    {
+      "jp": "大人気無い",
+      "lectura": "おとなげない",
+      "romaji": "otonagenai",
+      "glosa": "(adj-i) imaduro ◆ infantil ◆ pueril"
+    },
+    {
+      "jp": "一角の人物",
+      "lectura": "ひとかどのじんぶつ",
+      "romaji": "hitokadonojinbutsu",
+      "glosa": "(n) alguien (importante) ◆ alguno"
+    },
+    {
+      "jp": "一角の人間",
+      "lectura": "ひとかどのにんげん",
+      "romaji": "hitokadononingen",
+      "glosa": "(n) alguien (importante) ◆ alguno"
+    },
+    {
+      "jp": "意志の強い人",
+      "lectura": "いしのつよいひと",
+      "romaji": "ishinotsuyoihito",
+      "glosa": "(n) hombre de mentalidad fuerte"
+    },
+    {
+      "jp": "一人悦に入る",
+      "lectura": "ひとりえつにいる",
+      "romaji": "hitorietsunīru",
+      "glosa": "(exp) estar contento con uno mismo"
+    },
+    {
+      "jp": "人生の真っ盛り",
+      "lectura": "いっしょうのまっさかり",
+      "romaji": "isshōnomassakari",
+      "glosa": "(n) en plenitud de la vida"
+    },
+    {
+      "jp": "位人臣を極める",
+      "lectura": "くらいじんしんをきわめる",
+      "romaji": "kuraijinshin wo kiwameru",
+      "glosa": "(exp) subir al rango más alto posible"
+    },
+    {
+      "jp": "エホバの証人",
+      "lectura": "エホバのしょうにん",
+      "romaji": "EHOBAnoshōnin",
+      "glosa": "(n) testigo de Jehová"
+    },
+    {
+      "jp": "女三人寄れば姦しい",
+      "lectura": "おんなさんにんよればかしましい",
+      "romaji": "onnasannin'yorebakashimashii",
+      "glosa": "(exp) dondequiera que las mujeres se reúnan hay ruido"
+    },
+    {
+      "jp": "婦人の地位を高める",
+      "lectura": "ふじんのちいをたかめる",
+      "romaji": "fujinnochī wo takameru",
+      "glosa": "(exp) subir la posición de las mujeres"
+    },
+    {
+      "jp": "委任状による代理人",
+      "lectura": "いにんじょうによるだいりにん",
+      "romaji": "ininjōniyorudairinin",
+      "glosa": "(n) abogado in facto"
+    },
+    {
+      "jp": "鞍上人なく鞍下馬なし",
+      "lectura": "あんじょうひとなくあんかうまなし",
+      "romaji": "anjōhitonakuankaumanashi",
+      "glosa": "(exp) (obsc) montar un caballo tan hábilmente que parece como si el hombre y el caballo se volvieron uno"
+    },
+    {
+      "jp": "鞍上人無く鞍下馬無し",
+      "lectura": "あんじょうひとなくあんかうまなし",
+      "romaji": "anjōhitonakuankaumanashi",
+      "glosa": "(exp) (obsc)montar un caballo tan hábilmente que parece como si el hombre y el caballo se volvieron uno"
+    },
+    {
+      "jp": "人間",
+      "lectura": "じんかん",
+      "romaji": "jinkan",
+      "glosa": "(n) (arch) el mundo"
+    },
+    {
+      "jp": "人絹",
+      "lectura": "じんけん",
+      "romaji": "jinken",
+      "glosa": "(n) rayón ◆ seda artificial"
+    },
+    {
+      "jp": "人皇",
+      "lectura": "じんこう",
+      "romaji": "jinkō",
+      "glosa": "(n) emperador"
+    },
+    {
+      "jp": "人才",
+      "lectura": "じんさい",
+      "romaji": "jinsai",
+      "glosa": "(n) persona con talento ◆ persona capaz"
+    },
+    {
+      "jp": "人材",
+      "lectura": "じんさい",
+      "romaji": "jinsai",
+      "glosa": "(n) persona con talento ◆ persona capaz"
+    },
+    {
+      "jp": "人才",
+      "lectura": "じんざい",
+      "romaji": "jinzai",
+      "glosa": "(n) persona con talento ◆ persona capaz"
+    },
+    {
+      "jp": "人鳥",
+      "lectura": "じんちょう",
+      "romaji": "jinchō",
+      "glosa": "(n) (obsc) pingüino"
+    },
+    {
+      "jp": "人皇",
+      "lectura": "じんのう",
+      "romaji": "jinnō",
+      "glosa": "(n) emperador"
+    },
+    {
+      "jp": "人魚",
+      "lectura": "にんぎょ",
+      "romaji": "ningyo",
+      "glosa": "(n) sirena ◆ tritón"
+    },
+    {
+      "jp": "人皇",
+      "lectura": "にんのう",
+      "romaji": "ninnō",
+      "glosa": "(n) emperador"
+    },
+    {
+      "jp": "人足",
+      "lectura": "ひとあし",
+      "romaji": "hitoashi",
+      "glosa": "(n) tráfico peatonal"
+    },
+    {
+      "jp": "人垣",
+      "lectura": "ひとがき",
+      "romaji": "hitogaki",
+      "glosa": "(n) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "人数",
+      "lectura": "ひとかず",
+      "romaji": "hitokazu",
+      "glosa": "(n) número de personas"
+    },
+    {
+      "jp": "人気",
+      "lectura": "ひとけ",
+      "romaji": "hitoke",
+      "glosa": "(n) señal de vida"
+    },
+    {
+      "jp": "人達",
+      "lectura": "ひとたち",
+      "romaji": "hitotachi",
+      "glosa": "(n) gente"
+    },
+    {
+      "jp": "人手",
+      "lectura": "ひとで",
+      "romaji": "hitode",
+      "glosa": "(n) (dar una) mano ◆ ayuda ◆ trabajadores ◆ estrella de mar"
+    },
+    {
+      "jp": "人山",
+      "lectura": "ひとやま",
+      "romaji": "hitoyama",
+      "glosa": "(n) multitud ◆ muchedumbre"
+    },
+    {
+      "jp": "他人",
+      "lectura": "あだびと",
+      "romaji": "adabito",
+      "glosa": "(n) otra persona ◆ persona ajena ◆ desconocido ◆ extraño ◆ forastero"
+    },
+    {
+      "jp": "海人",
+      "lectura": "あま",
+      "romaji": "ama",
+      "glosa": "(n) pescador"
+    },
+    {
+      "jp": "主人",
+      "lectura": "あるじ",
+      "romaji": "aruji",
+      "glosa": "(n) amo"
+    },
+    {
+      "jp": "異人",
+      "lectura": "いじん",
+      "romaji": "ijin",
+      "glosa": "(n) extranjero ◆ persona diferente"
+    },
+    {
+      "jp": "１人",
+      "lectura": "いちにん",
+      "romaji": "ichinin",
+      "glosa": "(n) (1) una persona"
+    },
+    {
+      "jp": "一人",
+      "lectura": "いちにん",
+      "romaji": "ichinin",
+      "glosa": "(n) (1) una persona"
+    },
+    {
+      "jp": "英人",
+      "lectura": "えいじん",
+      "romaji": "eijin",
+      "glosa": "(n) Bretón (persona inglesa)"
+    },
+    {
+      "jp": "厭人",
+      "lectura": "えんじん",
+      "romaji": "enjin",
+      "glosa": "(n) misantropía"
+    },
+    {
+      "jp": "猿人",
+      "lectura": "えんじん",
+      "romaji": "enjin",
+      "glosa": "(n) hombre mono"
+    },
+    {
+      "jp": "閹人",
+      "lectura": "えんじん",
+      "romaji": "enjin",
+      "glosa": "(n) eunuco"
+    },
+    {
+      "jp": "黄人",
+      "lectura": "おうじん",
+      "romaji": "ōjin",
+      "glosa": "(n) raza amarilla"
+    },
+    {
+      "jp": "岳人",
+      "lectura": "がくじん",
+      "romaji": "gakujin",
+      "glosa": "(n) alpinista ◆ montañés"
+    },
+    {
+      "jp": "楽人",
+      "lectura": "がくじん",
+      "romaji": "gakujin",
+      "glosa": "(n) músico (esp. Gagaku)"
+    },
+    {
+      "jp": "画人",
+      "lectura": "がじん",
+      "romaji": "gajin",
+      "glosa": "(n) pintor ◆ artista"
+    },
+    {
+      "jp": "韓人",
+      "lectura": "からびと",
+      "romaji": "karabito",
+      "glosa": "(n) Coreano (persona) (término elegante)"
+    },
+    {
+      "jp": "狩人",
+      "lectura": "かりうど",
+      "romaji": "kariudo",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "猟人",
+      "lectura": "かりうど",
+      "romaji": "kariudo",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "猟人",
+      "lectura": "かりゅうど",
+      "romaji": "karyūdo",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "狩人",
+      "lectura": "かりゅど",
+      "romaji": "karyudo",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "狂人",
+      "lectura": "きょうじん",
+      "romaji": "kyōjin",
+      "glosa": "(n) lunático ◆ loco"
+    },
+    {
+      "jp": "家人",
+      "lectura": "けにん",
+      "romaji": "kenin",
+      "glosa": "(n) criado"
+    },
+    {
+      "jp": "下人",
+      "lectura": "げにん",
+      "romaji": "genin",
+      "glosa": "(n) persona de bajo rango ◆ criado ◆ servil"
+    },
+    {
+      "jp": "獣人",
+      "lectura": "けものびと",
+      "romaji": "kemonobito",
+      "glosa": "(n) teriomorfismo (transformación completa o parcial de un ser humano en un animal)"
+    },
+    {
+      "jp": "小人",
+      "lectura": "こびと",
+      "romaji": "kobito",
+      "glosa": "(n) enano (persona)"
+    },
+    {
+      "jp": "死人",
+      "lectura": "しびと",
+      "romaji": "shibito",
+      "glosa": "(n) cadáver ◆ persona muerta"
+    },
+    {
+      "jp": "獣人",
+      "lectura": "じゅうじん",
+      "romaji": "jūjin",
+      "glosa": "(n) teriomorfismo (transformación completa o parcial de un ser humano en un animal)"
+    },
+    {
+      "jp": "常人",
+      "lectura": "じょうじん",
+      "romaji": "jōjin",
+      "glosa": "(n) persona normal y corriente"
+    },
+    {
+      "jp": "騒人",
+      "lectura": "そうじん",
+      "romaji": "sōjin",
+      "glosa": "(n) poeta"
+    },
+    {
+      "jp": "大人",
+      "lectura": "だいにん",
+      "romaji": "dainin",
+      "glosa": "(n) adulto"
+    },
+    {
+      "jp": "旅人",
+      "lectura": "たびにん",
+      "romaji": "tabinin",
+      "glosa": "(n) viajero"
+    },
+    {
+      "jp": "仲人",
+      "lectura": "ちゅうにん",
+      "romaji": "chūnin",
+      "glosa": "(n) casamentero ◆ casamentera"
+    },
+    {
+      "jp": "鉄人",
+      "lectura": "てつじん",
+      "romaji": "tetsujin",
+      "glosa": "(n) hombre fuerte"
+    },
+    {
+      "jp": "盗人",
+      "lectura": "とうじん",
+      "romaji": "tōjin",
+      "glosa": "(ok) (n) ladrón"
+    },
+    {
+      "jp": "科人",
+      "lectura": "とがにん",
+      "romaji": "toganin",
+      "glosa": "(iK) (n) infractor ◆ criminal"
+    },
+    {
+      "jp": "咎人",
+      "lectura": "とがにん",
+      "romaji": "toganin",
+      "glosa": "(n) delincuente ◆ criminal"
+    },
+    {
+      "jp": "二人",
+      "lectura": "ににん",
+      "romaji": "ninin",
+      "glosa": "(n) dos personas ◆ pareja ◆ dúo"
+    },
+    {
+      "jp": "女人",
+      "lectura": "にょにん",
+      "romaji": "nyonin",
+      "glosa": "(n) mujeres"
+    },
+    {
+      "jp": "盗人",
+      "lectura": "ぬすっと",
+      "romaji": "nusutto",
+      "glosa": "(n) ladrón"
+    },
+    {
+      "jp": "盗人",
+      "lectura": "ぬすと",
+      "romaji": "nusuto",
+      "glosa": "(ok) (n) ladrón"
+    },
+    {
+      "jp": "盗人",
+      "lectura": "ぬすびと",
+      "romaji": "nusubito",
+      "glosa": "(n) ladrón"
+    },
+    {
+      "jp": "夫人",
+      "lectura": "はしかし",
+      "romaji": "hashikashi",
+      "glosa": "(n) esposa ◆ señora"
+    },
+    {
+      "jp": "蛮人",
+      "lectura": "ばんじん",
+      "romaji": "banjin",
+      "glosa": "(n) bárbaro ◆ salvaje ◆ aborigen"
+    },
+    {
+      "jp": "為人",
+      "lectura": "ひととなり",
+      "romaji": "hitotonari",
+      "glosa": "(n) temperamento"
+    },
+    {
+      "jp": "１人",
+      "lectura": "ひとり",
+      "romaji": "hitori",
+      "glosa": "(n) (1) una persona ◆ (2) solo ◆ soltero ◆ solitario"
+    },
+    {
+      "jp": "万人",
+      "lectura": "まんにん",
+      "romaji": "mannin",
+      "glosa": "(n) lleno de gente ◆ toda la gente ◆ todos ◆ (2) diez mil personas"
+    },
+    {
+      "jp": "三人",
+      "lectura": "みたり",
+      "romaji": "mitari",
+      "glosa": "(n) tres personas ◆ trío"
+    },
+    {
+      "jp": "四人",
+      "lectura": "よたり",
+      "romaji": "yotari",
+      "glosa": "(n) cuatro personas"
+    },
+    {
+      "jp": "四人",
+      "lectura": "よったり",
+      "romaji": "yottari",
+      "glosa": "(n) cuatro personas"
+    },
+    {
+      "jp": "四人",
+      "lectura": "よにん",
+      "romaji": "yonin",
+      "glosa": "(n) cuatro personas"
+    },
+    {
+      "jp": "猟人",
+      "lectura": "りょうじん",
+      "romaji": "ryōjin",
+      "glosa": "(n) cazador"
+    },
+    {
+      "jp": "良人",
+      "lectura": "りょうじん",
+      "romaji": "ryōjin",
+      "glosa": "(n) esposo ◆ marido"
+    },
+    {
+      "jp": "旅人",
+      "lectura": "りょじん",
+      "romaji": "ryojin",
+      "glosa": "(n) viajero"
+    },
+    {
+      "jp": "麗人",
+      "lectura": "れいじん",
+      "romaji": "reijin",
+      "glosa": "(n) mujer hermosa ◆ preciosidad ◆ belleza"
+    },
+    {
+      "jp": "人体学",
+      "lectura": "じんたいがく",
+      "romaji": "jintaigaku",
+      "glosa": "(n) somatología"
+    },
+    {
+      "jp": "人鳥類",
+      "lectura": "じんちょうるい",
+      "romaji": "jinchōrui",
+      "glosa": "(n) (obsc) pingüino"
+    },
+    {
+      "jp": "人間界",
+      "lectura": "にんげんかい",
+      "romaji": "ningenkai",
+      "glosa": "(n) el mundo de los humanos"
+    },
+    {
+      "jp": "人間学",
+      "lectura": "にんげんがく",
+      "romaji": "ningengaku",
+      "glosa": "(n) antropología"
+    },
+    {
+      "jp": "人間型",
+      "lectura": "にんげんがた",
+      "romaji": "ningengata",
+      "glosa": "(n) humanoide"
+    },
+    {
+      "jp": "人間味",
+      "lectura": "にんげんみ",
+      "romaji": "ningenmi",
+      "glosa": "(n) bondad humana ◆ debilidad humana"
+    },
+    {
+      "jp": "人差指",
+      "lectura": "ひとさしゆび",
+      "romaji": "hitosashiyubi",
+      "glosa": "(n) dedo índice"
+    },
+    {
+      "jp": "兄者人",
+      "lectura": "あにじゃひと",
+      "romaji": "anijahito",
+      "glosa": "(n) (hon) hermano mayor"
+    },
+    {
+      "jp": "案内人",
+      "lectura": "あんないにん",
+      "romaji": "annainin",
+      "glosa": "(n) (un) guía (mapa)"
+    },
+    {
+      "jp": "異人館",
+      "lectura": "いじんかん",
+      "romaji": "ijinkan",
+      "glosa": "(n) antiguas residencias de los primeros extranjeros colonizadores"
+    },
+    {
+      "jp": "異人種",
+      "lectura": "いじんしゅ",
+      "romaji": "ijinshu",
+      "glosa": "(n) raza extratreterrestre (diferente) ◆ raza alienígena"
+    },
+    {
+      "jp": "異星人",
+      "lectura": "いせいじん",
+      "romaji": "iseijin",
+      "glosa": "(n) extraterrestre ◆ alienígeno ◆ alienígena ◆ alíen"
+    },
+    {
+      "jp": "一個人",
+      "lectura": "いちこじん",
+      "romaji": "ichikojin",
+      "glosa": "(n) soldado raso ◆ individual"
+    },
+    {
+      "jp": "一私人",
+      "lectura": "いちしじん",
+      "romaji": "ichishijin",
+      "glosa": "(n) un soldado"
+    },
+    {
+      "jp": "一人称",
+      "lectura": "いちにんしょう",
+      "romaji": "ichininshō",
+      "glosa": "(n) (ling) primera persona"
+    },
+    {
+      "jp": "一個人",
+      "lectura": "いっこじん",
+      "romaji": "ikkojin",
+      "glosa": "(n) soldado raso ◆ individual"
+    },
+    {
+      "jp": "一私人",
+      "lectura": "いっしじん",
+      "romaji": "isshijin",
+      "glosa": "(n) un soldado individual"
+    },
+    {
+      "jp": "一般人",
+      "lectura": "いっぱんじん",
+      "romaji": "ippanjin",
+      "glosa": "(n) una persona ordinaria"
+    },
+    {
+      "jp": "異邦人",
+      "lectura": "いほうじん",
+      "romaji": "ihōjin",
+      "glosa": "(n) extranjero ◆ extraño ◆ gentil"
+    },
+    {
+      "jp": "依頼人",
+      "lectura": "いらいじん",
+      "romaji": "iraijin",
+      "glosa": "(n) cliente"
+    },
+    {
+      "jp": "依頼人",
+      "lectura": "いらいにん",
+      "romaji": "irainin",
+      "glosa": "(n) cliente"
+    },
+    {
+      "jp": "印刷人",
+      "lectura": "いんさつにん",
+      "romaji": "insatsunin",
+      "glosa": "(n) impresor"
+    },
+    {
+      "jp": "印度人",
+      "lectura": "いんどじん",
+      "romaji": "indojin",
+      "glosa": "(n) Hindú ◆ Indio"
+    },
+    {
+      "jp": "宇宙人",
+      "lectura": "うちゅうじん",
+      "romaji": "uchūjin",
+      "glosa": "(n) extraterrestre ◆ marciano"
+    },
+    {
+      "jp": "英国人",
+      "lectura": "えいこくじん",
+      "romaji": "eikokujin",
+      "glosa": "(n) británico ◆ ingles (persona) ◆ inglés"
+    },
+    {
+      "jp": "英米人",
+      "lectura": "えいべいじん",
+      "romaji": "eibeijin",
+      "glosa": "(n) Ingleses y Estadounidenses"
+    },
+    {
+      "jp": "厭人者",
+      "lectura": "えんじんしゃ",
+      "romaji": "enjinsha",
+      "glosa": "(n) misántropo"
+    },
+    {
+      "jp": "欧米人",
+      "lectura": "おうべいじん",
+      "romaji": "ōbeijin",
+      "glosa": "(n) Europeos y Americanos ◆ Occidentales"
+    },
+    {
+      "jp": "大人共",
+      "lectura": "おとなども",
+      "romaji": "otonadomo",
+      "glosa": "(n) adultos"
+    },
+    {
+      "jp": "女主人",
+      "lectura": "おんなしゅじん",
+      "romaji": "onnashujin",
+      "glosa": "(n) señora (de la casa) ◆ propietaria ◆ dueña"
+    },
+    {
+      "jp": "火星人",
+      "lectura": "かせいじん",
+      "romaji": "kaseijin",
+      "glosa": "(n) marciano"
+    },
+    {
+      "jp": "韓国人",
+      "lectura": "かんこくじん",
+      "romaji": "kankokujin",
+      "glosa": "(n) Coreano ◆ Coreana"
+    },
+    {
+      "jp": "看護人",
+      "lectura": "かんごにん",
+      "romaji": "kangonin",
+      "glosa": "(n) enfermero"
+    },
+    {
+      "jp": "看病人",
+      "lectura": "かんびょうにん",
+      "romaji": "kanbyōnin",
+      "glosa": "(n) enfermero"
+    },
+    {
+      "jp": "管理人",
+      "lectura": "かんりにん",
+      "romaji": "kanrinin",
+      "glosa": "(n) mánager"
+    },
+    {
+      "jp": "貴婦人",
+      "lectura": "きふじん",
+      "romaji": "kifujin",
+      "glosa": "(n) dama"
+    },
+    {
+      "jp": "旧軍人",
+      "lectura": "きゅうぐんじん",
+      "romaji": "kyūgunjin",
+      "glosa": "(n) (n) ex-soldado"
+    },
+    {
+      "jp": "ケガ人",
+      "lectura": "ケガにん",
+      "romaji": "KEGAnin",
+      "glosa": "(n) persona herida ◆ persona lesionada"
+    },
+    {
+      "jp": "下手人",
+      "lectura": "げしゅにん",
+      "romaji": "geshunin",
+      "glosa": "(n) delincuente ◆ criminal"
+    },
+    {
+      "jp": "原始人",
+      "lectura": "げんしじん",
+      "romaji": "genshijin",
+      "glosa": "(n) hombre primitivo"
+    },
+    {
+      "jp": "後見人",
+      "lectura": "こうけんにん",
+      "romaji": "kōkennin",
+      "glosa": "(n) guardián"
+    },
+    {
+      "jp": "紅毛人",
+      "lectura": "こうもうじん",
+      "romaji": "kōmōjin",
+      "glosa": "(n) extranjero"
+    },
+    {
+      "jp": "御主人",
+      "lectura": "ごしゅじん",
+      "romaji": "goshujin",
+      "glosa": "(n) (hon) (su) marido ◆ (su) esposo"
+    },
+    {
+      "jp": "裁判人",
+      "lectura": "さいばんにん",
+      "romaji": "saibannin",
+      "glosa": "(n) juez"
+    },
+    {
+      "jp": "三国人",
+      "lectura": "さんこくじん",
+      "romaji": "sankokujin",
+      "glosa": "(n) (1) nacional de un tercer país ◆ (2) término derog. para extranjeros esp. chinos y coreanos ◆ residente en Japón"
+    },
+    {
+      "jp": "支那人",
+      "lectura": "しなじん",
+      "romaji": "shinajin",
+      "glosa": "(n) (sens) chino (persona)"
+    },
+    {
+      "jp": "主人公",
+      "lectura": "しゅじんこう",
+      "romaji": "shujinkō",
+      "glosa": "(n) (1) protagonista"
+    },
+    {
+      "jp": "全人生",
+      "lectura": "ぜんじんせい",
+      "romaji": "zenjinsei",
+      "glosa": "(n) toda la vida"
+    },
+    {
+      "jp": "台湾人",
+      "lectura": "たいわんじん",
+      "romaji": "taiwanjin",
+      "glosa": "(n) Taiwanés"
+    },
+    {
+      "jp": "調理人",
+      "lectura": "ちょうりにん",
+      "romaji": "chōrinin",
+      "glosa": "(n) chef"
+    },
+    {
+      "jp": "同居人",
+      "lectura": "どうきょにん",
+      "romaji": "dōkyonin",
+      "glosa": "(n) persona que vive con la familia"
+    },
+    {
+      "jp": "内外人",
+      "lectura": "ないがいじん",
+      "romaji": "naigaijin",
+      "glosa": "(n) nacionales y extranjeros"
+    },
+    {
+      "jp": "南蛮人",
+      "lectura": "なんばんじん",
+      "romaji": "nanbanjin",
+      "glosa": "(n) Nanbanjin ◆ los primeros europeos que llegaron a Japón (lit bárbaros del sur)"
+    },
+    {
+      "jp": "日本人",
+      "lectura": "にっぽんじん",
+      "romaji": "nipponjin",
+      "glosa": "(n) persona japonesa ◆ el pueblo japonés"
+    },
+    {
+      "jp": "二人組",
+      "lectura": "ににんぐみ",
+      "romaji": "niningumi",
+      "glosa": "(n) (1) pareja ◆ dúo"
+    },
+    {
+      "jp": "配膳人",
+      "lectura": "はいぜんにん",
+      "romaji": "haizennin",
+      "glosa": "(n) camarero ◆ (am) mesero"
+    },
+    {
+      "jp": "白人種",
+      "lectura": "はくじんしゅ",
+      "romaji": "hakujinshu",
+      "glosa": "(n) raza blanca"
+    },
+    {
+      "jp": "引受人",
+      "lectura": "ひきうけにん",
+      "romaji": "hikiukenin",
+      "glosa": "(n) garante"
+    },
+    {
+      "jp": "引取人",
+      "lectura": "ひきとりにん",
+      "romaji": "hikitorinin",
+      "glosa": "(n) guardián ◆ reclamador ◆ garante"
+    },
+    {
+      "jp": "一人子",
+      "lectura": "ひとりご",
+      "romaji": "hitorigo",
+      "glosa": "(n) un niño ◆ un sólo niño"
+    },
+    {
+      "jp": "一人言",
+      "lectura": "ひとりごと",
+      "romaji": "hitorigoto",
+      "glosa": "(n) soliloquio ◆ monólogo ◆ hablarse a uno miso"
+    },
+    {
+      "jp": "一人旅",
+      "lectura": "ひとりたび",
+      "romaji": "hitoritabi",
+      "glosa": "(n) viajar solo ◆ viaje solitario"
+    },
+    {
+      "jp": "一人子",
+      "lectura": "ひとりっこ",
+      "romaji": "hitorikko",
+      "glosa": "(n) un niño ◆ un sólo niño"
+    },
+    {
+      "jp": "一人寝",
+      "lectura": "ひとりね",
+      "romaji": "hitorine",
+      "glosa": "(n) dormir solo"
+    },
+    {
+      "jp": "一人腹",
+      "lectura": "ひとりばら",
+      "romaji": "hitoribara",
+      "glosa": "(n) dar algo por sentado ◆ conclusión precipitada"
+    },
+    {
+      "jp": "一人分",
+      "lectura": "ひとりぶん",
+      "romaji": "hitoribun",
+      "glosa": "(n) porción de una persona"
+    },
+    {
+      "jp": "一人前",
+      "lectura": "ひとりまえ",
+      "romaji": "hitorimae",
+      "glosa": "(n) (1) adulto ◆ completa hombría o femineidad ◆ (2) una ración ◆ una porción"
+    },
+    {
+      "jp": "一人者",
+      "lectura": "ひとりもの",
+      "romaji": "hitorimono",
+      "glosa": "(n) persona simple ◆ alguien solo"
+    },
+    {
+      "jp": "一人用",
+      "lectura": "ひとりよう",
+      "romaji": "hitoriyō",
+      "glosa": "(n) para usar por una persona"
+    },
+    {
+      "jp": "被虜人",
+      "lectura": "ひりょにん",
+      "romaji": "hiryonin",
+      "glosa": "(n) esclavo"
+    },
+    {
+      "jp": "婦人会",
+      "lectura": "ふじんかい",
+      "romaji": "fujinkai",
+      "glosa": "(n) grupo de mujeres o asociación"
+    },
+    {
+      "jp": "婦人靴",
+      "lectura": "ふじんくつ",
+      "romaji": "fujinkutsu",
+      "glosa": "(n) zapatos de mujer"
+    },
+    {
+      "jp": "婦人病",
+      "lectura": "ふじんびょう",
+      "romaji": "fujinbyō",
+      "glosa": "(n) decesos de mujeres"
+    },
+    {
+      "jp": "婦人服",
+      "lectura": "ふじんふく",
+      "romaji": "fujinfuku",
+      "glosa": "(n) ropa de mujeres"
+    },
+    {
+      "jp": "二人組",
+      "lectura": "ふたりぐみ",
+      "romaji": "futarigumi",
+      "glosa": "(n) (1) pareja ◆ dúo"
+    },
+    {
+      "jp": "二人共",
+      "lectura": "ふたりとも",
+      "romaji": "futaritomo",
+      "glosa": "(n) ambos (gente) ◆ los dos"
+    },
+    {
+      "jp": "二人分",
+      "lectura": "ふたりぶん",
+      "romaji": "futaribun",
+      "glosa": "(n) porción para dos personas"
+    },
+    {
+      "jp": "米国人",
+      "lectura": "べいこくじん",
+      "romaji": "beikokujin",
+      "glosa": "estadounidense ◆ americano ◆ (am) gringo"
+    },
+    {
+      "jp": "民間人",
+      "lectura": "みんかんじん",
+      "romaji": "minkanjin",
+      "glosa": "(n) persona no gubernamental ◆ civil"
+    },
+    {
+      "jp": "無人島",
+      "lectura": "むじんとう",
+      "romaji": "mujintō",
+      "glosa": "(n) isla despoblada"
+    },
+    {
+      "jp": "闇商人",
+      "lectura": "やみしょうにん",
+      "romaji": "yamishōnin",
+      "glosa": "(n) vendedor del mercado negro"
+    },
+    {
+      "jp": "有名人",
+      "lectura": "ゆうめいじん",
+      "romaji": "yūmeijin",
+      "glosa": "celebridad (persona famosa)"
+    },
+    {
+      "jp": "流浪人",
+      "lectura": "るろうにん",
+      "romaji": "rurōnin",
+      "glosa": "(n) vagabundo"
+    },
+    {
+      "jp": "浪人生",
+      "lectura": "ろうにんせい",
+      "romaji": "rōninsei",
+      "glosa": "(n) estudiante que suspendió el examen de ingreso"
+    },
+    {
+      "jp": "老婦人",
+      "lectura": "ろうふじん",
+      "romaji": "rōfujin",
+      "glosa": "(n) anciana"
+    },
+    {
+      "jp": "人員削減",
+      "lectura": "じんいんさくげん",
+      "romaji": "jin'insakugen",
+      "glosa": "(n) reducción de personal"
+    },
+    {
+      "jp": "人員縮少",
+      "lectura": "じんいんしゅくしょう",
+      "romaji": "jin'inshukushō",
+      "glosa": "(n) reducción de personal"
+    },
+    {
+      "jp": "人員淘汰",
+      "lectura": "じんいんとうた",
+      "romaji": "jin'intōta",
+      "glosa": "(n) reducción de personal"
+    },
+    {
+      "jp": "人権蹂躙",
+      "lectura": "じんけんじゅうりん",
+      "romaji": "jinkenjūrin",
+      "glosa": "(n) violación de los derechos humanos ◆ pisotear derechos humanos"
+    },
+    {
+      "jp": "人権侵害",
+      "lectura": "じんけんしんがい",
+      "romaji": "jinkenshingai",
+      "glosa": "(n) violación de los derechos humanos"
+    },
+    {
+      "jp": "人権宣言",
+      "lectura": "じんけんせんげん",
+      "romaji": "jinkensengen",
+      "glosa": "(n) (Revolución Francesa) Declaración de los Derechos del Hombre"
+    },
+    {
+      "jp": "人権団体",
+      "lectura": "じんけんだんたい",
+      "romaji": "jinkendantai",
+      "glosa": "(n) organización de los derechos humanos"
+    },
+    {
+      "jp": "人権問題",
+      "lectura": "じんけんもんだい",
+      "romaji": "jinkenmondai",
+      "glosa": "(n) asunto de derechos humanos"
+    },
+    {
+      "jp": "人口調査",
+      "lectura": "じんこうちょうさ",
+      "romaji": "jinkōchōsa",
+      "glosa": "(n) censo"
+    },
+    {
+      "jp": "人工透析",
+      "lectura": "じんこうとうせき",
+      "romaji": "jinkōtōseki",
+      "glosa": "(n) diálisis"
+    },
+    {
+      "jp": "人事不省",
+      "lectura": "じんじふせい",
+      "romaji": "jinjifusei",
+      "glosa": "(n) inconsciencia"
+    },
+    {
+      "jp": "人身売買",
+      "lectura": "じんしんばいばい",
+      "romaji": "jinshinbaibai",
+      "glosa": "(n) tráfico de esclavos ◆ trata de esclavos ◆ trata de blancas"
+    },
+    {
+      "jp": "人文主義",
+      "lectura": "じんぶんしゅぎ",
+      "romaji": "jinbunshugi",
+      "glosa": "(n) humanismo"
+    },
+    {
+      "jp": "人面獣心",
+      "lectura": "じんめんじゅうしん",
+      "romaji": "jinmenjūshin",
+      "glosa": "(n) bestia con forma humana"
+    },
+    {
+      "jp": "人面獣心",
+      "lectura": "にんめんじゅうしん",
+      "romaji": "ninmenjūshin",
+      "glosa": "(n) bestia con forma humana"
+    },
+    {
+      "jp": "愛人関係",
+      "lectura": "あいじんかんけい",
+      "romaji": "aijinkankei",
+      "glosa": "(n) ser amantes"
+    },
+    {
+      "jp": "悪人正機",
+      "lectura": "あくにんしょうき",
+      "romaji": "akuninshōki",
+      "glosa": "(exp) Las malas personas son el objeto directo de la salvación de Amida ◆ Las malas personas tienen una unica oportunidad de ir al cielo"
+    },
+    {
+      "jp": "姉様人形",
+      "lectura": "あねさまにんぎょう",
+      "romaji": "anesamaningyō",
+      "glosa": "(n) muñeca de papel hecho después de un kimono modelado por una mujer"
+    },
+    {
+      "jp": "一人会社",
+      "lectura": "いちにんかいしゃ",
+      "romaji": "ichininkaisha",
+      "glosa": "(n) compañía de un hombre"
+    },
+    {
+      "jp": "一人当千",
+      "lectura": "いちにんとうせん",
+      "romaji": "ichinintōsen",
+      "glosa": "(n) empezando una contienda por mil"
+    },
+    {
+      "jp": "一人当千",
+      "lectura": "いちにんとうぜん",
+      "romaji": "ichinintōzen",
+      "glosa": "(n) empezando una contienda por mil"
+    },
+    {
+      "jp": "一視同人",
+      "lectura": "いっしどうじん",
+      "romaji": "isshidōjin",
+      "glosa": "(n) amar a cada ser humano con impartialidad ◆ hermandad universal ◆ benevolencia universal"
+    },
+    {
+      "jp": "医療法人",
+      "lectura": "いりょうほうじん",
+      "romaji": "iryōhōjin",
+      "glosa": "(n) corporación médica"
+    },
+    {
+      "jp": "営利法人",
+      "lectura": "えいりほうじん",
+      "romaji": "eirihōjin",
+      "glosa": "(n) empresa comercial"
+    },
+    {
+      "jp": "縁日商人",
+      "lectura": "えんにちしょうにん",
+      "romaji": "ennichishōnin",
+      "glosa": "(n) vendedor de feria"
+    },
+    {
+      "jp": "黄色人種",
+      "lectura": "おうしょくじんしゅ",
+      "romaji": "ōshokujinshu",
+      "glosa": "(n) raza amarilla"
+    },
+    {
+      "jp": "義理人情",
+      "lectura": "ぎりにんじょう",
+      "romaji": "girininjō",
+      "glosa": "(n) deber y humanidad ◆ (sentido de) obligación moral y sentimientos humanos"
+    },
+    {
+      "jp": "恋人同士",
+      "lectura": "こいびとどうし",
+      "romaji": "koibitodōshi",
+      "glosa": "(n) pareja de amantes ◆ novios ◆ novio y novia"
+    },
+    {
+      "jp": "降格人事",
+      "lectura": "こうかくじんじ",
+      "romaji": "kōkakujinji",
+      "glosa": "(n) degradación"
+    },
+    {
+      "jp": "黒色人種",
+      "lectura": "こくしょくじんしゅ",
+      "romaji": "kokushokujinshu",
+      "glosa": "(n) raza negra"
+    },
+    {
+      "jp": "個人経営",
+      "lectura": "こじんけいえい",
+      "romaji": "kojinkeiei",
+      "glosa": "(n) gestión privada"
+    },
+    {
+      "jp": "個人情報",
+      "lectura": "こじんじょうほう",
+      "romaji": "kojinjōhō",
+      "glosa": "(n) información personal"
+    },
+    {
+      "jp": "殺人事件",
+      "lectura": "さつじんじけん",
+      "romaji": "satsujinjiken",
+      "glosa": "(n) (un) asesinato ◆ caso de asesinato"
+    },
+    {
+      "jp": "仕事人間",
+      "lectura": "しごとにんげん",
+      "romaji": "shigotoningen",
+      "glosa": "(n) adicto al trabajo"
+    },
+    {
+      "jp": "職業婦人",
+      "lectura": "しょくぎょうふじん",
+      "romaji": "shokugyōfujin",
+      "glosa": "(n) mujer de carrera"
+    },
+    {
+      "jp": "大学浪人",
+      "lectura": "だいがくろうにん",
+      "romaji": "daigakurōnin",
+      "glosa": "(n) estudiante que ha fallado para entrar a la universidad"
+    },
+    {
+      "jp": "対人関係",
+      "lectura": "たいじんかんけい",
+      "romaji": "taijinkankei",
+      "glosa": "(n) relaciones personales"
+    },
+    {
+      "jp": "中国人街",
+      "lectura": "ちゅうごくじんがい",
+      "romaji": "chūgokujingai",
+      "glosa": "(n) barrio chino"
+    },
+    {
+      "jp": "ドイツ人",
+      "lectura": "ドイツじん",
+      "romaji": "DOITSUjin",
+      "glosa": "(n) Alemán ◆ Alemana"
+    },
+    {
+      "jp": "登場人物",
+      "lectura": "とうじょうじんぶつ",
+      "romaji": "tōjōjinbutsu",
+      "glosa": "(n) (los) personajes (en una obra de teatro o una novela)"
+    },
+    {
+      "jp": "女人禁制",
+      "lectura": "にょにんきんせい",
+      "romaji": "nyoninkinsei",
+      "glosa": "(exp) prohibido a las mujeres"
+    },
+    {
+      "jp": "女人禁制",
+      "lectura": "にょにんきんぜい",
+      "romaji": "nyoninkinzei",
+      "glosa": "(n) no se admiten mujeres ◆ no se admiten mujeres santificar el suelo"
+    },
+    {
+      "jp": "女人結界",
+      "lectura": "にょにんけっかい",
+      "romaji": "nyoninkekkai",
+      "glosa": "(n) prohibición contra la mujeres de entrar a un área sagrada"
+    },
+    {
+      "jp": "白色人種",
+      "lectura": "はくしょくじんしゅ",
+      "romaji": "hakushokujinshu",
+      "glosa": "(n) caucasicos"
+    },
+    {
+      "jp": "一人合点",
+      "lectura": "ひとりがってん",
+      "romaji": "hitorigatten",
+      "glosa": "(n,vs) suposición precipitada ◆ conclusion precipitada"
+    },
+    {
+      "jp": "一人合点",
+      "lectura": "ひとりがてん",
+      "romaji": "hitorigaten",
+      "glosa": "(n,vs) suposición precipitada ◆ conclusion preciptada"
+    },
+    {
+      "jp": "一人稽古",
+      "lectura": "ひとりげいこ",
+      "romaji": "hitorigeiko",
+      "glosa": "(n) practicar por uno mismo ◆ instruirse"
+    },
+    {
+      "jp": "一人芝居",
+      "lectura": "ひとりしばい",
+      "romaji": "hitorishibai",
+      "glosa": "(n) espectáculo de un hombre ◆ show de un hombre"
+    },
+    {
+      "jp": "一人相撲",
+      "lectura": "ひとりずもう",
+      "romaji": "hitorizumō",
+      "glosa": "(exp) (1) pelear (inclinarse) contra el molino ◆ trabajar uno mismo casi pensando que no hay nada porque pelear ◆ (2) una persona sola imitando una lucha libre"
+    },
+    {
+      "jp": "一人天下",
+      "lectura": "ひとりてんか",
+      "romaji": "hitoritenka",
+      "glosa": "(n) ser el único maestro de la situación ◆ reinado supremo ◆ permanecer sin retos"
+    },
+    {
+      "jp": "一人天下",
+      "lectura": "ひとりでんか",
+      "romaji": "hitoridenka",
+      "glosa": "(n) ser el único maestro de la situación ◆ reinado supremo ◆ permanecer sin retos"
+    },
+    {
+      "jp": "一人天狗",
+      "lectura": "ひとりてんぐ",
+      "romaji": "hitoritengu",
+      "glosa": "(n) persona engreída ◆ una cabeza hinchada"
+    },
+    {
+      "jp": "一人一人",
+      "lectura": "ひとりびとり",
+      "romaji": "hitoribitori",
+      "glosa": "(n-t) uno por uno ◆ cada ◆ uno a la vez"
+    },
+    {
+      "jp": "一人舞台",
+      "lectura": "ひとりぶたい",
+      "romaji": "hitoributai",
+      "glosa": "(n) desempeñar solo ◆ tener el escenario para uno mismo ◆ eclipsando a los otros ◆ campo de actividad en el cual uno no tiene rival"
+    },
+    {
+      "jp": "一人二役",
+      "lectura": "ひとりふたやく",
+      "romaji": "hitorifutayaku",
+      "glosa": "(n) doble rol ◆ una persona jugando dos roles ◆ ponerse dos sombreros"
+    },
+    {
+      "jp": "一人部屋",
+      "lectura": "ひとりべや",
+      "romaji": "hitoribeya",
+      "glosa": "(n) habitación simple ◆ cuarto simple"
+    },
+    {
+      "jp": "婦人運動",
+      "lectura": "ふじんうんどう",
+      "romaji": "fujin'undō",
+      "glosa": "(n) movimiento de las mujeres"
+    },
+    {
+      "jp": "婦人科医",
+      "lectura": "ふじんかい",
+      "romaji": "fujinkai",
+      "glosa": "(n) ginecologista ◆ obstetra"
+    },
+    {
+      "jp": "婦人科学",
+      "lectura": "ふじんかがく",
+      "romaji": "fujinkagaku",
+      "glosa": "(n) ginecología"
+    },
+    {
+      "jp": "婦人警官",
+      "lectura": "ふじんけいかん",
+      "romaji": "fujinkeikan",
+      "glosa": "(n) (sens) mujer policía"
+    },
+    {
+      "jp": "婦人問題",
+      "lectura": "ふじんもんだい",
+      "romaji": "fujinmondai",
+      "glosa": "(n) asuntos de mujeres"
+    },
+    {
+      "jp": "北米土人",
+      "lectura": "ほくべいどじん",
+      "romaji": "hokubeidojin",
+      "glosa": "(n) Indio Americano ◆ Nativo Americano"
+    },
+    {
+      "jp": "ユダヤ人",
+      "lectura": "ユダヤじん",
+      "romaji": "YUDAYAjin",
+      "glosa": "(n) judío ◆ judía"
+    },
+    {
+      "jp": "連続殺人",
+      "lectura": "れんぞくさつじん",
+      "romaji": "renzokusatsujin",
+      "glosa": "(n) asesinatos en serie"
+    },
+    {
+      "jp": "人工避妊法",
+      "lectura": "じんこうひにんほう",
+      "romaji": "jinkōhininhō",
+      "glosa": "(n) anticoncepción"
+    },
+    {
+      "jp": "アメリカ人",
+      "lectura": "アメリカじん",
+      "romaji": "AMERIKAjin",
+      "glosa": "(n) Estadounidense"
+    },
+    {
+      "jp": "イギリス人",
+      "lectura": "イギリスじん",
+      "romaji": "IGIRISUjin",
+      "glosa": "(n) inglés (persona)"
+    },
+    {
+      "jp": "遺産管理人",
+      "lectura": "いさんかんりにん",
+      "romaji": "isankanrinin",
+      "glosa": "(n) administrador de una propiedad"
+    },
+    {
+      "jp": "遺産相続人",
+      "lectura": "いさんそうぞくにん",
+      "romaji": "isansōzokunin",
+      "glosa": "(n) heredero ◆ heredera"
+    },
+    {
+      "jp": "イタリア人",
+      "lectura": "イタリアじん",
+      "romaji": "ITARIAjin",
+      "glosa": "(n) italiano (persona)"
+    },
+    {
+      "jp": "委任代理人",
+      "lectura": "いにんだいりにん",
+      "romaji": "inindairinin",
+      "glosa": "(n) agente autorizado"
+    },
+    {
+      "jp": "基本的人権",
+      "lectura": "きほんてきじんけん",
+      "romaji": "kihontekijinken",
+      "glosa": "(n) derechos humanos fundamentales"
+    },
+    {
+      "jp": "個人的意見",
+      "lectura": "こじんてきいけん",
+      "romaji": "kojintekīken",
+      "glosa": "(n) opinión personal"
+    },
+    {
+      "jp": "産婦人科医",
+      "lectura": "さんふじんかい",
+      "romaji": "sanfujinkai",
+      "glosa": "(n) obstetricia y ginecólogo"
+    },
+    {
+      "jp": "スペイン人",
+      "lectura": "スペインじん",
+      "romaji": "SUPEINjin",
+      "glosa": "(n) Español ◆ Española"
+    },
+    {
+      "jp": "戦争犯罪人",
+      "lectura": "せんそうはんざいにん",
+      "romaji": "sensōhanzainin",
+      "glosa": "(n) criminal de guerra"
+    },
+    {
+      "jp": "対人恐怖症",
+      "lectura": "たいじんきょうふしょう",
+      "romaji": "taijinkyōfushō",
+      "glosa": "(n) antropofobia (miedo a la gente)"
+    },
+    {
+      "jp": "婦人警察官",
+      "lectura": "ふじんけいさつかん",
+      "romaji": "fujinkeisatsukan",
+      "glosa": "(n) (obs) mujer policía"
+    },
+    {
+      "jp": "婦人参政権",
+      "lectura": "ふじんさんせいけん",
+      "romaji": "fujinsanseiken",
+      "glosa": "(n) voto de las mujeres ◆ sufragio de las mujeres"
+    },
+    {
+      "jp": "メキシコ人",
+      "lectura": "メキシコじん",
+      "romaji": "MEKISHIKOjin",
+      "glosa": "(n) Mexicano ◆ Mexicana"
+    },
+    {
+      "jp": "人権保護団体",
+      "lectura": "じんけんほごだんたい",
+      "romaji": "jinkenhogodantai",
+      "glosa": "(n) organización de los derechos humanos"
+    },
+    {
+      "jp": "一人称代名詞",
+      "lectura": "いちにんしょうだいめいし",
+      "romaji": "ichininshōdaimeishi",
+      "glosa": "(n) (ling) pronombre en primera persona"
+    },
+    {
+      "jp": "永久選挙人名簿",
+      "lectura": "えいきゅうせんきょにんめいぼ",
+      "romaji": "eikyūsenkyoninmeibo",
+      "glosa": "(n) lista de registro de votantes permanente"
+    },
+    {
+      "jp": "ＡＩＨ人工授精",
+      "lectura": "はいぐうしゃかんじんこうじゅせい",
+      "romaji": "haigūshakanjinkōjusei",
+      "glosa": "(n) inseminación artificial por el esperma del esposo"
+    },
+    {
+      "jp": "ＡＩＤ人工授精",
+      "lectura": "ひはいぐうしゃかんじんこうじゅせい",
+      "romaji": "hihaigūshakanjinkōjusei",
+      "glosa": "(n) inseminación artificial por un donante"
+    },
+    {
+      "jp": "非配偶者間人工授精",
+      "lectura": "ひはいぐうしゃかんじんこうじゅせい",
+      "romaji": "hihaigūshakanjinkōjusei",
+      "glosa": "(n) inseminación artificial por un donante"
+    }
+  ]
+},
  {
   "kanji": "一",
   "tipo": "Kanji oficial de uso común",
@@ -8838,6 +11801,7 @@
   ]
 }
   ]
+
 
 
 
