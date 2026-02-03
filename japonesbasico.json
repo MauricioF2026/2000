@@ -1,5 +1,184 @@
  [
   {
+  "kanji": "夕",
+  "tipo": "Kanji oficial de uso común",
+  "lecturasOn": [
+    "セキ",
+    "SEKI"
+  ],
+  "lecturasKun": [
+    "ゆう",
+    "yū"
+  ],
+  "trazos": 3,
+  "radicalClasico": "夕",
+  "grado": "10k (1° año)",
+  "jlpt": "N5",
+  "frecuencia": 766,
+  "unicode": "5915",
+  "imgKanji": "",
+  "imgTrazos": "",
+  "tituloEs": "tarde, noche",
+  "palabras": [
+    {
+      "jp": "夕",
+      "lectura": "ゆう",
+      "romaji": "yū",
+      "glosa": "(n-adv,n-t) (1) tarde ◆ noche"
+    },
+    {
+      "jp": "夕",
+      "lectura": "ゆうべ",
+      "romaji": "yūbe",
+      "glosa": "(n-adv,n-t) (1) tarde ◆ noche ◆ (2) anoche"
+    },
+    {
+      "jp": "夕べ",
+      "lectura": "ゆうべ",
+      "romaji": "yūbe",
+      "glosa": "(n-adv,n-t) (1) tarde ◆ noche ◆ (2) anoche"
+    },
+    {
+      "jp": "夕暮れ",
+      "lectura": "ゆうぐれ",
+      "romaji": "yūgure",
+      "glosa": "(n-adv,n) crepúsculo ◆ atardecer"
+    },
+    {
+      "jp": "夕焼け",
+      "lectura": "ゆうやけ",
+      "romaji": "yūyake",
+      "glosa": "(n) puesta del sol ◆ ocaso"
+    },
+    {
+      "jp": "夕方",
+      "lectura": "ゆうがた",
+      "romaji": "yūgata",
+      "glosa": "(n-adv,n-t) tarde ◆ noche"
+    },
+    {
+      "jp": "夕刊",
+      "lectura": "ゆうかん",
+      "romaji": "yūkan",
+      "glosa": "(n) periódico de la tarde"
+    },
+    {
+      "jp": "夕霧",
+      "lectura": "ゆうぎり",
+      "romaji": "yūgiri",
+      "glosa": "(n) neblina vespertina"
+    },
+    {
+      "jp": "夕食",
+      "lectura": "ゆうしょく",
+      "romaji": "yūshoku",
+      "glosa": "(n) cena"
+    },
+    {
+      "jp": "夕立",
+      "lectura": "ゆうだち",
+      "romaji": "yūdachi",
+      "glosa": "(n) aguacero ◆ chubasco ◆ lluvia repentina de la tarde"
+    },
+    {
+      "jp": "夕飯",
+      "lectura": "ゆうはん",
+      "romaji": "yūhan",
+      "glosa": "(n) cena"
+    },
+    {
+      "jp": "夕日",
+      "lectura": "ゆうひ",
+      "romaji": "yūhi",
+      "glosa": "(n) en la puesta de sol ◆ en el crepúsculo"
+    },
+    {
+      "jp": "夕飯",
+      "lectura": "ゆうめし",
+      "romaji": "yūmeshi",
+      "glosa": "(n) cena"
+    },
+    {
+      "jp": "七夕",
+      "lectura": "たなばた",
+      "romaji": "tanabata",
+      "glosa": "tanabata (fiesta del 7 de julio) Palabras no comunes que incluyen este kanji:"
+    },
+    {
+      "jp": "夕",
+      "lectura": "しゃく",
+      "romaji": "shaku",
+      "glosa": "(n-adv,n-suf,n) atardecer"
+    },
+    {
+      "jp": "夕立ち",
+      "lectura": "ゆうだち",
+      "romaji": "yūdachi",
+      "glosa": "(io) chaparrón"
+    },
+    {
+      "jp": "朝な夕な",
+      "lectura": "あさなゆうな",
+      "romaji": "asanayūna",
+      "glosa": "(n-adv,n-t) mañana y tarde"
+    },
+    {
+      "jp": "夕暮れ族",
+      "lectura": "ゆうぐれぞく",
+      "romaji": "yūgurezoku",
+      "glosa": "(n) pareja de un hombre mayor y una joven"
+    },
+    {
+      "jp": "一朝一夕に",
+      "lectura": "いっちょういっせきに",
+      "romaji": "icchōissekini",
+      "glosa": "(adv) en un día ◆ en un breve intervalo"
+    },
+    {
+      "jp": "夕闇",
+      "lectura": "ゆうやみ",
+      "romaji": "yūyami",
+      "glosa": "(n) anochecer ◆ crepúsculo"
+    },
+    {
+      "jp": "一夕",
+      "lectura": "いっせき",
+      "romaji": "isseki",
+      "glosa": "(n-adv,n-t) una tarde ◆ algunas tardes"
+    },
+    {
+      "jp": "今夕",
+      "lectura": "こんせき",
+      "romaji": "konseki",
+      "glosa": "(n-adv,n-t) esta noche"
+    },
+    {
+      "jp": "今夕",
+      "lectura": "こんゆう",
+      "romaji": "kon'yū",
+      "glosa": "(n-adv,n-t) esta noche"
+    },
+    {
+      "jp": "毎夕",
+      "lectura": "まいゆう",
+      "romaji": "maiyū",
+      "glosa": "(n-adv,n-t) todas las noches"
+    },
+    {
+      "jp": "一夕話",
+      "lectura": "いっせきわ",
+      "romaji": "issekiwa",
+      "glosa": "(n) un cuento corto ◆ escritor de cuentos cortos"
+    },
+    {
+      "jp": "一朝一夕",
+      "lectura": "いっちょういっせき",
+      "romaji": "icchōisseki",
+      "glosa": "(n) en un día ◆ en un breve espacio de tiempo"
+    }
+  ]
+}
+  ,{
   "kanji": "山",
   "tipo": "Kanji oficial de uso común",
   "lecturasOn": [
@@ -23990,6 +24169,7 @@
   ]
 }
   ]
+
 
 
 
